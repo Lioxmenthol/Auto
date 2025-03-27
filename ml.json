@@ -286,5 +286,14 @@
     "key": "Franco-PZMof9Yp2s",
     "skin_name": "Apocalypse",
     "sort": "2"
+  },
+  "Franco-l8Urd3vhz7": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/franconightmare.zip",
+    "hero": "Franco",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero105-portrait.png/revision/latest?cb=20220525164526",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero105-portrait.png/revision/latest?cb=20220525164526",
+    "key": "Franco-l8Urd3vhz7",
+    "skin_name": "Wheatfield",
+    "sort": "3"
   }
 }
