@@ -124,5 +124,14 @@
     "key": "Odete-gR8TY9NeSg",
     "skin_name": "Swan Princess",
     "sort": "0"
+  },
+  "Odete-KmM68Z6GX9": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20ODDETE%20VIRGO%2016MAR.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest?cb=20230805043847",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest?cb=20230805043847",
+    "key": "Odete-KmM68Z6GX9",
+    "skin_name": "Virgo",
+    "sort": "1"
   }
 }
