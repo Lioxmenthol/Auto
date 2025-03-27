@@ -322,5 +322,14 @@
     "key": "Franco-rD9lZdACTD",
     "skin_name": "Valhalla Ruler",
     "sort": "6"
+  },
+  "Franco-wKaskHUHeD": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/francobonecrusher.zip",
+    "hero": "Franco",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero108-portrait.png/revision/latest?cb=20220525164529",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero108-portrait.png/revision/latest?cb=20220525164529",
+    "key": "Franco-wKaskHUHeD",
+    "skin_name": "Bone Crusher",
+    "sort": "7"
   }
 }
