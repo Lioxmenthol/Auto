@@ -70,5 +70,14 @@
     "key": "Wanwan-vrtZBgqzrr",
     "skin_name": "Teen Pop",
     "sort": "2"
+  },
+  "Wanwan-wDnn3je8Dt": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/wanwanComander.zip",
+    "hero": "Wanwan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest?cb=20220525170127",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest?cb=20220525170127",
+    "key": "Wanwan-wDnn3je8Dt",
+    "skin_name": "Shoujo C",
+    "sort": "3"
   }
 }
