@@ -331,5 +331,14 @@
     "key": "Franco-wKaskHUHeD",
     "skin_name": "Bone Crusher",
     "sort": "7"
+  },
+  "Franco-zLi0dp1ISL": {
+    "url": "https://github.com/lanz132/TANKK/raw/refs/heads/main/9.zip",
+    "hero": "Franco",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero109-portrait.png/revision/latest?cb=20221216103123",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero109-portrait.png/revision/latest?cb=20221216103123",
+    "key": "Franco-zLi0dp1ISL",
+    "skin_name": "King of Hell",
+    "sort": "1"
   }
 }
