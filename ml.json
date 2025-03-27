@@ -268,5 +268,14 @@
     "key": "Franco-iciChdxYgm",
     "skin_name": "Frozen Warrior",
     "sort": "0"
+  },
+  "Franco-zZFTLE1pVO": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/francolocomotive.zip",
+    "hero": "Franco",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero104-portrait.png/revision/latest?cb=20220525164525",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero104-portrait.png/revision/latest?cb=20220525164525",
+    "key": "Franco-zZFTLE1pVO",
+    "skin_name": "Locomotive",
+    "sort": "1"
   }
 }
