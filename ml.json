@@ -151,5 +151,14 @@
     "key": "Odete-WTgRUaQWB7",
     "skin_name": "Mermaid",
     "sort": "3"
+  },
+  "Odete-HPn4HP5sTG": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/OdetteChram.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest?cb=20220525165241",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest?cb=20220525165241",
+    "key": "Odete-HPn4HP5sTG",
+    "skin_name": "Auspicious",
+    "sort": "4"
   }
 }
