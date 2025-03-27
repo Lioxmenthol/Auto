@@ -133,5 +133,14 @@
     "key": "Odete-KmM68Z6GX9",
     "skin_name": "Virgo",
     "sort": "1"
+  },
+  "Odete-Zk3GY63B9g": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/OdetteCarnival.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero463-portrait.png/revision/latest?cb=20220525165237",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero463-portrait.png/revision/latest?cb=20220525165237",
+    "key": "Odete-Zk3GY63B9g",
+    "skin_name": "Christmas",
+    "sort": "2"
   }
 }
