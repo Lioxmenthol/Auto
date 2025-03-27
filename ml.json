@@ -52,5 +52,14 @@
     "key": "Wanwan-uzZ1CMaaOs",
     "skin_name": "Backup",
     "sort": "0"
+  },
+  "Wanwan-4dvHIO5QtO": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/wanwanStar.zip",
+    "hero": "Wanwan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero892-portrait.png/revision/latest?cb=20220525170126",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero892-portrait.png/revision/latest?cb=20220525170126",
+    "key": "Wanwan-4dvHIO5QtO",
+    "skin_name": "Darting Star",
+    "sort": "1"
   }
 }
