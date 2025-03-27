@@ -214,5 +214,14 @@
     "key": "Parsha-JLN3lunK9i",
     "skin_name": "Indigo Aviatrix",
     "sort": "3"
+  },
+  "Parsha-5ZgzW9vMo2": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/PharsaMuse.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero527-portrait.png/revision/latest?cb=20220525165346",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero527-portrait.png/revision/latest?cb=20220525165346",
+    "key": "Parsha-5ZgzW9vMo2",
+    "skin_name": "Samba Muse",
+    "sort": "4"
   }
 }
