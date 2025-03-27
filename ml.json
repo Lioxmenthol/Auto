@@ -160,5 +160,14 @@
     "key": "Odete-HPn4HP5sTG",
     "skin_name": "Auspicious",
     "sort": "4"
+  },
+  "Odete-gv3bNdvRkE": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/OdetteCurrents.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest?cb=20230514163407",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero468-portrait.png/revision/latest?cb=20230514163407",
+    "key": "Odete-gv3bNdvRkE",
+    "skin_name": "Sage of the C",
+    "sort": "5"
   }
 }
