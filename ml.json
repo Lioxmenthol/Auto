@@ -223,5 +223,14 @@
     "key": "Parsha-5ZgzW9vMo2",
     "skin_name": "Samba Muse",
     "sort": "4"
+  },
+  "Parsha-5vVGlda2o7": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/PharsaBloom.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+    "key": "Parsha-5vVGlda2o7",
+    "skin_name": "Peony Bloom",
+    "sort": "5"
   }
 }
