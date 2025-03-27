@@ -142,5 +142,14 @@
     "key": "Odete-Zk3GY63B9g",
     "skin_name": "Christmas",
     "sort": "2"
+  },
+  "Odete-WTgRUaQWB7": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/OdetteMermaidPrincess.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest?cb=20220525165238",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest?cb=20220525165238",
+    "key": "Odete-WTgRUaQWB7",
+    "skin_name": "Mermaid",
+    "sort": "3"
   }
 }
