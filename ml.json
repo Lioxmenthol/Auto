@@ -232,5 +232,14 @@
     "key": "Parsha-5vVGlda2o7",
     "skin_name": "Peony Bloom",
     "sort": "5"
+  },
+  "Parsha-1nnzl6wyrI": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/PharsaHierophant.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+    "key": "Parsha-1nnzl6wyrI",
+    "skin_name": "Hierophant",
+    "sort": "1"
   }
 }
