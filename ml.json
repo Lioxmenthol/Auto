@@ -115,5 +115,14 @@
     "key": "Wanwan-yfmSIsXEFy",
     "skin_name": "Flying Swallow",
     "sort": "1"
+  },
+  "Odete-gR8TY9NeSg": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/OdettePrenciss.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20220525165233",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20220525165233",
+    "key": "Odete-gR8TY9NeSg",
+    "skin_name": "Swan Princess",
+    "sort": "0"
   }
 }
