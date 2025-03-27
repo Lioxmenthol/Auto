@@ -88,5 +88,14 @@
     "key": "Wanwan-MkSIFXOlB3",
     "skin_name": "Pixel Blast",
     "sort": "1"
+  },
+  "Wanwan-SqjDA1W30R": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/wanwangirl.zip",
+    "hero": "Wanwan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero896-portrait.png/revision/latest?cb=20220525170131",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero896-portrait.png/revision/latest?cb=20220525170131",
+    "key": "Wanwan-SqjDA1W30R",
+    "skin_name": "E-girl",
+    "sort": "2"
   }
 }
