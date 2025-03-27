@@ -187,5 +187,14 @@
     "key": "Parsha-qwnpUl98bb",
     "skin_name": "Wings of V",
     "sort": "0"
+  },
+  "Parsha-bywAykk9JX": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/PharsaDance.zip",
+    "hero": "Parsha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero523-portrait.png/revision/latest?cb=20220525165342",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero523-portrait.png/revision/latest?cb=20220525165342",
+    "key": "Parsha-bywAykk9JX",
+    "skin_name": "Peafowl's D",
+    "sort": "1"
   }
 }
