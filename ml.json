@@ -79,5 +79,14 @@
     "key": "Wanwan-wDnn3je8Dt",
     "skin_name": "Shoujo C",
     "sort": "3"
+  },
+  "Wanwan-MkSIFXOlB3": {
+    "url": "https://github.com/Lioxmenthol/SC-MARKSMAN-2025/raw/refs/heads/main/UPDATE%20WANWAN%20PIXEL%20BLAST%2027MAR.zip",
+    "hero": "Wanwan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest?cb=20220525170129",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest?cb=20220525170129",
+    "key": "Wanwan-MkSIFXOlB3",
+    "skin_name": "Pixel Blast",
+    "sort": "1"
   }
 }
