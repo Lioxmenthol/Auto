@@ -169,5 +169,14 @@
     "key": "Odete-gv3bNdvRkE",
     "skin_name": "Sage of the C",
     "sort": "5"
+  },
+  "Odete-sdtTSAmmGF": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20ODETTE%20WISDOM%2027MAR.zip",
+    "hero": "Odete",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero469-portrait.png/revision/latest?cb=20240815144026",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero469-portrait.png/revision/latest?cb=20240815144026",
+    "key": "Odete-sdtTSAmmGF",
+    "skin_name": "Wisdom",
+    "sort": "6"
   }
 }
