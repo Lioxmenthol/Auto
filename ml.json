@@ -295,5 +295,14 @@
     "key": "Franco-l8Urd3vhz7",
     "skin_name": "Wheatfield",
     "sort": "3"
+  },
+  "Franco-0wn02UvAxI": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/francomasterchief.zip",
+    "hero": "Franco",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero102-portrait.png/revision/latest?cb=20220525164523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero102-portrait.png/revision/latest?cb=20220525164523",
+    "key": "Franco-0wn02UvAxI",
+    "skin_name": "Masterchef",
+    "sort": "4"
   }
 }
