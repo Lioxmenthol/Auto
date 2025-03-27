@@ -250,5 +250,14 @@
     "key": "Parsha-7zDexR0CcN",
     "skin_name": "Neon Shingetsu",
     "sort": "2"
+  },
+  "Parsha-QJF500X5vI": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20PHARSA%20NEOBEAST%2021MAR.zip",
+    "hero": "Parsha",
+    "img": "https://i.ibb.co.com/20YWRwMw/1742512437955.jpg",
+    "img2": "https://i.ibb.co.com/20YWRwMw/1742512437955.jpg",
+    "key": "Parsha-QJF500X5vI",
+    "skin_name": "Neobeast",
+    "sort": "3"
   }
 }
