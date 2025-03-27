@@ -277,5 +277,14 @@
     "key": "Franco-zZFTLE1pVO",
     "skin_name": "Locomotive",
     "sort": "1"
+  },
+  "Franco-PZMof9Yp2s": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/francoapocalypse.zip",
+    "hero": "Franco",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero103-portrait.png/revision/latest?cb=20220525164524",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero103-portrait.png/revision/latest?cb=20220525164524",
+    "key": "Franco-PZMof9Yp2s",
+    "skin_name": "Apocalypse",
+    "sort": "2"
   }
 }
