@@ -43,5 +43,14 @@
     "key": "Brody-V7ZZphmMg4",
     "skin_name": "Collector",
     "sort": "1"
+  },
+  "Wanwan-uzZ1CMaaOs": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/wanwanTiger.zip",
+    "hero": "Wanwan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero891-portrait.png/revision/latest?cb=20220525171214",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero891-portrait.png/revision/latest?cb=20220525171214",
+    "key": "Wanwan-uzZ1CMaaOs",
+    "skin_name": "Backup",
+    "sort": "0"
   }
 }
