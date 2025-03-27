@@ -97,5 +97,14 @@
     "key": "Wanwan-SqjDA1W30R",
     "skin_name": "E-girl",
     "sort": "2"
+  },
+  "Wanwan-J99fSBMKLg": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/wanwanWorld.zip",
+    "hero": "Wanwan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest?cb=20220525170132",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest?cb=20220525170132",
+    "key": "Wanwan-J99fSBMKLg",
+    "skin_name": "M-World",
+    "sort": "3"
   }
 }
