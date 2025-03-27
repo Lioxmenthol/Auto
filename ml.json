@@ -61,5 +61,14 @@
     "key": "Wanwan-4dvHIO5QtO",
     "skin_name": "Darting Star",
     "sort": "1"
+  },
+  "Wanwan-vrtZBgqzrr": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/wanwanTreenpop.zip",
+    "hero": "Wanwan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest?cb=20220525170128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest?cb=20220525170128",
+    "key": "Wanwan-vrtZBgqzrr",
+    "skin_name": "Teen Pop",
+    "sort": "2"
   }
 }
