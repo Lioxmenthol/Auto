@@ -241,5 +241,14 @@
     "key": "Parsha-1nnzl6wyrI",
     "skin_name": "Hierophant",
     "sort": "1"
+  },
+  "Parsha-7zDexR0CcN": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20PHARSA%20NEON%20SHINGETSU%2027MAR.zip",
+    "hero": "Parsha",
+    "img": "https://github.com/lanz132/Img/raw/main/pharsa.png",
+    "img2": "https://github.com/lanz132/Img/raw/main/pharsa.png",
+    "key": "Parsha-7zDexR0CcN",
+    "skin_name": "Neon Shingetsu",
+    "sort": "2"
   }
 }
