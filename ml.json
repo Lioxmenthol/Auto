@@ -394,5 +394,14 @@
     "key": "Chou-wbnFmbJ2jv",
     "skin_name": "Naruto",
     "sort": "1"
+  },
+  "Aurora-v6txHRDpHS": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/AuroraOracle.zip",
+    "hero": "Aurora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png/revision/latest?cb=20240131102638",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png/revision/latest?cb=20240131102638",
+    "key": "Aurora-v6txHRDpHS",
+    "skin_name": "Frost Oracle",
+    "sort": "1"
   }
 }
