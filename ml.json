@@ -475,5 +475,14 @@
     "key": "Nana-EbROtjo9oP",
     "skin_name": "Mistbenders",
     "sort": "2"
+  },
+  "Angela-ZBdIQ1CSdJ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/angelaori.zip",
+    "hero": "Angela",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero551-portrait.png/revision/latest?cb=20220525165419",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero551-portrait.png/revision/latest?cb=20220525165419",
+    "key": "Angela-ZBdIQ1CSdJ",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
