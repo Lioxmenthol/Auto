@@ -1393,5 +1393,14 @@
     "key": "Alucard-Qpv4A8MmJF",
     "skin_name": "Viscount",
     "sort": "2"
+  },
+  "Alucard-xYFcwERjo9": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/alucardvalentine.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero076-portrait.png/revision/latest?cb=20220525164441",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero076-portrait.png/revision/latest?cb=20220525164441",
+    "key": "Alucard-xYFcwERjo9",
+    "skin_name": "Valentine",
+    "sort": "3"
   }
 }
