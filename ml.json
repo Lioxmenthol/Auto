@@ -970,5 +970,14 @@
     "key": "Suyou-nT9McI1TP4",
     "skin_name": "Sasuke",
     "sort": "1"
+  },
+  "Lukas-9tQjG8P0ZS": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20LUKAS%20ORI%2020JAN.zip",
+    "hero": "Lukas",
+    "img": "https://i.ibb.co.com/rvpGsRy/Hero1271-portrait.png",
+    "img2": "https://i.ibb.co.com/rvpGsRy/Hero1271-portrait.png",
+    "key": "Lukas-9tQjG8P0ZS",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
