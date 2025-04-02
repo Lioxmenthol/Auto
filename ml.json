@@ -754,5 +754,14 @@
     "key": "Kaja-PqtFszSj4y",
     "skin_name": "Horror W",
     "sort": "2"
+  },
+  "Kaja-7Ptpg3GDeh": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/kajaepic2.zip",
+    "hero": "Kaja",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Skyblocker.jpg/revision/latest/scale-to-width-down/250?cb=20211207065208",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Skyblocker.jpg/revision/latest/scale-to-width-down/250?cb=20211207065208",
+    "key": "Kaja-7Ptpg3GDeh",
+    "skin_name": "Skyblocker",
+    "sort": "3"
   }
 }
