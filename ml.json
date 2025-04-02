@@ -1024,5 +1024,14 @@
     "key": "Novaria-btjmXRAB7O",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Novaria-hOeC4OfSIO": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/novariastar.zip",
+    "hero": "Novaria",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/novaria91.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/novaria91.jpg",
+    "key": "Novaria-hOeC4OfSIO",
+    "skin_name": "Sugar Glaze",
+    "sort": "1"
   }
 }
