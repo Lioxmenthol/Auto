@@ -421,5 +421,14 @@
     "key": "Nana-FZudEoGhW6",
     "skin_name": "Slumber Party",
     "sort": "1"
+  },
+  "Nana-S5mkZcmDhr": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/3.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero057-portrait.png/revision/latest?cb=20220525164409",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero057-portrait.png/revision/latest?cb=20220525164409",
+    "key": "Nana-S5mkZcmDhr",
+    "skin_name": "Sundress",
+    "sort": "2"
   }
 }
