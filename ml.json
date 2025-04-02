@@ -1114,5 +1114,14 @@
     "key": "Aamon-Gk7tJaFMkb",
     "skin_name": "Vessel of Deceit",
     "sort": "4"
+  },
+  "Akai-BW26XQrrfb": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/akaiori.zip",
+    "hero": "Akai",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20220525164504",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20220525164504",
+    "key": "Akai-BW26XQrrfb",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
