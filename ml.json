@@ -1177,5 +1177,14 @@
     "key": "Akai-AAlYJE4Hv9",
     "skin_name": "Kungfu Panda",
     "sort": "1"
+  },
+  "Akai-9buAbccgkw": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/akaipumpkin%20brawl.zip",
+    "hero": "Akai",
+    "img": "https://github.com/lanz132/Img/raw/main/akai.jpg",
+    "img2": "https://github.com/lanz132/Img/raw/main/akai.jpg",
+    "key": "Akai-9buAbccgkw",
+    "skin_name": "Pumpkin Brawler",
+    "sort": "2"
   }
 }
