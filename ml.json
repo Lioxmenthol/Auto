@@ -934,5 +934,14 @@
     "key": "Floryn-b8KicFs8V3",
     "skin_name": "Fluffy Dream",
     "sort": "2"
+  },
+  "Floryn-KjTdwcQElH": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/florynsummer.zip",
+    "hero": "Floryn",
+    "img": "https://github.com/Hiro161123/Mage/raw/main/Floryn%20summer.png",
+    "img2": "https://github.com/Hiro161123/Mage/raw/main/Floryn%20summer.png",
+    "key": "Floryn-KjTdwcQElH",
+    "skin_name": "Summer",
+    "sort": "3"
   }
 }
