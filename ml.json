@@ -628,5 +628,14 @@
     "key": "Estes-UEm5niw1pq",
     "skin_name": "Crow Bishop",
     "sort": "1"
+  },
+  "Estes-S7Njs14IWM": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/estesepic.zip",
+    "hero": "Estes",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero343-portrait.png/revision/latest?cb=20230212041009",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero343-portrait.png/revision/latest?cb=20230212041009",
+    "key": "Estes-S7Njs14IWM",
+    "skin_name": "Galaxy D",
+    "sort": "2"
   }
 }
