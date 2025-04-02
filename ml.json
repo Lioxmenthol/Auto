@@ -943,5 +943,14 @@
     "key": "Floryn-KjTdwcQElH",
     "skin_name": "Summer",
     "sort": "3"
+  },
+  "Floryn-qKOv9iQJkO": {
+    "url": "https://github.com/Lioxmenthol/SC-SUPPORT-2025/raw/refs/heads/main/UPDATE%20FLORYN%20CC%2020FEB.zip",
+    "hero": "Floryn",
+    "img": "https://i.ibb.co.com/8rpvCss/Screenshot-20250110-201749.jpg",
+    "img2": "https://i.ibb.co.com/8rpvCss/Screenshot-20250110-201749.jpg",
+    "key": "Floryn-qKOv9iQJkO",
+    "skin_name": "Melody of L",
+    "sort": "4"
   }
 }
