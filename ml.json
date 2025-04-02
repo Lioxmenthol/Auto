@@ -457,5 +457,14 @@
     "key": "Nana-dF2Hqb7wFI",
     "skin_name": "Aqua Pura",
     "sort": "5"
+  },
+  "Nana-DrQ0hPJTY5": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/7.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero059-portrait.png/revision/latest?cb=20220628175952",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero059-portrait.png/revision/latest?cb=20220628175952",
+    "key": "Nana-DrQ0hPJTY5",
+    "skin_name": "Cyclone Clash",
+    "sort": "1"
   }
 }
