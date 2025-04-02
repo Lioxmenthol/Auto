@@ -1429,5 +1429,14 @@
     "key": "Alucard-lsea90gZWF",
     "skin_name": "Obsidian Blade",
     "sort": "6"
+  },
+  "Alucard-AOvkRWZwLu": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ALU%20STARWARS%201FEB.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest?cb=20220802034527",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest?cb=20220802034527",
+    "key": "Alucard-AOvkRWZwLu",
+    "skin_name": "Starwars",
+    "sort": "7"
   }
 }
