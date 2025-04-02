@@ -403,5 +403,14 @@
     "key": "Aurora-w65z2Ybai6",
     "skin_name": "Backup",
     "sort": "0"
+  },
+  "Nana-qduJ2fui6v": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/1.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero051-portrait.png/revision/latest?cb=20220525164353",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero051-portrait.png/revision/latest?cb=20220525164353",
+    "key": "Nana-qduJ2fui6v",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
