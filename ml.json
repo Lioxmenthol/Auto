@@ -988,5 +988,14 @@
     "key": "Lukas-tY7fhJpy1W",
     "skin_name": "Naruto",
     "sort": "1"
+  },
+  "Zhuxin-TfQnN3a3kb": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/Zhuxinori.zip",
+    "hero": "Zhuxin",
+    "img": "https://i.ibb.co.com/BVvWhC4L/1743572985653.jpg",
+    "img2": "https://i.ibb.co.com/BVvWhC4L/1743572985653.jpg",
+    "key": "Zhuxin-TfQnN3a3kb",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
