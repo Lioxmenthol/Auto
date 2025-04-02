@@ -655,5 +655,14 @@
     "key": "Estes-95QMq12O8D",
     "skin_name": "Blacklist",
     "sort": "4"
+  },
+  "Estes-iqpkFNGf56": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/estessparkle.zip",
+    "hero": "Estes",
+    "img": "https://raw.githubusercontent.com/Hiro161123/Mage/main/Estes%20sparkle.png",
+    "img2": "https://raw.githubusercontent.com/Hiro161123/Mage/main/Estes%20sparkle.png",
+    "key": "Estes-iqpkFNGf56",
+    "skin_name": "Sparkle",
+    "sort": "5"
   }
 }
