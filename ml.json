@@ -1366,5 +1366,14 @@
     "key": "Alpha-CMSICrXQ3l",
     "skin_name": "Legend",
     "sort": "7"
+  },
+  "Alucard-oDxoHUKfTH": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/alucardori.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20220525164426",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20220525164426",
+    "key": "Alucard-oDxoHUKfTH",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
