@@ -1420,5 +1420,14 @@
     "key": "Alucard-U2iCln7NPH",
     "skin_name": "Lightborn",
     "sort": "5"
+  },
+  "Alucard-lsea90gZWF": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ALU%20LEGEND%2023JAN.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb=20220525164442",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb=20220525164442",
+    "key": "Alucard-lsea90gZWF",
+    "skin_name": "Obsidian Blade",
+    "sort": "6"
   }
 }
