@@ -1285,5 +1285,14 @@
     "key": "Alice-EUy2olIjIy",
     "skin_name": "Steam Glidere",
     "sort": "4"
+  },
+  "Alice-XPDgXAHb58": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/AliceTemptress.zip",
+    "hero": "Alice",
+    "img": "https://github.com/Hiro161123/Mage/raw/main/Alice%20epic.png",
+    "img2": "https://github.com/Hiro161123/Mage/raw/main/Alice%20epic.png",
+    "key": "Alice-XPDgXAHb58",
+    "skin_name": "Darknet Temp",
+    "sort": "5"
   }
 }
