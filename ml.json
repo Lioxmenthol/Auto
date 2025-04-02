@@ -439,5 +439,14 @@
     "key": "Nana-oSfSELzT2x",
     "skin_name": "Wind Fairy",
     "sort": "3"
+  },
+  "Nana-FSmlm1OrHA": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/5.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero056-portrait.png/revision/latest?cb=20220525164408",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero056-portrait.png/revision/latest?cb=20220525164408",
+    "key": "Nana-FSmlm1OrHA",
+    "skin_name": "Mecha Baby",
+    "sort": "4"
   }
 }
