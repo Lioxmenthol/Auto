@@ -1249,5 +1249,14 @@
     "key": "Alice-4LlNLENG8Q",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Alice-LRtxHU7Y5G": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/AliceDivineOwl.zip",
+    "hero": "Alice",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero044-portrait.png/revision/latest?cb=20220525164350",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero044-portrait.png/revision/latest?cb=20220525164350",
+    "key": "Alice-LRtxHU7Y5G",
+    "skin_name": "Divine Owl",
+    "sort": "1"
   }
 }
