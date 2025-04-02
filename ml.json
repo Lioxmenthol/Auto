@@ -1240,5 +1240,14 @@
     "key": "Aldous-zGGXrVYgw7",
     "skin_name": "Exorcist",
     "sort": "6"
+  },
+  "Alice-4LlNLENG8Q": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/AliceBlood.zip",
+    "hero": "Alice",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20220525164338",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20220525164338",
+    "key": "Alice-4LlNLENG8Q",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
