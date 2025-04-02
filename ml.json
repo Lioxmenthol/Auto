@@ -1204,5 +1204,14 @@
     "key": "Aldous-O2g2bEPPUX",
     "skin_name": "Blazing Force",
     "sort": "2"
+  },
+  "Aldous-U17AFq0Btt": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/aldousrealmwatcher.zip",
+    "hero": "Aldous",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest?cb=20220525165624",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest?cb=20220525165624",
+    "key": "Aldous-U17AFq0Btt",
+    "skin_name": "Realm Watcher",
+    "sort": "3"
   }
 }
