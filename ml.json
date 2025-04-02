@@ -1015,5 +1015,14 @@
     "key": "Zhuxin-UjCcxRQi1K",
     "skin_name": "Emberwisp",
     "sort": "2"
+  },
+  "Novaria-btjmXRAB7O": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/novariaori.zip",
+    "hero": "Novaria",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20230224151429",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20230224151429",
+    "key": "Novaria-btjmXRAB7O",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
