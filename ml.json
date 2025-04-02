@@ -997,5 +997,14 @@
     "key": "Zhuxin-TfQnN3a3kb",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Zhuxin-c91gWBWAac": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ZhuxinBasic.zip",
+    "hero": "Zhuxin",
+    "img": "https://i.ibb.co.com/LP9wPJZ/fb8a374f7c46e282c3932f83ed4aef79.jpg",
+    "img2": "https://i.ibb.co.com/LP9wPJZ/fb8a374f7c46e282c3932f83ed4aef79.jpg",
+    "key": "Zhuxin-c91gWBWAac",
+    "skin_name": "Ethereal Serenity",
+    "sort": "1"
   }
 }
