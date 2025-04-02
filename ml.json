@@ -1060,5 +1060,14 @@
     "key": "Xavier-F5N7fID0r0",
     "skin_name": "Satoru Gojo",
     "sort": "2"
+  },
+  "Xavier-5rtkGwAxwi": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/xavierclouds.zip",
+    "hero": "Xavier",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest?cb=20230805043928",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest?cb=20230805043928",
+    "key": "Xavier-5rtkGwAxwi",
+    "skin_name": "Beyond the C",
+    "sort": "3"
   }
 }
