@@ -1402,5 +1402,14 @@
     "key": "Alucard-xYFcwERjo9",
     "skin_name": "Valentine",
     "sort": "3"
+  },
+  "Alucard-HT6ASuvXzf": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/alucardepic.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb=20220525164438",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb=20220525164438",
+    "key": "Alucard-HT6ASuvXzf",
+    "skin_name": "Child Fall",
+    "sort": "4"
   }
 }
