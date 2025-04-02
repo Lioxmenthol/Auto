@@ -916,5 +916,14 @@
     "key": "Floryn-kUYkN3zKu8",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Floryn-ceJM4GVO52": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/florynelite.zip",
+    "hero": "Floryn",
+    "img": "https://i.ibb.co.com/GJ9Yqy5/b52a207c06ecd84625ef14243fa8b95d.jpg",
+    "img2": "https://i.ibb.co.com/GJ9Yqy5/b52a207c06ecd84625ef14243fa8b95d.jpg",
+    "key": "Floryn-ceJM4GVO52",
+    "skin_name": "Paw Power",
+    "sort": "1"
   }
 }
