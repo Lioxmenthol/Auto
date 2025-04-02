@@ -1303,5 +1303,14 @@
     "key": "Alpha-F7oK4OIDPn",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Alpha-6rYu2pa2M8": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/54.zip",
+    "hero": "Alpha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero284-portrait.png/revision/latest?cb=20220525164921",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero284-portrait.png/revision/latest?cb=20220525164921",
+    "key": "Alpha-6rYu2pa2M8",
+    "skin_name": "Sea Gladiator",
+    "sort": "1"
   }
 }
