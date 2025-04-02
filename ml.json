@@ -1051,5 +1051,14 @@
     "key": "Xavier-zWRTDiRcR9",
     "skin_name": "Hardlight A",
     "sort": "1"
+  },
+  "Xavier-F5N7fID0r0": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20XAVIER%20JJK%204MAR.zip",
+    "hero": "Xavier",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest?cb=20230212035449",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest?cb=20230212035449",
+    "key": "Xavier-F5N7fID0r0",
+    "skin_name": "Satoru Gojo",
+    "sort": "2"
   }
 }
