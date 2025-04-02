@@ -826,5 +826,14 @@
     "key": "Carmilla-ODI0I5zEDY",
     "skin_name": "Flower B",
     "sort": "4"
+  },
+  "Faramis-tFNoeT5AWL": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/faramis.zip",
+    "hero": "Faramis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero761-portrait.png/revision/latest?cb=20220714134614",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero761-portrait.png/revision/latest?cb=20220714134614",
+    "key": "Faramis-tFNoeT5AWL",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
