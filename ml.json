@@ -961,5 +961,14 @@
     "key": "Suyou-fgDBu0dTXr",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Suyou-nT9McI1TP4": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/suyousasuke.zip",
+    "hero": "Suyou",
+    "img": "https://i.ibb.co.com/603cwtqq/1743561451367.jpg",
+    "img2": "https://i.ibb.co.com/603cwtqq/1743561451367.jpg",
+    "key": "Suyou-nT9McI1TP4",
+    "skin_name": "Sasuke",
+    "sort": "1"
   }
 }
