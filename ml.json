@@ -664,5 +664,14 @@
     "key": "Estes-iqpkFNGf56",
     "skin_name": "Sparkle",
     "sort": "5"
+  },
+  "Rafaela-ZhAGztxGYA": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/rafaelaori.zip",
+    "hero": "Rafaela",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20220525164605",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20220525164605",
+    "key": "Rafaela-ZhAGztxGYA",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
