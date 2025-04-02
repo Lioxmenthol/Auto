@@ -1150,5 +1150,14 @@
     "key": "Akai-4H3GWgVysW",
     "skin_name": "Imperial Ass",
     "sort": "3"
+  },
+  "Akai-cFAgACdj04": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/akaistreetenforcer.zip",
+    "hero": "Akai",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero097-portrait.png/revision/latest?cb=20220525164518",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero097-portrait.png/revision/latest?cb=20220525164518",
+    "key": "Akai-cFAgACdj04",
+    "skin_name": "Street Enforcer",
+    "sort": "4"
   }
 }
