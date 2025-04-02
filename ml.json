@@ -1348,5 +1348,14 @@
     "key": "Alpha-RfTBUHtZr7",
     "skin_name": "Star Enforcer",
     "sort": "5"
+  },
+  "Alpha-Kzhdc894I9": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ALPHA%20CC%2024JAN.zip",
+    "hero": "Alpha",
+    "img": "https://github.com/Hiro161123/Fighter/raw/main/Alpha%20collector.png",
+    "img2": "https://github.com/Hiro161123/Fighter/raw/main/Alpha%20collector.png",
+    "key": "Alpha-Kzhdc894I9",
+    "skin_name": "Collector",
+    "sort": "6"
   }
 }
