@@ -1132,5 +1132,14 @@
     "key": "Akai-fuDpj33SG9",
     "skin_name": "Marvelous",
     "sort": "1"
+  },
+  "Akai-FJrPFzyZFH": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/akaiakazonesamurai.zip",
+    "hero": "Akai",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero094-portrait.png/revision/latest?cb=20220525164515",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero094-portrait.png/revision/latest?cb=20220525164515",
+    "key": "Akai-FJrPFzyZFH",
+    "skin_name": "Akazone",
+    "sort": "2"
   }
 }
