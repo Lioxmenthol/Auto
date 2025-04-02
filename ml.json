@@ -1105,5 +1105,14 @@
     "key": "Aamon-v51dzabGIP",
     "skin_name": "Cyber Ass",
     "sort": "3"
+  },
+  "Aamon-Gk7tJaFMkb": {
+    "url": "https://github.com/Lioxmenthol/SC-ASSASIN-2025/raw/refs/heads/main/UPDATE%20AAMON%20SV%201FEB.zip",
+    "hero": "Aamon",
+    "img": "https://github.com/Hiro161123/Apps/raw/main/Aamon%20soul.png",
+    "img2": "https://github.com/Hiro161123/Apps/raw/main/Aamon%20soul.png",
+    "key": "Aamon-Gk7tJaFMkb",
+    "skin_name": "Vessel of Deceit",
+    "sort": "4"
   }
 }
