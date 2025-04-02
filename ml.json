@@ -1195,5 +1195,14 @@
     "key": "Aldous-unuANPeN29",
     "skin_name": "King of S",
     "sort": "1"
+  },
+  "Aldous-O2g2bEPPUX": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/UPDATE%20ALDOUS%20BLAZING.zip",
+    "hero": "Aldous",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero646-portrait.png/revision/latest?cb=20220525165623",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero646-portrait.png/revision/latest?cb=20220525165623",
+    "key": "Aldous-O2g2bEPPUX",
+    "skin_name": "Blazing Force",
+    "sort": "2"
   }
 }
