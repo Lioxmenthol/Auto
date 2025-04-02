@@ -817,5 +817,14 @@
     "key": "Carmilla-fT4NOJsoFU",
     "skin_name": "Phantom C",
     "sort": "3"
+  },
+  "Carmilla-ODI0I5zEDY": {
+    "url": "https://github.com/Lioxmenthol/SC-SUPPORT-2025/raw/refs/heads/main/UPDATE%20CARMILA%20FLOWER%20BUTTERFLY.zip",
+    "hero": "Carmilla",
+    "img": "https://i.ibb.co.com/6BqmQCw/1738060129440.jpg",
+    "img2": "https://i.ibb.co.com/6BqmQCw/1738060129440.jpg",
+    "key": "Carmilla-ODI0I5zEDY",
+    "skin_name": "Flower B",
+    "sort": "4"
   }
 }
