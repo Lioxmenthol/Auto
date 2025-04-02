@@ -1384,5 +1384,14 @@
     "key": "Alucard-wAcKcYNy1j",
     "skin_name": "Fiery Inferno",
     "sort": "1"
+  },
+  "Alucard-Qpv4A8MmJF": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/39.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest?cb=20220525164439",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest?cb=20220525164439",
+    "key": "Alucard-Qpv4A8MmJF",
+    "skin_name": "Viscount",
+    "sort": "2"
   }
 }
