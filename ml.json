@@ -430,5 +430,14 @@
     "key": "Nana-S5mkZcmDhr",
     "skin_name": "Sundress",
     "sort": "2"
+  },
+  "Nana-oSfSELzT2x": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/4.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero055-portrait.png/revision/latest?cb=20220525164407",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero055-portrait.png/revision/latest?cb=20220525164407",
+    "key": "Nana-oSfSELzT2x",
+    "skin_name": "Wind Fairy",
+    "sort": "3"
   }
 }
