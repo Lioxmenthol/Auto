@@ -1294,5 +1294,14 @@
     "key": "Alice-XPDgXAHb58",
     "skin_name": "Darknet Temp",
     "sort": "5"
+  },
+  "Alpha-F7oK4OIDPn": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/alphaori.zip",
+    "hero": "Alpha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20220525164911",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20220525164911",
+    "key": "Alpha-F7oK4OIDPn",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
