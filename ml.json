@@ -772,5 +772,14 @@
     "key": "Kaja-mMqsLSCuHt",
     "skin_name": "Crow Magic",
     "sort": "4"
+  },
+  "Kaja-JhtUQqhCOi": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/kajaepic.zip",
+    "hero": "Kaja",
+    "img": "https://github.com/lanz132/Img/raw/main/kaja.jpg",
+    "img2": "https://github.com/lanz132/Img/raw/main/kaja.jpg",
+    "key": "Kaja-JhtUQqhCOi",
+    "skin_name": "Inferno",
+    "sort": "5"
   }
 }
