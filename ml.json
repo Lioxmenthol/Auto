@@ -925,5 +925,14 @@
     "key": "Floryn-ceJM4GVO52",
     "skin_name": "Paw Power",
     "sort": "1"
+  },
+  "Floryn-b8KicFs8V3": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/florynsanrio.zip",
+    "hero": "Floryn",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest?cb=20220525170548",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest?cb=20220525170548",
+    "key": "Floryn-b8KicFs8V3",
+    "skin_name": "Fluffy Dream",
+    "sort": "2"
   }
 }
