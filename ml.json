@@ -736,5 +736,14 @@
     "key": "Kaja-si1P585EFl",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Kaja-B4kJoRDjFf": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/kajastarlight.zip",
+    "hero": "Kaja",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Kaminari.jpg/revision/latest/scale-to-width-down/250?cb=20211207065155",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Kaminari.jpg/revision/latest/scale-to-width-down/250?cb=20211207065155",
+    "key": "Kaja-B4kJoRDjFf",
+    "skin_name": "Kaminari",
+    "sort": "1"
   }
 }
