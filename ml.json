@@ -1006,5 +1006,14 @@
     "key": "Zhuxin-c91gWBWAac",
     "skin_name": "Ethereal Serenity",
     "sort": "1"
+  },
+  "Zhuxin-UjCcxRQi1K": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/UPDATE%20ZHUXIN%20STARLIGHT.zip",
+    "hero": "Zhuxin",
+    "img": "https://i.ibb.co.com/DVJm6Mx/1733740565840.jpg",
+    "img2": "https://i.ibb.co.com/DVJm6Mx/1733740565840.jpg",
+    "key": "Zhuxin-UjCcxRQi1K",
+    "skin_name": "Emberwisp",
+    "sort": "2"
   }
 }
