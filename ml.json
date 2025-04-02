@@ -781,5 +781,14 @@
     "key": "Kaja-JhtUQqhCOi",
     "skin_name": "Inferno",
     "sort": "5"
+  },
+  "Carmilla-KpJjGj0JxX": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/carmillaori.zip",
+    "hero": "Carmilla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Shadow_of_Twilight.jpg/revision/latest/scale-to-width-down/250?cb=20211225051616",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Shadow_of_Twilight.jpg/revision/latest/scale-to-width-down/250?cb=20211225051616",
+    "key": "Carmilla-KpJjGj0JxX",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
