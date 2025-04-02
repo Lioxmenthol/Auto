@@ -1033,5 +1033,14 @@
     "key": "Novaria-hOeC4OfSIO",
     "skin_name": "Sugar Glaze",
     "sort": "1"
+  },
+  "Xavier-A0r2s5MS7O": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/xavierori.zip",
+    "hero": "Xavier",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1151-portrait.png/revision/latest?cb=20220525172250",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1151-portrait.png/revision/latest?cb=20220525172250",
+    "key": "Xavier-A0r2s5MS7O",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
