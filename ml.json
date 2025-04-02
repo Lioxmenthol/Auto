@@ -1042,5 +1042,14 @@
     "key": "Xavier-A0r2s5MS7O",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Xavier-zWRTDiRcR9": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/xavierstarlight.zip",
+    "hero": "Xavier",
+    "img": "https://i.ibb.co.com/8dStBKy/615e2a4004977ebc6654a807ff7db4f7.jpg",
+    "img2": "https://i.ibb.co.com/8dStBKy/615e2a4004977ebc6654a807ff7db4f7.jpg",
+    "key": "Xavier-zWRTDiRcR9",
+    "skin_name": "Hardlight A",
+    "sort": "1"
   }
 }
