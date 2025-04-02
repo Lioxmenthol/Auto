@@ -1321,5 +1321,14 @@
     "key": "Alpha-uXiUgWrYKL",
     "skin_name": "Onimusha",
     "sort": "2"
+  },
+  "Alpha-1fUo3YL2Bk": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/56.zip",
+    "hero": "Alpha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero285-portrait.png/revision/latest?cb=20220525164922",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero285-portrait.png/revision/latest?cb=20220525164922",
+    "key": "Alpha-1fUo3YL2Bk",
+    "skin_name": "Crimson War",
+    "sort": "3"
   }
 }
