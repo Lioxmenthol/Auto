@@ -1357,5 +1357,14 @@
     "key": "Alpha-Kzhdc894I9",
     "skin_name": "Collector",
     "sort": "6"
+  },
+  "Alpha-CMSICrXQ3l": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ALPHA%20LEGEND%2016MAR.zip",
+    "hero": "Alpha",
+    "img": "https://i.ibb.co.com/VWn0yLS9/1741420368406.jpg",
+    "img2": "https://i.ibb.co.com/VWn0yLS9/1741420368406.jpg",
+    "key": "Alpha-CMSICrXQ3l",
+    "skin_name": "Legend",
+    "sort": "7"
   }
 }
