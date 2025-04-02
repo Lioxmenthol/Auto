@@ -1276,5 +1276,14 @@
     "key": "Alice-3ugnYyOLeO",
     "skin_name": "Spirit Woman",
     "sort": "3"
+  },
+  "Alice-EUy2olIjIy": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/AliceGlidere.zip",
+    "hero": "Alice",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero045-portrait.png/revision/latest?cb=20220525164352",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero045-portrait.png/revision/latest?cb=20220525164352",
+    "key": "Alice-EUy2olIjIy",
+    "skin_name": "Steam Glidere",
+    "sort": "4"
   }
 }
