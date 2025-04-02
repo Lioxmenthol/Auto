@@ -583,5 +583,14 @@
     "key": "Diggie-WdSAfe8VHl",
     "skin_name": "Constellation",
     "sort": "1"
+  },
+  "Diggie-j74momIeJQ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/diggiecircusclown.zip",
+    "hero": "Diggie",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Circus_Clown.jpg/revision/latest/scale-to-width-down/250?cb=20211201153333",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Circus_Clown.jpg/revision/latest/scale-to-width-down/250?cb=20211201153333",
+    "key": "Diggie-j74momIeJQ",
+    "skin_name": "Circus Clown",
+    "sort": "2"
   }
 }
