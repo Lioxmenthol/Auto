@@ -1339,5 +1339,14 @@
     "key": "Alpha-PI5bhXquN4",
     "skin_name": "General Void",
     "sort": "4"
+  },
+  "Alpha-RfTBUHtZr7": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/alphastar.zip",
+    "hero": "Alpha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest?cb=20230805043831",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest?cb=20230805043831",
+    "key": "Alpha-RfTBUHtZr7",
+    "skin_name": "Star Enforcer",
+    "sort": "5"
   }
 }
