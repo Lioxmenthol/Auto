@@ -808,5 +808,14 @@
     "key": "Carmilla-Wzuks7rkos",
     "skin_name": "Astral Arcana",
     "sort": "2"
+  },
+  "Carmilla-fT4NOJsoFU": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/carmillavalentine.zip",
+    "hero": "Carmilla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Phantom_Countess.jpg/revision/latest/scale-to-width-down/250?cb=20220301023709",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Phantom_Countess.jpg/revision/latest/scale-to-width-down/250?cb=20220301023709",
+    "key": "Carmilla-fT4NOJsoFU",
+    "skin_name": "Phantom C",
+    "sort": "3"
   }
 }
