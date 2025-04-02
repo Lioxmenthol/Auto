@@ -1231,5 +1231,14 @@
     "key": "Aldous-C2txk1NUCb",
     "skin_name": "Mistbenders",
     "sort": "5"
+  },
+  "Aldous-zGGXrVYgw7": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ALDOUS%20EXORCIST%2024MAR.zip",
+    "hero": "Aldous",
+    "img": "https://i.ibb.co.com/81zkw0S/1742776207979.jpg",
+    "img2": "https://i.ibb.co.com/81zkw0S/1742776207979.jpg",
+    "key": "Aldous-zGGXrVYgw7",
+    "skin_name": "Exorcist",
+    "sort": "6"
   }
 }
