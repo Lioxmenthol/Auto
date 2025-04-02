@@ -790,5 +790,14 @@
     "key": "Carmilla-KpJjGj0JxX",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Carmilla-k5VkeX1wYX": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/39.zip",
+    "hero": "Carmilla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Wisteria_Countess.jpg/revision/latest/scale-to-width-down/250?cb=20211225051631",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Wisteria_Countess.jpg/revision/latest/scale-to-width-down/250?cb=20211225051631",
+    "key": "Carmilla-k5VkeX1wYX",
+    "skin_name": "Wisteria C",
+    "sort": "1"
   }
 }
