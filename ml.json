@@ -853,5 +853,14 @@
     "key": "Faramis-or76fualDl",
     "skin_name": "Summer S",
     "sort": "2"
+  },
+  "Faramis-wGz6SaoQKw": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/faramismythic.zip",
+    "hero": "Faramis",
+    "img": "https://github.com/lanz132/Img/raw/main/Picsart_23-12-14_16-28-59-699.jpg",
+    "img2": "https://github.com/lanz132/Img/raw/main/Picsart_23-12-14_16-28-59-699.jpg",
+    "key": "Faramis-wGz6SaoQKw",
+    "skin_name": "Mythic",
+    "sort": "3"
   }
 }
