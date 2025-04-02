@@ -529,5 +529,14 @@
     "key": "Angela-5A9o5QbYjZ",
     "skin_name": "Floral Elf",
     "sort": "5"
+  },
+  "Angela-qewhArM1FO": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/angelaheartstring.zip",
+    "hero": "Angela",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest?cb=20220525165437",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest?cb=20220525165437",
+    "key": "Angela-qewhArM1FO",
+    "skin_name": "Heartstring",
+    "sort": "6"
   }
 }
