@@ -1096,5 +1096,14 @@
     "key": "Aamon-k18iwWXZxJ",
     "skin_name": "Noble Crest",
     "sort": "2"
+  },
+  "Aamon-v51dzabGIP": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/AamonAssassin.zip",
+    "hero": "Aamon",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cb=20221216103151",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cb=20221216103151",
+    "key": "Aamon-v51dzabGIP",
+    "skin_name": "Cyber Ass",
+    "sort": "3"
   }
 }
