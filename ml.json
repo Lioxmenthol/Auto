@@ -1375,5 +1375,14 @@
     "key": "Alucard-oDxoHUKfTH",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Alucard-wAcKcYNy1j": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/40.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero073-portrait.png/revision/latest?cb=20220525164437",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero073-portrait.png/revision/latest?cb=20220525164437",
+    "key": "Alucard-wAcKcYNy1j",
+    "skin_name": "Fiery Inferno",
+    "sort": "1"
   }
 }
