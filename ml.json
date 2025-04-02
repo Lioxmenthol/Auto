@@ -763,5 +763,14 @@
     "key": "Kaja-7Ptpg3GDeh",
     "skin_name": "Skyblocker",
     "sort": "3"
+  },
+  "Kaja-mMqsLSCuHt": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/37.zip",
+    "hero": "Kaja",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Crow_Magician.jpg/revision/latest/scale-to-width-down/250?cb=20211207065139",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Crow_Magician.jpg/revision/latest/scale-to-width-down/250?cb=20211207065139",
+    "key": "Kaja-mMqsLSCuHt",
+    "skin_name": "Crow Magic",
+    "sort": "4"
   }
 }
