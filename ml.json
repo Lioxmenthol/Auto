@@ -1087,5 +1087,14 @@
     "key": "Aamon-KmVkT9VL96",
     "skin_name": "Night's Edge",
     "sort": "1"
+  },
+  "Aamon-k18iwWXZxJ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/AamonCrest.zip",
+    "hero": "Aamon",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest?cb=20220628175950",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest?cb=20220628175950",
+    "key": "Aamon-k18iwWXZxJ",
+    "skin_name": "Noble Crest",
+    "sort": "2"
   }
 }
