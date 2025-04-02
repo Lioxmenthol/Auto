@@ -673,5 +673,14 @@
     "key": "Rafaela-ZhAGztxGYA",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Rafaela-8D4XSBnB4E": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/rafaelampl.zip",
+    "hero": "Rafaela",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero144-portrait.png/revision/latest?cb=20220525164614",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero144-portrait.png/revision/latest?cb=20220525164614",
+    "key": "Rafaela-8D4XSBnB4E",
+    "skin_name": "Biomedic",
+    "sort": "1"
   }
 }
