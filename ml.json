@@ -1267,5 +1267,14 @@
     "key": "Alice-FRFPe1sP35",
     "skin_name": "Wizard Teacher",
     "sort": "2"
+  },
+  "Alice-3ugnYyOLeO": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/AliceWoman.zip",
+    "hero": "Alice",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero042-portrait.png/revision/latest?cb=20220525164349",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero042-portrait.png/revision/latest?cb=20220525164349",
+    "key": "Alice-3ugnYyOLeO",
+    "skin_name": "Spirit Woman",
+    "sort": "3"
   }
 }
