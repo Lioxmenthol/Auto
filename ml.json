@@ -1438,5 +1438,14 @@
     "key": "Alucard-AOvkRWZwLu",
     "skin_name": "Starwars",
     "sort": "7"
+  },
+  "Alucard-rIe7yS0MQm": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/UPDATE%20ALUCARD%20EXORCIST.zip",
+    "hero": "Alucard",
+    "img": "https://i.ibb.co.com/RgMgjs7/1734504030289.jpg",
+    "img2": "https://i.ibb.co.com/RgMgjs7/1734504030289.jpg",
+    "key": "Alucard-rIe7yS0MQm",
+    "skin_name": "Exorcist",
+    "sort": "8"
   }
 }
