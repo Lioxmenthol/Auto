@@ -844,5 +844,14 @@
     "key": "Faramis-OrZNdoZX5Z",
     "skin_name": "Dark Necro",
     "sort": "1"
+  },
+  "Faramis-or76fualDl": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/faramissummer.zip",
+    "hero": "Faramis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest?cb=20230623125804",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest?cb=20230623125804",
+    "key": "Faramis-or76fualDl",
+    "skin_name": "Summer S",
+    "sort": "2"
   }
 }
