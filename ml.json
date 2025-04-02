@@ -745,5 +745,14 @@
     "key": "Kaja-B4kJoRDjFf",
     "skin_name": "Kaminari",
     "sort": "1"
+  },
+  "Kaja-PqtFszSj4y": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/35.zip",
+    "hero": "Kaja",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Horror_Whiplash.jpg/revision/latest/scale-to-width-down/250?cb=20211207065147",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Horror_Whiplash.jpg/revision/latest/scale-to-width-down/250?cb=20211207065147",
+    "key": "Kaja-PqtFszSj4y",
+    "skin_name": "Horror W",
+    "sort": "2"
   }
 }
