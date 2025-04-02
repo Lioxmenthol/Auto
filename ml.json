@@ -601,5 +601,14 @@
     "key": "Diggie-viJMwbEzF2",
     "skin_name": "Pigeoneer",
     "sort": "3"
+  },
+  "Diggie-AfvOrkbHHZ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/diggieepic.zip",
+    "hero": "Diggie",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Fairytaler.jpg/revision/latest/scale-to-width-down/250?cb=20220317062652",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Fairytaler.jpg/revision/latest/scale-to-width-down/250?cb=20220317062652",
+    "key": "Diggie-AfvOrkbHHZ",
+    "skin_name": "Fairy Taler",
+    "sort": "4"
   }
 }
