@@ -700,5 +700,14 @@
     "key": "Rafaela-zwc3KX1Wz5",
     "skin_name": "Saber",
     "sort": "3"
+  },
+  "Rafaela-Sg8MyaxMar": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/rafaelachristmas.zip",
+    "hero": "Rafaela",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero147-portrait.png/revision/latest?cb=20220525164620",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero147-portrait.png/revision/latest?cb=20220525164620",
+    "key": "Rafaela-Sg8MyaxMar",
+    "skin_name": "Angelic S",
+    "sort": "4"
   }
 }
