@@ -1258,5 +1258,14 @@
     "key": "Alice-LRtxHU7Y5G",
     "skin_name": "Divine Owl",
     "sort": "1"
+  },
+  "Alice-FRFPe1sP35": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/AliceTeacher.zip",
+    "hero": "Alice",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest?cb=20220525164350",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest?cb=20220525164350",
+    "key": "Alice-FRFPe1sP35",
+    "skin_name": "Wizard Teacher",
+    "sort": "2"
   }
 }
