@@ -412,5 +412,14 @@
     "key": "Nana-qduJ2fui6v",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Nana-FZudEoGhW6": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/2.zip",
+    "hero": "Nana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest?cb=20220525164406",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest?cb=20220525164406",
+    "key": "Nana-FZudEoGhW6",
+    "skin_name": "Slumber Party",
+    "sort": "1"
   }
 }
