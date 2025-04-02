@@ -1159,5 +1159,14 @@
     "key": "Akai-cFAgACdj04",
     "skin_name": "Street Enforcer",
     "sort": "4"
+  },
+  "Akai-QbFxmfDW3g": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/akaistreamrecluse.zip",
+    "hero": "Akai",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero096-portrait.png/revision/latest?cb=20220525164517",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero096-portrait.png/revision/latest?cb=20220525164517",
+    "key": "Akai-QbFxmfDW3g",
+    "skin_name": "Stream Recluse",
+    "sort": "5"
   }
 }
