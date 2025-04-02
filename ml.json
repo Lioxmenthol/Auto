@@ -1213,5 +1213,14 @@
     "key": "Aldous-U17AFq0Btt",
     "skin_name": "Realm Watcher",
     "sort": "3"
+  },
+  "Aldous-RJCX80fywe": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/aldoustransformers.zip",
+    "hero": "Aldous",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest?cb=20220525165625",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest?cb=20220525165625",
+    "key": "Aldous-RJCX80fywe",
+    "skin_name": "Starscream",
+    "sort": "4"
   }
 }
