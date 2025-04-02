@@ -466,5 +466,14 @@
     "key": "Nana-DrQ0hPJTY5",
     "skin_name": "Cyclone Clash",
     "sort": "1"
+  },
+  "Nana-EbROtjo9oP": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/UPDATE%20NANA%20MISTBENDER.zip",
+    "hero": "Nana",
+    "img": "https://github.com/lanz132/DISPLAY/raw/main/1.86-2.jpg",
+    "img2": "https://github.com/lanz132/DISPLAY/raw/main/1.86-2.jpg",
+    "key": "Nana-EbROtjo9oP",
+    "skin_name": "Mistbenders",
+    "sort": "2"
   }
 }
