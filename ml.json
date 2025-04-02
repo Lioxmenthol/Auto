@@ -574,5 +574,14 @@
     "key": "Diggie-ZcVzOFzsHv",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Diggie-WdSAfe8VHl": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/diggieconstelation.zip",
+    "hero": "Diggie",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Constellation.jpg/revision/latest/scale-to-width-down/250?cb=20220223075711",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Constellation.jpg/revision/latest/scale-to-width-down/250?cb=20220223075711",
+    "key": "Diggie-WdSAfe8VHl",
+    "skin_name": "Constellation",
+    "sort": "1"
   }
 }
