@@ -907,5 +907,14 @@
     "key": "Mathilda-Y2u22eIZPw",
     "skin_name": "Ethereal B",
     "sort": "4"
+  },
+  "Floryn-qaPeFhe92e": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/florynori.zip",
+    "hero": "Floryn",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png/revision/latest?cb=20220525170535",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero1121-portrait.png/revision/latest?cb=20220525170535",
+    "key": "Floryn-qaPeFhe92e",
+    "skin_name": "Ori",
+    "sort": "5"
   }
 }
