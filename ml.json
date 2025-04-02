@@ -1222,5 +1222,14 @@
     "key": "Aldous-RJCX80fywe",
     "skin_name": "Starscream",
     "sort": "4"
+  },
+  "Aldous-C2txk1NUCb": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ALDOUS%20MISTBENDER%202FEB.zip",
+    "hero": "Aldous",
+    "img": "https://github.com/lanz132/DISPLAY/raw/main/1.86-1.jpg",
+    "img2": "https://github.com/lanz132/DISPLAY/raw/main/1.86-1.jpg",
+    "key": "Aldous-C2txk1NUCb",
+    "skin_name": "Mistbenders",
+    "sort": "5"
   }
 }
