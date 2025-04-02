@@ -1186,5 +1186,14 @@
     "key": "Aldous-13dscfXfTB",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Aldous-unuANPeN29": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/aldousm1.zip",
+    "hero": "Aldous",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest?cb=20220525165622",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest?cb=20220525165622",
+    "key": "Aldous-unuANPeN29",
+    "skin_name": "King of S",
+    "sort": "1"
   }
 }
