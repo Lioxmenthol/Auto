@@ -871,5 +871,14 @@
     "key": "Mathilda-ShnZvUKGPQ",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Mathilda-JoIqEqj8P8": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/45.zip",
+    "hero": "Mathilda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero1022-portrait.png/revision/latest?cb=20220525170345",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero1022-portrait.png/revision/latest?cb=20220525170345",
+    "key": "Mathilda-JoIqEqj8P8",
+    "skin_name": "Unrestrained",
+    "sort": "1"
   }
 }
