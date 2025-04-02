@@ -592,5 +592,14 @@
     "key": "Diggie-j74momIeJQ",
     "skin_name": "Circus Clown",
     "sort": "2"
+  },
+  "Diggie-viJMwbEzF2": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/19.zip",
+    "hero": "Diggie",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Pigeoneer.jpg/revision/latest/scale-to-width-down/250?cb=20220223075829",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Pigeoneer.jpg/revision/latest/scale-to-width-down/250?cb=20220223075829",
+    "key": "Diggie-viJMwbEzF2",
+    "skin_name": "Pigeoneer",
+    "sort": "3"
   }
 }
