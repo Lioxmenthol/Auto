@@ -1312,5 +1312,14 @@
     "key": "Alpha-6rYu2pa2M8",
     "skin_name": "Sea Gladiator",
     "sort": "1"
+  },
+  "Alpha-uXiUgWrYKL": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/alphaepic.zip",
+    "hero": "Alpha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero282-portrait.png/revision/latest?cb=20220525164918",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero282-portrait.png/revision/latest?cb=20220525164918",
+    "key": "Alpha-uXiUgWrYKL",
+    "skin_name": "Onimusha",
+    "sort": "2"
   }
 }
