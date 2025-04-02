@@ -646,5 +646,14 @@
     "key": "Estes-5A8r6HalRz",
     "skin_name": "Rattan D",
     "sort": "3"
+  },
+  "Estes-95QMq12O8D": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/esteschampion.zip",
+    "hero": "Estes",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb=20220804115327",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb=20220804115327",
+    "key": "Estes-95QMq12O8D",
+    "skin_name": "Blacklist",
+    "sort": "4"
   }
 }
