@@ -484,5 +484,14 @@
     "key": "Angela-ZBdIQ1CSdJ",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Angela-wbw9UEumtb": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/9.zip",
+    "hero": "Angela",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero553-portrait.png/revision/latest?cb=20220525165432",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero553-portrait.png/revision/latest?cb=20220525165432",
+    "key": "Angela-wbw9UEumtb",
+    "skin_name": "Shanhai M",
+    "sort": "1"
   }
 }
