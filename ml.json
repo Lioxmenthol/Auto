@@ -619,5 +619,14 @@
     "key": "Estes-ssjGPK38cN",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Estes-UEm5niw1pq": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/22.zip",
+    "hero": "Estes",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero345-portrait.png/revision/latest?cb=20220525165045",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero345-portrait.png/revision/latest?cb=20220525165045",
+    "key": "Estes-UEm5niw1pq",
+    "skin_name": "Crow Bishop",
+    "sort": "1"
   }
 }
