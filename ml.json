@@ -637,5 +637,14 @@
     "key": "Estes-S7Njs14IWM",
     "skin_name": "Galaxy D",
     "sort": "2"
+  },
+  "Estes-5A8r6HalRz": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/estesdragontamer.zip",
+    "hero": "Estes",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero346-portrait.png/revision/latest?cb=20220525165046",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero346-portrait.png/revision/latest?cb=20220525165046",
+    "key": "Estes-5A8r6HalRz",
+    "skin_name": "Rattan D",
+    "sort": "3"
   }
 }
