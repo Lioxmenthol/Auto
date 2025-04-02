@@ -1456,5 +1456,14 @@
     "key": "Alucard-1UELIScko4",
     "skin_name": "Sasuke",
     "sort": "9"
+  },
+  "Alucard-Jl4j7M8ip9": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ALU%20X%20SHANKS%2021FEB.zip",
+    "hero": "Alucard",
+    "img": "https://i.ibb.co.com/hRjTwmhj/One-Piece-25.jpg",
+    "img2": "https://i.ibb.co.com/hRjTwmhj/One-Piece-25.jpg",
+    "key": "Alucard-Jl4j7M8ip9",
+    "skin_name": "Shanks Akagami",
+    "sort": "10"
   }
 }
