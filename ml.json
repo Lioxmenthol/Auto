@@ -610,5 +610,14 @@
     "key": "Diggie-AfvOrkbHHZ",
     "skin_name": "Fairy Taler",
     "sort": "4"
+  },
+  "Estes-ssjGPK38cN": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/estesori.zip",
+    "hero": "Estes",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb=20220525165033",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb=20220525165033",
+    "key": "Estes-ssjGPK38cN",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
