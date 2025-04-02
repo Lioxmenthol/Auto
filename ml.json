@@ -1411,5 +1411,14 @@
     "key": "Alucard-HT6ASuvXzf",
     "skin_name": "Child Fall",
     "sort": "4"
+  },
+  "Alucard-U2iCln7NPH": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ALU%20LIGHTBORN%2020JAN.zip",
+    "hero": "Alucard",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb=20220920090132",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb=20220920090132",
+    "key": "Alucard-U2iCln7NPH",
+    "skin_name": "Lightborn",
+    "sort": "5"
   }
 }
