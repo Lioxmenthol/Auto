@@ -835,5 +835,14 @@
     "key": "Faramis-tFNoeT5AWL",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Faramis-OrZNdoZX5Z": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/42.zip",
+    "hero": "Faramis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero762-portrait.png/revision/latest?cb=20220628173753",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero762-portrait.png/revision/latest?cb=20220628173753",
+    "key": "Faramis-OrZNdoZX5Z",
+    "skin_name": "Dark Necro",
+    "sort": "1"
   }
 }
