@@ -799,5 +799,14 @@
     "key": "Carmilla-k5VkeX1wYX",
     "skin_name": "Wisteria C",
     "sort": "1"
+  },
+  "Carmilla-Wzuks7rkos": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/raw/refs/heads/main/carmillaepic.zip",
+    "hero": "Carmilla",
+    "img": "https://i.ibb.co.com/RCZHCmh/4653e6d15bc5e664c87b2d14fae00ce6.jpg",
+    "img2": "https://i.ibb.co.com/RCZHCmh/4653e6d15bc5e664c87b2d14fae00ce6.jpg",
+    "key": "Carmilla-Wzuks7rkos",
+    "skin_name": "Astral Arcana",
+    "sort": "2"
   }
 }
