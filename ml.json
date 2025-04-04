@@ -2032,5 +2032,14 @@
     "key": "Beatrix-tXIhixPKg8",
     "skin_name": "Blitz Attack",
     "sort": "2"
+  },
+  "Beatrix-LYVPD1LL5E": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/BeatrixAgent.zip",
+    "hero": "Beatrix",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1054-portrait.png/revision/latest?cb=20220525170423",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1054-portrait.png/revision/latest?cb=20220525170423",
+    "key": "Beatrix-LYVPD1LL5E",
+    "skin_name": "Space Agent",
+    "sort": "3"
   }
 }
