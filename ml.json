@@ -1780,5 +1780,14 @@
     "key": "Badang-vGtrlLqAnH",
     "skin_name": "Madara",
     "sort": "7"
+  },
+  "Balmond-prcUeKBJK0": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/balmondori.zip",
+    "hero": "Balmond",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20220525164249",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20220525164249",
+    "key": "Balmond-prcUeKBJK0",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
