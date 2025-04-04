@@ -1807,5 +1807,14 @@
     "key": "Balmond-zTBbC6VpVt",
     "skin_name": "Savage Hunter",
     "sort": "2"
+  },
+  "Balmond-W86ZksYcfA": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/balmondspecial.zip",
+    "hero": "Balmond",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero026-portrait.png/revision/latest?cb=20220525164313",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero026-portrait.png/revision/latest?cb=20220525164313",
+    "key": "Balmond-W86ZksYcfA",
+    "skin_name": "Special",
+    "sort": "3"
   }
 }
