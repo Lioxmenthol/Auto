@@ -1726,5 +1726,14 @@
     "key": "Badang-7l5zH2BzqX",
     "skin_name": "Susanoo",
     "sort": "1"
+  },
+  "Badang-S3t891pmN7": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20BADANG%20CC%2024JAN.zip",
+    "hero": "Badang",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
+    "key": "Badang-S3t891pmN7",
+    "skin_name": "Collector",
+    "sort": "2"
   }
 }
