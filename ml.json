@@ -2752,5 +2752,14 @@
     "key": "Clint-9rTXGsXI9z",
     "skin_name": "Guns and R",
     "sort": "2"
+  },
+  "Clint-MjpsZKfqDe": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/clintRoll.zip",
+    "hero": "Clint",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero134-portrait.png/revision/latest?cb=20220525164558",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero134-portrait.png/revision/latest?cb=20220525164558",
+    "key": "Clint-MjpsZKfqDe",
+    "skin_name": "Rock n Roll",
+    "sort": "3"
   }
 }
