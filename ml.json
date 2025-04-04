@@ -2878,5 +2878,14 @@
     "key": "Cyclops-ZACVyS8beS",
     "skin_name": "Collector",
     "sort": "5"
+  },
+  "Cyclops-Q8TPgCaWzp": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/CyclopsExorcist.zip",
+    "hero": "Cyclops",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero332-portrait.png/revision/latest?cb=20220525165023",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero332-portrait.png/revision/latest?cb=20220525165023",
+    "key": "Cyclops-Q8TPgCaWzp",
+    "skin_name": "Exorcist",
+    "sort": "6"
   }
 }
