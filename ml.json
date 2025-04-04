@@ -2869,5 +2869,14 @@
     "key": "Cyclops-kbeYxXRHmN",
     "skin_name": "Starwars",
     "sort": "4"
+  },
+  "Cyclops-ZACVyS8beS": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/CyclopsWarlock.zip",
+    "hero": "Cyclops",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cb=20230317102253",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cb=20230317102253",
+    "key": "Cyclops-ZACVyS8beS",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
