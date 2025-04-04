@@ -1609,5 +1609,14 @@
     "key": "Atlas-a4bzHwexC8",
     "skin_name": "Rune Sentinel",
     "sort": "4"
+  },
+  "Atlas-bXANWSRKO1": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/atlascollector.zip",
+    "hero": "Atlas",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/atlas%208-2-24.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/atlas%208-2-24.jpg",
+    "key": "Atlas-bXANWSRKO1",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
