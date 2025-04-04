@@ -2086,5 +2086,14 @@
     "key": "Balerick-b7pzXnS2zB",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Balerick-NRVmnUzCbq": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/balerickelite.zip",
+    "hero": "Balerick",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXamCsOjbpREfqYfbjBy4NObP2GbfqPPECeA&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXamCsOjbpREfqYfbjBy4NObP2GbfqPPECeA&usqp=CAU",
+    "key": "Balerick-NRVmnUzCbq",
+    "skin_name": "Torch Guardian",
+    "sort": "1"
   }
 }
