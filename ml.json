@@ -2851,5 +2851,14 @@
     "key": "Cyclops-BPaii8w2zF",
     "skin_name": "Straw Doll",
     "sort": "2"
+  },
+  "Cyclops-z12z6VsN7k": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/CyclopsEnforcer.zip",
+    "hero": "Cyclops",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero334-portrait.png/revision/latest?cb=20220525165025",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero334-portrait.png/revision/latest?cb=20220525165025",
+    "key": "Cyclops-z12z6VsN7k",
+    "skin_name": "Saber",
+    "sort": "3"
   }
 }
