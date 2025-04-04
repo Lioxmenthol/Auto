@@ -2365,5 +2365,14 @@
     "key": "Cecilion-4btuP9wwMk",
     "skin_name": "Stargazer",
     "sort": "4"
+  },
+  "Cecilion-4iniry1nkH": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/CecilionCrimsonWings.zip",
+    "hero": "Cecilion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest?cb=20220915122137",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest?cb=20220915122137",
+    "key": "Cecilion-4iniry1nkH",
+    "skin_name": "Crimson W",
+    "sort": "5"
   }
 }
