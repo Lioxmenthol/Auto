@@ -2662,5 +2662,14 @@
     "key": "Claude-eikmQenXQV",
     "skin_name": "Earth's M",
     "sort": "2"
+  },
+  "Claude-uf2VwJIZlB": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/claudebadbro.zip",
+    "hero": "Claude",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest?cb=20220525165642",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest?cb=20220525165642",
+    "key": "Claude-uf2VwJIZlB",
+    "skin_name": "Bad Bro",
+    "sort": "3"
   }
 }
