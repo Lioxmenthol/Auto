@@ -1528,5 +1528,14 @@
     "key": "Argus-OwmDgewNBB",
     "skin_name": "Cataclysm",
     "sort": "5"
+  },
+  "Argus-Pbh9fBCJei": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ARGUS%20ABBYS%2016MAR.zip",
+    "hero": "Argus",
+    "img": "https://i.ibb.co.com/FDykggz/1737891662712.jpg",
+    "img2": "https://i.ibb.co.com/FDykggz/1737891662712.jpg",
+    "key": "Argus-Pbh9fBCJei",
+    "skin_name": "Abbys",
+    "sort": "6"
   }
 }
