@@ -2698,5 +2698,14 @@
     "key": "Claude-DrO1cZx3uB",
     "skin_name": "Mecha Dragon",
     "sort": "6"
+  },
+  "Claude-OIkUoyaYKc": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/UPDATE%20CLAUDE%20BLAZING.zip",
+    "hero": "Claude",
+    "img": "https://i.ibb.co.com/DCczy9g/hq720-2.jpg",
+    "img2": "https://i.ibb.co.com/DCczy9g/hq720-2.jpg",
+    "key": "Claude-OIkUoyaYKc",
+    "skin_name": "Blazing",
+    "sort": "7"
   }
 }
