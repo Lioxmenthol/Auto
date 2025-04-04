@@ -2734,5 +2734,14 @@
     "key": "Clint-c7OqSCo9FE",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Clint-QzuXjXL2dy": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/clintsand.zip",
+    "hero": "Clint",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero132-portrait.png/revision/latest?cb=20220525164557",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero132-portrait.png/revision/latest?cb=20220525164557",
+    "key": "Clint-QzuXjXL2dy",
+    "skin_name": "Sun n Sand",
+    "sort": "1"
   }
 }
