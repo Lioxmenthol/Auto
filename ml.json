@@ -2059,5 +2059,14 @@
     "key": "Beatrix-VWoPJvkigo",
     "skin_name": "Light Chaser",
     "sort": "5"
+  },
+  "Beatrix-gpoEbhWFHh": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/BeatrixFiesta.zip",
+    "hero": "Beatrix",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1057-portrait.png/revision/latest?cb=20230805043918",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1057-portrait.png/revision/latest?cb=20230805043918",
+    "key": "Beatrix-gpoEbhWFHh",
+    "skin_name": "Vibrant Fiesta",
+    "sort": "6"
   }
 }
