@@ -1591,5 +1591,14 @@
     "key": "Atlas-6c1prghNn4",
     "skin_name": "Fuel Turbine",
     "sort": "2"
+  },
+  "Atlas-e2i3tCXqiY": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/atlasstar.zip",
+    "hero": "Atlas",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest?cb=20220804115339",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest?cb=20220804115339",
+    "key": "Atlas-e2i3tCXqiY",
+    "skin_name": "Space Mech",
+    "sort": "3"
   }
 }
