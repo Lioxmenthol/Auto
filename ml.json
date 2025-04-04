@@ -1915,5 +1915,14 @@
     "key": "Barats-CRUBpevGj0",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Barats-4pXMoPUEYO": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/191.zip",
+    "hero": "Barats",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero992-portrait.png/revision/latest?cb=20220525170307",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero992-portrait.png/revision/latest?cb=20220525170307",
+    "key": "Barats-4pXMoPUEYO",
+    "skin_name": "Armored L",
+    "sort": "1"
   }
 }
