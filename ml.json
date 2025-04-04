@@ -2104,5 +2104,14 @@
     "key": "Balerick-aFG8fYFwjC",
     "skin_name": "The Deep One",
     "sort": "2"
+  },
+  "Balerick-lxSoVHsYxl": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/belerickemeraldguard.zip",
+    "hero": "Balerick",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6taUxGZu2wlSgBnKfGMCMN7OeMXjD2VI7AQ&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6taUxGZu2wlSgBnKfGMCMN7OeMXjD2VI7AQ&usqp=CAU",
+    "key": "Balerick-lxSoVHsYxl",
+    "skin_name": "Emerald Guard",
+    "sort": "3"
   }
 }
