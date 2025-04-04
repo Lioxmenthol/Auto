@@ -1708,5 +1708,14 @@
     "key": "Aurora-GDo7FVEev1",
     "skin_name": "Collector",
     "sort": "5"
+  },
+  "Badang-a4ald2qedZ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/badangori.zip",
+    "hero": "Badang",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
+    "key": "Badang-a4ald2qedZ",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
