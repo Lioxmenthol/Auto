@@ -1690,5 +1690,14 @@
     "key": "Aurora-1M3oQ8deox",
     "skin_name": "Kula Diamond",
     "sort": "3"
+  },
+  "Aurora-Iw3i0aPLbb": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20AURORA%20ZODIAC%2020JAN.zip",
+    "hero": "Aurora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Aquarius.jpg/revision/latest/scale-to-width-down/250?cb=20211231054836",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Aquarius.jpg/revision/latest/scale-to-width-down/250?cb=20211231054836",
+    "key": "Aurora-Iw3i0aPLbb",
+    "skin_name": "Aquarius",
+    "sort": "4"
   }
 }
