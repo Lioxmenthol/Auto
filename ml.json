@@ -2140,5 +2140,14 @@
     "key": "Benedetta-012BiULL6J",
     "skin_name": "Honor Blade",
     "sort": "1"
+  },
+  "Benedetta-vVnBG8cJIV": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/BenedettaSreetBlow.zip",
+    "hero": "Benedetta",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Street_Blow.jpg/revision/latest/scale-to-width-down/250?cb=20220108154346",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Street_Blow.jpg/revision/latest/scale-to-width-down/250?cb=20220108154346",
+    "key": "Benedetta-vVnBG8cJIV",
+    "skin_name": "Street Blow",
+    "sort": "2"
   }
 }
