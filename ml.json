@@ -2401,5 +2401,14 @@
     "key": "Chang'e-UJSSktBOZO",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Chang'e-ChgBPBspnr": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/Chang'eCrimsonmoon.zip",
+    "hero": "Chang'e",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Crimson_Moon.jpg/revision/latest/scale-to-width-down/250?cb=20211206014720",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Crimson_Moon.jpg/revision/latest/scale-to-width-down/250?cb=20211206014720",
+    "key": "Chang'e-ChgBPBspnr",
+    "skin_name": "Crimson M",
+    "sort": "1"
   }
 }
