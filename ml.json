@@ -2788,5 +2788,14 @@
     "key": "Clint-CMWqNm2bJp",
     "skin_name": "Shadow O",
     "sort": "6"
+  },
+  "Clint-q0OJWQ8VvE": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/clinteperatorCL.zip",
+    "hero": "Clint",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest?cb=20220525164603",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest?cb=20220525164603",
+    "key": "Clint-q0OJWQ8VvE",
+    "skin_name": "Operator CL",
+    "sort": "1"
   }
 }
