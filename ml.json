@@ -2860,5 +2860,14 @@
     "key": "Cyclops-z12z6VsN7k",
     "skin_name": "Saber",
     "sort": "3"
+  },
+  "Cyclops-kbeYxXRHmN": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/UPDATE%20CYCLOPS%20STARWARS%2026DES.zip",
+    "hero": "Cyclops",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cb=20220525165031",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cb=20220525165031",
+    "key": "Cyclops-kbeYxXRHmN",
+    "skin_name": "Starwars",
+    "sort": "4"
   }
 }
