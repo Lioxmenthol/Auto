@@ -2833,5 +2833,14 @@
     "key": "Cyclops-aXv9MJ1QmN",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Cyclops-B6H1X2Q4hG": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/CyclopsAdventurer.zip",
+    "hero": "Cyclops",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero333-portrait.png/revision/latest?cb=20220525165024",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero333-portrait.png/revision/latest?cb=20220525165024",
+    "key": "Cyclops-B6H1X2Q4hG",
+    "skin_name": "Super A",
+    "sort": "1"
   }
 }
