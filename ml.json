@@ -2410,5 +2410,14 @@
     "key": "Chang'e-ChgBPBspnr",
     "skin_name": "Crimson M",
     "sort": "1"
+  },
+  "Chang'e-kbS952v6UR": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/29.zip",
+    "hero": "Chang'e",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Strawberry_Parfait.jpg/revision/latest/scale-to-width-down/250?cb=20201022085804",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Strawberry_Parfait.jpg/revision/latest/scale-to-width-down/250?cb=20201022085804",
+    "key": "Chang'e-kbS952v6UR",
+    "skin_name": "Strawberry P",
+    "sort": "2"
   }
 }
