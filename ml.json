@@ -2617,5 +2617,14 @@
     "key": "Cici-pbS4qgZDmg",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Cici-iykSutfOHG": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/cicibasic.zip",
+    "hero": "Cici",
+    "img": "https://github.com/Hiro161123/Fighter/raw/main/Basic%20skin%20cici.png",
+    "img2": "https://github.com/Hiro161123/Fighter/raw/main/Basic%20skin%20cici.png",
+    "key": "Cici-iykSutfOHG",
+    "skin_name": "Whimsical",
+    "sort": "1"
   }
 }
