@@ -2824,5 +2824,14 @@
     "key": "Clint-6Xg5S4AfBD",
     "skin_name": "Mythic",
     "sort": "4"
+  },
+  "Cyclops-aXv9MJ1QmN": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/CyclopsMagician.zip",
+    "hero": "Cyclops",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cb=20220525165020",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cb=20220525165020",
+    "key": "Cyclops-aXv9MJ1QmN",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
