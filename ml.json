@@ -1969,5 +1969,14 @@
     "key": "Baxia-WqBrTXmaot",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Baxia-Zx3nAeiT6l": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/baxiabadasroller.zip",
+    "hero": "Baxia",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbxHJ0N_gBL6edWWa_qxgZmAZ8STMOoF37lw&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbxHJ0N_gBL6edWWa_qxgZmAZ8STMOoF37lw&usqp=CAU",
+    "key": "Baxia-Zx3nAeiT6l",
+    "skin_name": "Badas Roller",
+    "sort": "1"
   }
 }
