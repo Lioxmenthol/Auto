@@ -2014,5 +2014,14 @@
     "key": "Beatrix-BUMqF8cX7b",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Beatrix-rTlmQuXW5T": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/BeatrixFactor.zip",
+    "hero": "Beatrix",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest?cb=20220525170421",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest?cb=20220525170421",
+    "key": "Beatrix-rTlmQuXW5T",
+    "skin_name": "X Factor",
+    "sort": "1"
   }
 }
