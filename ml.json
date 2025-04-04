@@ -2122,5 +2122,14 @@
     "key": "Balerick-wpDYjuzclq",
     "skin_name": "Arbiter of S",
     "sort": "4"
+  },
+  "Benedetta-ZsWS3xKLC4": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/BenedettaRanger.zip",
+    "hero": "Benedetta",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Shadow_Ranger.jpg/revision/latest/scale-to-width-down/250?cb=20210616160805",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Shadow_Ranger.jpg/revision/latest/scale-to-width-down/250?cb=20210616160805",
+    "key": "Benedetta-ZsWS3xKLC4",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
