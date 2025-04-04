@@ -2554,5 +2554,14 @@
     "key": "Chou-CsWLzk2Vy4",
     "skin_name": "Stun",
     "sort": "8"
+  },
+  "Chou-9q8i1mx7FM": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/choudragonshiryu.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cb=20220915121509",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cb=20220915121509",
+    "key": "Chou-9q8i1mx7FM",
+    "skin_name": "Dragon Shiryu",
+    "sort": "9"
   }
 }
