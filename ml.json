@@ -1951,5 +1951,14 @@
     "key": "Barats-GsTypC5WT9",
     "skin_name": "War Chief",
     "sort": "2"
+  },
+  "Barats-q6KzHPVkXY": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/UPDATE%20BARATS%20EPIC.zip",
+    "hero": "Barats",
+    "img": "https://i.ibb.co.com/ZWS0DtZ/Gden1d-ZWg-AAmq-Ov.jpg",
+    "img2": "https://i.ibb.co.com/ZWS0DtZ/Gden1d-ZWg-AAmq-Ov.jpg",
+    "key": "Barats-q6KzHPVkXY",
+    "skin_name": "Sunken P",
+    "sort": "3"
   }
 }
