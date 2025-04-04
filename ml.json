@@ -1681,5 +1681,14 @@
     "key": "Aurora-T6EB4El7vq",
     "skin_name": "Foxy Lady",
     "sort": "2"
+  },
+  "Aurora-1M3oQ8deox": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20AURORA%20KOF%2017FEB.zip",
+    "hero": "Aurora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Kula_Diamond.jpg/revision/latest/scale-to-width-down/250?cb=20210528141510",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Kula_Diamond.jpg/revision/latest/scale-to-width-down/250?cb=20210528141510",
+    "key": "Aurora-1M3oQ8deox",
+    "skin_name": "Kula Diamond",
+    "sort": "3"
   }
 }
