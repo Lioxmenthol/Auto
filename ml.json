@@ -2779,5 +2779,14 @@
     "key": "Clint-wUSohgyUVm",
     "skin_name": "Witch Hunter",
     "sort": "5"
+  },
+  "Clint-CMWqNm2bJp": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/clintOmen.zip",
+    "hero": "Clint",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest?cb=20220525164602",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest?cb=20220525164602",
+    "key": "Clint-CMWqNm2bJp",
+    "skin_name": "Shadow O",
+    "sort": "6"
   }
 }
