@@ -1789,5 +1789,14 @@
     "key": "Balmond-prcUeKBJK0",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Balmond-SjDnlEfCRP": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/balmondrazoredge.zip",
+    "hero": "Balmond",
+    "img": "https://i.ibb.co.com/HCJ4DXX/GWt-K0e-Nb-AAAWZwm.jpg",
+    "img2": "https://i.ibb.co.com/HCJ4DXX/GWt-K0e-Nb-AAAWZwm.jpg",
+    "key": "Balmond-SjDnlEfCRP",
+    "skin_name": "Razor Edge",
+    "sort": "1"
   }
 }
