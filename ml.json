@@ -1960,5 +1960,14 @@
     "key": "Barats-q6KzHPVkXY",
     "skin_name": "Sunken P",
     "sort": "3"
+  },
+  "Baxia-WqBrTXmaot": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/baxiaori.zip",
+    "hero": "Baxia",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAuKFzOY2Eg8spgzGZm-IMoF9zMAASv3FNqg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAuKFzOY2Eg8spgzGZm-IMoF9zMAASv3FNqg&usqp=CAU",
+    "key": "Baxia-WqBrTXmaot",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
