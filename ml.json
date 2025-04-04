@@ -2131,5 +2131,14 @@
     "key": "Benedetta-ZsWS3xKLC4",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Benedetta-012BiULL6J": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/BenedettaBlade.zip",
+    "hero": "Benedetta",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Honor_Blade.jpg/revision/latest/scale-to-width-down/250?cb=20210616160716",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Honor_Blade.jpg/revision/latest/scale-to-width-down/250?cb=20210616160716",
+    "key": "Benedetta-012BiULL6J",
+    "skin_name": "Honor Blade",
+    "sort": "1"
   }
 }
