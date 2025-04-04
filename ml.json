@@ -1816,5 +1816,14 @@
     "key": "Balmond-W86ZksYcfA",
     "skin_name": "Special",
     "sort": "3"
+  },
+  "Balmond-e3BUZxexvo": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/balmondcollector.zip",
+    "hero": "Balmond",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb=20220525164309",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb=20220525164309",
+    "key": "Balmond-e3BUZxexvo",
+    "skin_name": "Collector",
+    "sort": "4"
   }
 }
