@@ -1933,5 +1933,14 @@
     "key": "Barats-CwBG8Jyh5S",
     "skin_name": "Toy Rex",
     "sort": "2"
+  },
+  "Barats-YRTttYPMse": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/193.zip",
+    "hero": "Barats",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero994-portrait.png/revision/latest?cb=20220525170309",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero994-portrait.png/revision/latest?cb=20220525170309",
+    "key": "Barats-YRTttYPMse",
+    "skin_name": "Baratstein",
+    "sort": "1"
   }
 }
