@@ -2770,5 +2770,14 @@
     "key": "Clint-8XpKnTS3GN",
     "skin_name": "Badminton",
     "sort": "4"
+  },
+  "Clint-wUSohgyUVm": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/clintHunter.zip",
+    "hero": "Clint",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero136-portrait.png/revision/latest?cb=20220525164601",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero136-portrait.png/revision/latest?cb=20220525164601",
+    "key": "Clint-wUSohgyUVm",
+    "skin_name": "Witch Hunter",
+    "sort": "5"
   }
 }
