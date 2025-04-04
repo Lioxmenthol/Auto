@@ -2257,5 +2257,14 @@
     "key": "Bruno-nVvFPPjRod",
     "skin_name": "The Falcon",
     "sort": "5"
+  },
+  "Bruno-OdxnOUGV40": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/brunoStriker.zip",
+    "hero": "Bruno",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest?cb=20221103134233",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest?cb=20221103134233",
+    "key": "Bruno-OdxnOUGV40",
+    "skin_name": "Striker",
+    "sort": "6"
   }
 }
