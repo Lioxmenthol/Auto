@@ -1564,5 +1564,14 @@
     "key": "Arlott-lr0OlMQZEN",
     "skin_name": "Collector",
     "sort": "2"
+  },
+  "Atlas-U1FXyC8RRA": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/atlasori.zip",
+    "hero": "Atlas",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero931-portrait.png/revision/latest?cb=20220525171026",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero931-portrait.png/revision/latest?cb=20220525171026",
+    "key": "Atlas-U1FXyC8RRA",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
