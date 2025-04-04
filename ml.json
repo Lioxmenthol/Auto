@@ -2383,5 +2383,14 @@
     "key": "Cecilion-aKPY4O0bSM",
     "skin_name": "Hisoka",
     "sort": "6"
+  },
+  "Cecilion-IGIlmKi5gv": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20CECILLION%20GETO%2012MAR.zip",
+    "hero": "Cecilion",
+    "img": "https://i.ibb.co.com/1fJHVhjx/1741860246727.jpg",
+    "img2": "https://i.ibb.co.com/1fJHVhjx/1741860246727.jpg",
+    "key": "Cecilion-IGIlmKi5gv",
+    "skin_name": "Geto",
+    "sort": "7"
   }
 }
