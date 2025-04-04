@@ -1978,5 +1978,14 @@
     "key": "Baxia-Zx3nAeiT6l",
     "skin_name": "Badas Roller",
     "sort": "1"
+  },
+  "Baxia-fynQX9DesU": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/baxiawildtotem.zip",
+    "hero": "Baxia",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUnv79npTQ1_1r3xSJrHZNiO4StnhaRjYR4w&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUnv79npTQ1_1r3xSJrHZNiO4StnhaRjYR4w&usqp=CAU",
+    "key": "Baxia-fynQX9DesU",
+    "skin_name": "Wild Totem",
+    "sort": "2"
   }
 }
