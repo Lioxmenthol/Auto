@@ -2482,5 +2482,14 @@
     "key": "Chou-ZwXLBjDrtL",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Chou-hvBmcfCk5K": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/choustarlight.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest?cb=20220525164855",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest?cb=20220525164855",
+    "key": "Chou-hvBmcfCk5K",
+    "skin_name": "Go Ballistic",
+    "sort": "1"
   }
 }
