@@ -2347,5 +2347,14 @@
     "key": "Cecilion-RGKOx1sr5s",
     "skin_name": "Illusionist",
     "sort": "2"
+  },
+  "Cecilion-fGmbssZxlx": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/CecilonPhantomCount.zip",
+    "hero": "Cecilion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero914-portrait.png/revision/latest?cb=20220525170201",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero914-portrait.png/revision/latest?cb=20220525170201",
+    "key": "Cecilion-fGmbssZxlx",
+    "skin_name": "Phantom C",
+    "sort": "3"
   }
 }
