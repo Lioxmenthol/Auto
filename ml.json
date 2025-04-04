@@ -1852,5 +1852,14 @@
     "key": "Balmond-TgfBVpjzZc",
     "skin_name": "Exorcist",
     "sort": "7"
+  },
+  "Bane-JijZRKLEmg": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/baneori.zip",
+    "hero": "Bane",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20220525164530",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20220525164530",
+    "key": "Bane-JijZRKLEmg",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
