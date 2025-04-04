@@ -1825,5 +1825,14 @@
     "key": "Balmond-e3BUZxexvo",
     "skin_name": "Collector",
     "sort": "4"
+  },
+  "Balmond-ra4GXBdOTA": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/balmondstarlight.zip",
+    "hero": "Balmond",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest?cb=20220525164316",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest?cb=20220525164316",
+    "key": "Balmond-ra4GXBdOTA",
+    "skin_name": "Bioroid",
+    "sort": "5"
   }
 }
