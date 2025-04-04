@@ -1510,5 +1510,14 @@
     "key": "Argus-McvUqkC0VR",
     "skin_name": "Darth Vader",
     "sort": "3"
+  },
+  "Argus-9DQEZt8baD": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/162.zip",
+    "hero": "Argus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero457-portrait.png/revision/latest?cb=20221118130656",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero457-portrait.png/revision/latest?cb=20221118130656",
+    "key": "Argus-9DQEZt8baD",
+    "skin_name": "Winged N",
+    "sort": "4"
   }
 }
