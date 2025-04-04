@@ -1897,5 +1897,14 @@
     "key": "Bane-rjJmITRkVy",
     "skin_name": "Underworld",
     "sort": "4"
+  },
+  "Bane-IJJRwa7zLg": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/baneepic.zip",
+    "hero": "Bane",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest?cb=20230316133645",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest?cb=20230316133645",
+    "key": "Bane-IJJRwa7zLg",
+    "skin_name": "Soul Defiler",
+    "sort": "5"
   }
 }
