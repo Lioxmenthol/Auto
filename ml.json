@@ -2329,5 +2329,14 @@
     "key": "Cecilion-3cmjANJpBU",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Cecilion-JturNFDUIz": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/CecilionWisteriaCount.zip",
+    "hero": "Cecilion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero912-portrait.png/revision/latest?cb=20220525170158",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero912-portrait.png/revision/latest?cb=20220525170158",
+    "key": "Cecilion-JturNFDUIz",
+    "skin_name": "Wisteria C",
+    "sort": "1"
   }
 }
