@@ -2023,5 +2023,14 @@
     "key": "Beatrix-rTlmQuXW5T",
     "skin_name": "X Factor",
     "sort": "1"
+  },
+  "Beatrix-tXIhixPKg8": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/BeatrixAttack.zip",
+    "hero": "Beatrix",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest?cb=20220525170422",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest?cb=20220525170422",
+    "key": "Beatrix-tXIhixPKg8",
+    "skin_name": "Blitz Attack",
+    "sort": "2"
   }
 }
