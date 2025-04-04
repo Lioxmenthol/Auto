@@ -2203,5 +2203,14 @@
     "key": "Benedetta-ROH3kjtVVS",
     "skin_name": "Shinobu D",
     "sort": "5"
+  },
+  "Bruno-PQB6Iqy4T9": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/brunoori.zip",
+    "hero": "Bruno",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20220525164544",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20220525164544",
+    "key": "Bruno-PQB6Iqy4T9",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
