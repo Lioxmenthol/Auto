@@ -2464,5 +2464,14 @@
     "key": "Chang'e-cUsURK0pj7",
     "skin_name": "New Moon",
     "sort": "7"
+  },
+  "Chang'e-j41JZPZPBa": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/Chang'eTensai.zip",
+    "hero": "Chang'e",
+    "img": "https://github.com/lanz132/Img/raw/main/changeaspi.jpg",
+    "img2": "https://github.com/lanz132/Img/raw/main/changeaspi.jpg",
+    "key": "Chang'e-j41JZPZPBa",
+    "skin_name": "Aspirant",
+    "sort": "8"
   }
 }
