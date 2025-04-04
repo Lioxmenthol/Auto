@@ -2113,5 +2113,14 @@
     "key": "Balerick-lxSoVHsYxl",
     "skin_name": "Emerald Guard",
     "sort": "3"
+  },
+  "Balerick-wpDYjuzclq": {
+    "url": "https://github.com/Lioxmenthol/SC-TANK-2025/raw/refs/heads/main/UPDATE%20BELERICK%20EPIC%2010MAR.zip",
+    "hero": "Balerick",
+    "img": "https://i.ibb.co.com/1JfkPcX1/Glbo-Ld-Ja0-AAx-Eqb.jpg",
+    "img2": "https://i.ibb.co.com/1JfkPcX1/Glbo-Ld-Ja0-AAx-Eqb.jpg",
+    "key": "Balerick-wpDYjuzclq",
+    "skin_name": "Arbiter of S",
+    "sort": "4"
   }
 }
