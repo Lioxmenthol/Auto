@@ -1573,5 +1573,14 @@
     "key": "Atlas-U1FXyC8RRA",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Atlas-aU50p11AjP": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/atlasreactorecore.zip",
+    "hero": "Atlas",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero932-portrait.png/revision/latest?cb=20220525170223",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero932-portrait.png/revision/latest?cb=20220525170223",
+    "key": "Atlas-aU50p11AjP",
+    "skin_name": "Reactor Core",
+    "sort": "1"
   }
 }
