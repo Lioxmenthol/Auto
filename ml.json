@@ -1672,5 +1672,14 @@
     "key": "Aurora-59vuMjENXi",
     "skin_name": "Heartbreake",
     "sort": "1"
+  },
+  "Aurora-T6EB4El7vq": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/AuroraLady.zip",
+    "hero": "Aurora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Foxy_Lady_%28rework%29.jpg/revision/latest/scale-to-width-down/250?cb=20220213165714",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Foxy_Lady_%28rework%29.jpg/revision/latest/scale-to-width-down/250?cb=20220213165714",
+    "key": "Aurora-T6EB4El7vq",
+    "skin_name": "Foxy Lady",
+    "sort": "2"
   }
 }
