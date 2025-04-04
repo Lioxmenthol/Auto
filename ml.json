@@ -2437,5 +2437,14 @@
     "key": "Chang'e-5XVmVGCa4A",
     "skin_name": "Lunar Magic",
     "sort": "4"
+  },
+  "Chang'e-vP99yQpb0J": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/Chang'eCradle.zip",
+    "hero": "Chang'e",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Vine_Cradle.jpg/revision/latest/scale-to-width-down/250?cb=20220115052831",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Vine_Cradle.jpg/revision/latest/scale-to-width-down/250?cb=20220115052831",
+    "key": "Chang'e-vP99yQpb0J",
+    "skin_name": "Vine Cradle",
+    "sort": "5"
   }
 }
