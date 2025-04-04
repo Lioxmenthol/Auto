@@ -2680,5 +2680,14 @@
     "key": "Claude-T5Tt3H5cc5",
     "skin_name": "Heart Aflame",
     "sort": "4"
+  },
+  "Claude-zKUwzqYvCw": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/claudechristmas.zip",
+    "hero": "Claude",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest?cb=20220525165639",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest?cb=20220525165639",
+    "key": "Claude-zKUwzqYvCw",
+    "skin_name": "Christmas",
+    "sort": "5"
   }
 }
