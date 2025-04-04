@@ -2095,5 +2095,14 @@
     "key": "Balerick-NRVmnUzCbq",
     "skin_name": "Torch Guardian",
     "sort": "1"
+  },
+  "Balerick-aFG8fYFwjC": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/balerickspecial.zip",
+    "hero": "Balerick",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3vJ7iYrLA0wjC_6G_m-WGrc3jq-uc_6Mjlg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3vJ7iYrLA0wjC_6G_m-WGrc3jq-uc_6Mjlg&usqp=CAU",
+    "key": "Balerick-aFG8fYFwjC",
+    "skin_name": "The Deep One",
+    "sort": "2"
   }
 }
