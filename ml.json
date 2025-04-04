@@ -2005,5 +2005,14 @@
     "key": "Baxia-PINwrIfcUo",
     "skin_name": "Black T",
     "sort": "4"
+  },
+  "Beatrix-BUMqF8cX7b": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/BeatrixSoldier.zip",
+    "hero": "Beatrix",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20220525170412",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20220525170412",
+    "key": "Beatrix-BUMqF8cX7b",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
