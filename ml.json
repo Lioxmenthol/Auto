@@ -1492,5 +1492,14 @@
     "key": "Argus-8CV1njKAPW",
     "skin_name": "Dark Draconic",
     "sort": "1"
+  },
+  "Argus-8ihjNFbvb7": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/159.zip",
+    "hero": "Argus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero454-portrait.png/revision/latest?cb=20220525165231",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero454-portrait.png/revision/latest?cb=20220525165231",
+    "key": "Argus-8ihjNFbvb7",
+    "skin_name": "Catastrophe",
+    "sort": "2"
   }
 }
