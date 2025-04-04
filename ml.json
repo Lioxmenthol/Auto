@@ -1519,5 +1519,14 @@
     "key": "Argus-9DQEZt8baD",
     "skin_name": "Winged N",
     "sort": "4"
+  },
+  "Argus-OwmDgewNBB": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ARGUS%20EPIC%2021JAN.zip",
+    "hero": "Argus",
+    "img": "https://i.ibb.co.com/JvprqPJ/f9993d83a3cfd9fc5aff4c58bd270513.jpg",
+    "img2": "https://i.ibb.co.com/JvprqPJ/f9993d83a3cfd9fc5aff4c58bd270513.jpg",
+    "key": "Argus-OwmDgewNBB",
+    "skin_name": "Cataclysm",
+    "sort": "5"
   }
 }
