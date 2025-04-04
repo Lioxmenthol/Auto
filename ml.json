@@ -1717,5 +1717,14 @@
     "key": "Badang-a4ald2qedZ",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Badang-7l5zH2BzqX": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/29.zip",
+    "hero": "Badang",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero773-portrait.png/revision/latest?cb=20220525165819",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero773-portrait.png/revision/latest?cb=20220525165819",
+    "key": "Badang-7l5zH2BzqX",
+    "skin_name": "Susanoo",
+    "sort": "1"
   }
 }
