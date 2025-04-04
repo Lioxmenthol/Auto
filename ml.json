@@ -1555,5 +1555,14 @@
     "key": "Arlott-cbENUDqG0v",
     "skin_name": "Starlight",
     "sort": "1"
+  },
+  "Arlott-lr0OlMQZEN": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ARLOT%20CC%2019FEB.zip",
+    "hero": "Arlott",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Arlot%20collector.png",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Arlot%20collector.png",
+    "key": "Arlott-lr0OlMQZEN",
+    "skin_name": "Collector",
+    "sort": "2"
   }
 }
