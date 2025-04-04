@@ -1906,5 +1906,14 @@
     "key": "Bane-IJJRwa7zLg",
     "skin_name": "Soul Defiler",
     "sort": "5"
+  },
+  "Barats-CRUBpevGj0": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/baratsori.zip",
+    "hero": "Barats",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20220525170304",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20220525170304",
+    "key": "Barats-CRUBpevGj0",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
