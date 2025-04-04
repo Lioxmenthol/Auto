@@ -1654,5 +1654,14 @@
     "key": "Aulus-zRUA6oGTD1",
     "skin_name": "War Lion",
     "sort": "3"
+  },
+  "Aulus-jmDXb3QTJZ": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/220.zip",
+    "hero": "Aulus",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/1726882756524.jpg",
+    "img2": "https://github.com/Renier012/Img/raw/refs/heads/main/1726882756524.jpg",
+    "key": "Aulus-jmDXb3QTJZ",
+    "skin_name": "Ironman Reaver",
+    "sort": "4"
   }
 }
