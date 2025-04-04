@@ -2563,5 +2563,14 @@
     "key": "Chou-9q8i1mx7FM",
     "skin_name": "Dragon Shiryu",
     "sort": "9"
+  },
+  "Chou-iEgKzshofO": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20CHOU%20LIBRA%20SHIRYU%204FEB.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb=20220915121517",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb=20220915121517",
+    "key": "Chou-iEgKzshofO",
+    "skin_name": "Libra Shiryu",
+    "sort": "10"
   }
 }
