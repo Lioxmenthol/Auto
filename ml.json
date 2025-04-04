@@ -2572,5 +2572,14 @@
     "key": "Chou-iEgKzshofO",
     "skin_name": "Libra Shiryu",
     "sort": "10"
+  },
+  "Chou-HdTZk5ino4": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/chouecho.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+    "key": "Chou-HdTZk5ino4",
+    "skin_name": "Echo",
+    "sort": "11"
   }
 }
