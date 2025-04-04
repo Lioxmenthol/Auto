@@ -2671,5 +2671,14 @@
     "key": "Claude-uf2VwJIZlB",
     "skin_name": "Bad Bro",
     "sort": "3"
+  },
+  "Claude-T5Tt3H5cc5": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/caudeAflame.zip",
+    "hero": "Claude",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest?cb=20230212035455",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest?cb=20230212035455",
+    "key": "Claude-T5Tt3H5cc5",
+    "skin_name": "Heart Aflame",
+    "sort": "4"
   }
 }
