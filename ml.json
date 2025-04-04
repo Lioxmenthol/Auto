@@ -2428,5 +2428,14 @@
     "key": "Chang'e-grTJZInBKr",
     "skin_name": "Floral Elfo",
     "sort": "3"
+  },
+  "Chang'e-5XVmVGCa4A": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/Chang'eMagic.zip",
+    "hero": "Chang'e",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Lunar_Magic.jpg/revision/latest/scale-to-width-down/250?cb=20211206014735",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Lunar_Magic.jpg/revision/latest/scale-to-width-down/250?cb=20211206014735",
+    "key": "Chang'e-5XVmVGCa4A",
+    "skin_name": "Lunar Magic",
+    "sort": "4"
   }
 }
