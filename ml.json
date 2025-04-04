@@ -2248,5 +2248,14 @@
     "key": "Bruno-bNS3t2Khb4",
     "skin_name": "Firebolt",
     "sort": "4"
+  },
+  "Bruno-nVvFPPjRod": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/brunofalcon.zip",
+    "hero": "Bruno",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero125-portrait.png/revision/latest?cb=20220525164551",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero125-portrait.png/revision/latest?cb=20220525164551",
+    "key": "Bruno-nVvFPPjRod",
+    "skin_name": "The Falcon",
+    "sort": "5"
   }
 }
