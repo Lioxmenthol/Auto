@@ -2419,5 +2419,14 @@
     "key": "Chang'e-kbS952v6UR",
     "skin_name": "Strawberry P",
     "sort": "2"
+  },
+  "Chang'e-grTJZInBKr": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/Chang'eElfo.zip",
+    "hero": "Chang'e",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Floral_Elfo.jpg/revision/latest/scale-to-width-down/250?cb=20211206014727",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Floral_Elfo.jpg/revision/latest/scale-to-width-down/250?cb=20211206014727",
+    "key": "Chang'e-grTJZInBKr",
+    "skin_name": "Floral Elfo",
+    "sort": "3"
   }
 }
