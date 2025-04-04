@@ -2311,5 +2311,14 @@
     "key": "Brody-Q5qKM9cYDy",
     "skin_name": "Mpl",
     "sort": "3"
+  },
+  "Brody-GS8SfFljjX": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/BrodyBren.zip",
+    "hero": "Brody",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/1726883404417.jpg",
+    "img2": "https://github.com/Renier012/Img/raw/refs/heads/main/1726883404417.jpg",
+    "key": "Brody-GS8SfFljjX",
+    "skin_name": "AP Bren",
+    "sort": "4"
   }
 }
