@@ -2149,5 +2149,14 @@
     "key": "Benedetta-vVnBG8cJIV",
     "skin_name": "Street Blow",
     "sort": "2"
+  },
+  "Benedetta-okXreGp0CO": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/BenedettaDeathOath.zip",
+    "hero": "Benedetta",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Death_Oath.jpg/revision/latest/scale-to-width-down/250?cb=20211215022129",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Death_Oath.jpg/revision/latest/scale-to-width-down/250?cb=20211215022129",
+    "key": "Benedetta-okXreGp0CO",
+    "skin_name": "Collector",
+    "sort": "3"
   }
 }
