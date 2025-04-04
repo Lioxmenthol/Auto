@@ -2491,5 +2491,14 @@
     "key": "Chou-hvBmcfCk5K",
     "skin_name": "Go Ballistic",
     "sort": "1"
+  },
+  "Chou-kP5pxZKbpg": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/chouhihopboy.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest?cb=20220719071254",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest?cb=20220719071254",
+    "key": "Chou-kP5pxZKbpg",
+    "skin_name": "Hiphop Boy",
+    "sort": "2"
   }
 }
