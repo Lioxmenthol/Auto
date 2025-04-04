@@ -2158,5 +2158,14 @@
     "key": "Benedetta-okXreGp0CO",
     "skin_name": "Collector",
     "sort": "3"
+  },
+  "Benedetta-pE1ALWGm8b": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/BenedettaMoonblade.zip",
+    "hero": "Benedetta",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Moonblade.jpg/revision/latest/scale-to-width-down/250?cb=20220505121448",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Moonblade.jpg/revision/latest/scale-to-width-down/250?cb=20220505121448",
+    "key": "Benedetta-pE1ALWGm8b",
+    "skin_name": "Moon Blade",
+    "sort": "1"
   }
 }
