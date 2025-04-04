@@ -1843,5 +1843,14 @@
     "key": "Balmond-Fzih2iHxTL",
     "skin_name": "Infernal War",
     "sort": "6"
+  },
+  "Balmond-TgfBVpjzZc": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20BALMOND%20EXORCIST%201MAR.zip",
+    "hero": "Balmond",
+    "img": "https://i.ibb.co.com/k631sHW1/1740791303545.jpg",
+    "img2": "https://i.ibb.co.com/k631sHW1/1740791303545.jpg",
+    "key": "Balmond-TgfBVpjzZc",
+    "skin_name": "Exorcist",
+    "sort": "7"
   }
 }
