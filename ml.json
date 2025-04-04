@@ -2041,5 +2041,14 @@
     "key": "Beatrix-LYVPD1LL5E",
     "skin_name": "Space Agent",
     "sort": "3"
+  },
+  "Beatrix-n6MQksZDuM": {
+    "url": "https://github.com/lanz132/MARKSMAN/raw/refs/heads/main/138.zip",
+    "hero": "Beatrix",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest?cb=20221216103146",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest?cb=20221216103146",
+    "key": "Beatrix-n6MQksZDuM",
+    "skin_name": "Prime",
+    "sort": "4"
   }
 }
