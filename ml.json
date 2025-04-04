@@ -2374,5 +2374,14 @@
     "key": "Cecilion-4iniry1nkH",
     "skin_name": "Crimson W",
     "sort": "5"
+  },
+  "Cecilion-aKPY4O0bSM": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20CECILION%20HISOKA%20UI%202MAR.zip",
+    "hero": "Cecilion",
+    "img": "https://i.ibb.co.com/44chShK/1733740140239.jpg",
+    "img2": "https://i.ibb.co.com/44chShK/1733740140239.jpg",
+    "key": "Cecilion-aKPY4O0bSM",
+    "skin_name": "Hisoka",
+    "sort": "6"
   }
 }
