@@ -1663,5 +1663,14 @@
     "key": "Aulus-jmDXb3QTJZ",
     "skin_name": "Ironman Reaver",
     "sort": "4"
+  },
+  "Aurora-59vuMjENXi": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/AuroraEmpress.zip",
+    "hero": "Aurora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Heartbreak_Empress.jpg/revision/latest/scale-to-width-down/250?cb=20211231054919",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Heartbreak_Empress.jpg/revision/latest/scale-to-width-down/250?cb=20211231054919",
+    "key": "Aurora-59vuMjENXi",
+    "skin_name": "Heartbreake",
+    "sort": "1"
   }
 }
