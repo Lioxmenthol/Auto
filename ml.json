@@ -2518,5 +2518,14 @@
     "key": "Chou-D6jY56enAD",
     "skin_name": "Muay Thai",
     "sort": "4"
+  },
+  "Chou-snLiPlwqN6": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/chouepic.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb=20220525164851",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb=20220525164851",
+    "key": "Chou-snLiPlwqN6",
+    "skin_name": "Dragon Boy",
+    "sort": "5"
   }
 }
