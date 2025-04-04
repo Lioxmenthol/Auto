@@ -1600,5 +1600,14 @@
     "key": "Atlas-e2i3tCXqiY",
     "skin_name": "Space Mech",
     "sort": "3"
+  },
+  "Atlas-a4bzHwexC8": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/atlasmsc.zip",
+    "hero": "Atlas",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cb=20230514163425",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cb=20230514163425",
+    "key": "Atlas-a4bzHwexC8",
+    "skin_name": "Rune Sentinel",
+    "sort": "4"
   }
 }
