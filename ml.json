@@ -1699,5 +1699,14 @@
     "key": "Aurora-Iw3i0aPLbb",
     "skin_name": "Aquarius",
     "sort": "4"
+  },
+  "Aurora-GDo7FVEev1": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/AuroraCelestials.zip",
+    "hero": "Aurora",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/aurora%208-2-24.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/aurora%208-2-24.jpg",
+    "key": "Aurora-GDo7FVEev1",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
