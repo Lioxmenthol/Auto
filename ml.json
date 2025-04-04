@@ -1546,5 +1546,14 @@
     "key": "Arlott-ITJoryPsRw",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Arlott-cbENUDqG0v": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/aarlotStar.zip",
+    "hero": "Arlott",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/arlot.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/arlot.jpg",
+    "key": "Arlott-cbENUDqG0v",
+    "skin_name": "Starlight",
+    "sort": "1"
   }
 }
