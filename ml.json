@@ -2446,5 +2446,14 @@
     "key": "Chang'e-vP99yQpb0J",
     "skin_name": "Vine Cradle",
     "sort": "5"
+  },
+  "Chang'e-QF85mpIwim": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/Chang'eArtist.zip",
+    "hero": "Chang'e",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Moon_Artist.jpg/revision/latest/scale-to-width-down/250?cb=20220217001724",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Moon_Artist.jpg/revision/latest/scale-to-width-down/250?cb=20220217001724",
+    "key": "Chang'e-QF85mpIwim",
+    "skin_name": "Moon Artist",
+    "sort": "6"
   }
 }
