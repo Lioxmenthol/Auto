@@ -2725,5 +2725,14 @@
     "key": "Claude-MBh5qZh3S7",
     "skin_name": "Cosmic Blaze",
     "sort": "9"
+  },
+  "Clint-c7OqSCo9FE": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/clint%20ori.zip",
+    "hero": "Clint",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20220525164553",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20220525164553",
+    "key": "Clint-c7OqSCo9FE",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
