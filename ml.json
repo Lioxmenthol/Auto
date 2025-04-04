@@ -1582,5 +1582,14 @@
     "key": "Atlas-aU50p11AjP",
     "skin_name": "Reactor Core",
     "sort": "1"
+  },
+  "Atlas-6c1prghNn4": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/atlaselite.zip",
+    "hero": "Atlas",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero933-portrait.png/revision/latest?cb=20220525170224",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero933-portrait.png/revision/latest?cb=20220525170224",
+    "key": "Atlas-6c1prghNn4",
+    "skin_name": "Fuel Turbine",
+    "sort": "2"
   }
 }
