@@ -1798,5 +1798,14 @@
     "key": "Balmond-SjDnlEfCRP",
     "skin_name": "Razor Edge",
     "sort": "1"
+  },
+  "Balmond-zTBbC6VpVt": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/balmondsavagehunter.zip",
+    "hero": "Balmond",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-portrait.png/revision/latest?cb=20220525164306",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-portrait.png/revision/latest?cb=20220525164306",
+    "key": "Balmond-zTBbC6VpVt",
+    "skin_name": "Savage Hunter",
+    "sort": "2"
   }
 }
