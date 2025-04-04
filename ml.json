@@ -1870,5 +1870,14 @@
     "key": "Bane-nmVyUKCGGJ",
     "skin_name": "Deep Sea M",
     "sort": "1"
+  },
+  "Bane-DPjR3SS7f0": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/111.zip",
+    "hero": "Bane",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero114-portrait.png/revision/latest?cb=20220525164541",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero114-portrait.png/revision/latest?cb=20220525164541",
+    "key": "Bane-DPjR3SS7f0",
+    "skin_name": "Warlord",
+    "sort": "2"
   }
 }
