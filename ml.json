@@ -2167,5 +2167,14 @@
     "key": "Benedetta-pE1ALWGm8b",
     "skin_name": "Moon Blade",
     "sort": "1"
+  },
+  "Benedetta-28FSRLZmEX": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/BenedettaRider.zip",
+    "hero": "Benedetta",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb=20230917045324",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb=20230917045324",
+    "key": "Benedetta-28FSRLZmEX",
+    "skin_name": "Panigale V4",
+    "sort": "2"
   }
 }
