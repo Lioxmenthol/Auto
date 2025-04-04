@@ -1879,5 +1879,14 @@
     "key": "Bane-DPjR3SS7f0",
     "skin_name": "Warlord",
     "sort": "2"
+  },
+  "Bane-MmFNJzBf2f": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/112.zip",
+    "hero": "Bane",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest?cb=20220525164539",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest?cb=20220525164539",
+    "key": "Bane-MmFNJzBf2f",
+    "skin_name": "Castle Monster",
+    "sort": "3"
   }
 }
