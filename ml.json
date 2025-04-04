@@ -1942,5 +1942,14 @@
     "key": "Barats-YRTttYPMse",
     "skin_name": "Baratstein",
     "sort": "1"
+  },
+  "Barats-GsTypC5WT9": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/194.zip",
+    "hero": "Barats",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero995-portrait.png/revision/latest?cb=20221111133621",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero995-portrait.png/revision/latest?cb=20221111133621",
+    "key": "Barats-GsTypC5WT9",
+    "skin_name": "War Chief",
+    "sort": "2"
   }
 }
