@@ -1987,5 +1987,14 @@
     "key": "Baxia-fynQX9DesU",
     "skin_name": "Wild Totem",
     "sort": "2"
+  },
+  "Baxia-evK9JOfubi": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/baxiaspecial.zip",
+    "hero": "Baxia",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTUW5nW6zoGybC5W1sITq6ul0D7c5w9l8k7A&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTUW5nW6zoGybC5W1sITq6ul0D7c5w9l8k7A&usqp=CAU",
+    "key": "Baxia-evK9JOfubi",
+    "skin_name": "Ba Tender",
+    "sort": "3"
   }
 }
