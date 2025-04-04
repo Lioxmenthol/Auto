@@ -1483,5 +1483,14 @@
     "key": "Argus-3MFkz7Zl5z",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Argus-8CV1njKAPW": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ARGUS%20STAR%20DARK%2021JAN.zip",
+    "hero": "Argus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest?cb=20220525165230",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest?cb=20220525165230",
+    "key": "Argus-8CV1njKAPW",
+    "skin_name": "Dark Draconic",
+    "sort": "1"
   }
 }
