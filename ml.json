@@ -2653,5 +2653,14 @@
     "key": "Claude-YUWc3rqt2l",
     "skin_name": "Summer",
     "sort": "1"
+  },
+  "Claude-eikmQenXQV": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/claudeearthmightie.zip",
+    "hero": "Claude",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero657-portrait.png/revision/latest?cb=20220525165640",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero657-portrait.png/revision/latest?cb=20220525165640",
+    "key": "Claude-eikmQenXQV",
+    "skin_name": "Earth's M",
+    "sort": "2"
   }
 }
