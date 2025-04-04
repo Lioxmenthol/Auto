@@ -1474,5 +1474,14 @@
     "key": "Novaria-1FcEJmCdmu",
     "skin_name": "Collector",
     "sort": "1"
+  },
+  "Argus-3MFkz7Zl5z": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/argusori.zip",
+    "hero": "Argus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
+    "key": "Argus-3MFkz7Zl5z",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
