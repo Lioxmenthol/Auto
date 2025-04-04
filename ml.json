@@ -2473,5 +2473,14 @@
     "key": "Chang'e-j41JZPZPBa",
     "skin_name": "Aspirant",
     "sort": "8"
+  },
+  "Chou-ZwXLBjDrtL": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/chouori.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+    "key": "Chou-ZwXLBjDrtL",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
