@@ -2212,5 +2212,14 @@
     "key": "Bruno-PQB6Iqy4T9",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Bruno-Ljw8efAYwY": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/brunofootball.zip",
+    "hero": "Bruno",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero124-portrait.png/revision/latest?cb=20220525164550",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero124-portrait.png/revision/latest?cb=20220525164550",
+    "key": "Bruno-Ljw8efAYwY",
+    "skin_name": "Street Football",
+    "sort": "1"
   }
 }
