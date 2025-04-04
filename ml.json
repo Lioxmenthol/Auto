@@ -2707,5 +2707,14 @@
     "key": "Claude-OIkUoyaYKc",
     "skin_name": "Blazing",
     "sort": "7"
+  },
+  "Claude-laktfXXkkp": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/claudesprak.zip",
+    "hero": "Claude",
+    "img": "https://i.ibb.co.com/GCKqpxH/572d3201ceaea929a331afcc8b2dd4c0.jpg",
+    "img2": "https://i.ibb.co.com/GCKqpxH/572d3201ceaea929a331afcc8b2dd4c0.jpg",
+    "key": "Claude-laktfXXkkp",
+    "skin_name": "Challenger S",
+    "sort": "8"
   }
 }
