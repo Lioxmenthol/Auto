@@ -1996,5 +1996,14 @@
     "key": "Baxia-evK9JOfubi",
     "skin_name": "Ba Tender",
     "sort": "3"
+  },
+  "Baxia-PINwrIfcUo": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/baxiablackturtoise.zip",
+    "hero": "Baxia",
+    "img": "https://github.com/lanz132/Img/raw/main/baxia.jpg",
+    "img2": "https://github.com/lanz132/Img/raw/main/baxia.jpg",
+    "key": "Baxia-PINwrIfcUo",
+    "skin_name": "Black T",
+    "sort": "4"
   }
 }
