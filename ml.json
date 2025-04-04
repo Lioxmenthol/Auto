@@ -1861,5 +1861,14 @@
     "key": "Bane-JijZRKLEmg",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Bane-nmVyUKCGGJ": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/110.zip",
+    "hero": "Bane",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero113-portrait.png/revision/latest?cb=20220525164540",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero113-portrait.png/revision/latest?cb=20220525164540",
+    "key": "Bane-nmVyUKCGGJ",
+    "skin_name": "Deep Sea M",
+    "sort": "1"
   }
 }
