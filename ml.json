@@ -1501,5 +1501,14 @@
     "key": "Argus-8ihjNFbvb7",
     "skin_name": "Catastrophe",
     "sort": "2"
+  },
+  "Argus-McvUqkC0VR": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/UPDATE%20ARGUS%20STARWARS%209JAN.zip",
+    "hero": "Argus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest?cb=20220525165232",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest?cb=20220525165232",
+    "key": "Argus-McvUqkC0VR",
+    "skin_name": "Darth Vader",
+    "sort": "3"
   }
 }
