@@ -2338,5 +2338,14 @@
     "key": "Cecilion-JturNFDUIz",
     "skin_name": "Wisteria C",
     "sort": "1"
+  },
+  "Cecilion-RGKOx1sr5s": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/CecilionLllusionist.zip",
+    "hero": "Cecilion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero913-portrait.png/revision/latest?cb=20220525170200",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero913-portrait.png/revision/latest?cb=20220525170200",
+    "key": "Cecilion-RGKOx1sr5s",
+    "skin_name": "Illusionist",
+    "sort": "2"
   }
 }
