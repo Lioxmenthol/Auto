@@ -2302,5 +2302,14 @@
     "key": "Brody-SUuUiWnDh0",
     "skin_name": "Lethal Fang",
     "sort": "2"
+  },
+  "Brody-Q5qKM9cYDy": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/BrodyQuantum.zip",
+    "hero": "Brody",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest?cb=20230212035442",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest?cb=20230212035442",
+    "key": "Brody-Q5qKM9cYDy",
+    "skin_name": "Mpl",
+    "sort": "3"
   }
 }
