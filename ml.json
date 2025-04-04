@@ -1888,5 +1888,14 @@
     "key": "Bane-MmFNJzBf2f",
     "skin_name": "Castle Monster",
     "sort": "3"
+  },
+  "Bane-rjJmITRkVy": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/113.zip",
+    "hero": "Bane",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest?cb=20220525164542",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest?cb=20220525164542",
+    "key": "Bane-rjJmITRkVy",
+    "skin_name": "Underworld",
+    "sort": "4"
   }
 }
