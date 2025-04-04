@@ -2842,5 +2842,14 @@
     "key": "Cyclops-B6H1X2Q4hG",
     "skin_name": "Super A",
     "sort": "1"
+  },
+  "Cyclops-BPaii8w2zF": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/CyclopsStrawDoll.zip",
+    "hero": "Cyclops",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest?cb=20220525165032",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest?cb=20220525165032",
+    "key": "Cyclops-BPaii8w2zF",
+    "skin_name": "Straw Doll",
+    "sort": "2"
   }
 }
