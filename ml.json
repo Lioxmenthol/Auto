@@ -1834,5 +1834,14 @@
     "key": "Balmond-ra4GXBdOTA",
     "skin_name": "Bioroid",
     "sort": "5"
+  },
+  "Balmond-Fzih2iHxTL": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/balmondepic.zip",
+    "hero": "Balmond",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb=20230623125721",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb=20230623125721",
+    "key": "Balmond-Fzih2iHxTL",
+    "skin_name": "Infernal War",
+    "sort": "6"
   }
 }
