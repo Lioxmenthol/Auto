@@ -1762,5 +1762,14 @@
     "key": "Badang-sTeJcQ7hlN",
     "skin_name": "Pegasus Seiya",
     "sort": "5"
+  },
+  "Badang-Gw1yiJt6jY": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20BADANG%20NEJI.zip",
+    "hero": "Badang",
+    "img": "https://i.ibb.co.com/tFPLtnF/1738254691580.jpg",
+    "img2": "https://i.ibb.co.com/tFPLtnF/1738254691580.jpg",
+    "key": "Badang-Gw1yiJt6jY",
+    "skin_name": "Neji",
+    "sort": "6"
   }
 }
