@@ -1636,5 +1636,14 @@
     "key": "Aulus-ZomIb8Jp4A",
     "skin_name": "Berserker",
     "sort": "1"
+  },
+  "Aulus-oXpXofmxSX": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/auluselite.zip",
+    "hero": "Aulus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest?cb=20220525170455",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest?cb=20220525170455",
+    "key": "Aulus-oXpXofmxSX",
+    "skin_name": "Barren Pioner",
+    "sort": "2"
   }
 }
