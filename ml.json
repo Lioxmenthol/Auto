@@ -1537,5 +1537,14 @@
     "key": "Argus-Pbh9fBCJei",
     "skin_name": "Abbys",
     "sort": "6"
+  },
+  "Arlott-ITJoryPsRw": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/arlottori.zip",
+    "hero": "Arlott",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20230208125736",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20230208125736",
+    "key": "Arlott-ITJoryPsRw",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
