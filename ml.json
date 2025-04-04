@@ -2230,5 +2230,14 @@
     "key": "Bruno-o8OC0ICOiW",
     "skin_name": "Vanguard Elite",
     "sort": "2"
+  },
+  "Bruno-zHfBVhSR0m": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/brunoBestDj.zip",
+    "hero": "Bruno",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero123-portrait.png/revision/latest?cb=20220525164549",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero123-portrait.png/revision/latest?cb=20220525164549",
+    "key": "Bruno-zHfBVhSR0m",
+    "skin_name": "Best DJ",
+    "sort": "3"
   }
 }
