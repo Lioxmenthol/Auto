@@ -2644,5 +2644,14 @@
     "key": "Claude-ho1PhWkYvs",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Claude-YUWc3rqt2l": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/claudesummer.zip",
+    "hero": "Claude",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero655-portrait.png/revision/latest?cb=20220525165638",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero655-portrait.png/revision/latest?cb=20220525165638",
+    "key": "Claude-YUWc3rqt2l",
+    "skin_name": "Summer",
+    "sort": "1"
   }
 }
