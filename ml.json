@@ -2545,5 +2545,14 @@
     "key": "Chou-5LIB3r7S2F",
     "skin_name": "Thunder F",
     "sort": "7"
+  },
+  "Chou-CsWLzk2Vy4": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/chous.t.u.n.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+    "key": "Chou-CsWLzk2Vy4",
+    "skin_name": "Stun",
+    "sort": "8"
   }
 }
