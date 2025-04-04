@@ -2689,5 +2689,14 @@
     "key": "Claude-zKUwzqYvCw",
     "skin_name": "Christmas",
     "sort": "5"
+  },
+  "Claude-DrO1cZx3uB": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/claudeEpic.zip",
+    "hero": "Claude",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero654-portrait.png/revision/latest?cb=20220525165637",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero654-portrait.png/revision/latest?cb=20220525165637",
+    "key": "Claude-DrO1cZx3uB",
+    "skin_name": "Mecha Dragon",
+    "sort": "6"
   }
 }
