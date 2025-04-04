@@ -2311,5 +2311,14 @@
     "key": "Brody-OswCySgzSy",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Brody-KDha6TiOxW": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/BrodyStun.zip",
+    "hero": "Brody",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
+    "key": "Brody-KDha6TiOxW",
+    "skin_name": "Stun",
+    "sort": "1"
   }
 }
