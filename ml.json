@@ -2716,5 +2716,14 @@
     "key": "Claude-laktfXXkkp",
     "skin_name": "Challenger S",
     "sort": "8"
+  },
+  "Claude-MBh5qZh3S7": {
+    "url": "https://github.com/Lioxmenthol/SC-MARKSMAN-2025/raw/refs/heads/main/UPDATE%20CLAUDE%20PRIME%2017FEB.zip",
+    "hero": "Claude",
+    "img": "https://i.ibb.co.com/QpP7LtM/claude-prime.jpg",
+    "img2": "https://i.ibb.co.com/QpP7LtM/claude-prime.jpg",
+    "key": "Claude-MBh5qZh3S7",
+    "skin_name": "Cosmic Blaze",
+    "sort": "9"
   }
 }
