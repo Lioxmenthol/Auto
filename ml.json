@@ -1735,5 +1735,14 @@
     "key": "Badang-S3t891pmN7",
     "skin_name": "Collector",
     "sort": "2"
+  },
+  "Badang-R93yAeiFl1": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20BADANG%20ZODIAC%201FEB.zip",
+    "hero": "Badang",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest?cb=20230623125824",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest?cb=20230623125824",
+    "key": "Badang-R93yAeiFl1",
+    "skin_name": "Leo",
+    "sort": "3"
   }
 }
