@@ -2509,5 +2509,14 @@
     "key": "Chou-A6xHhV8IEM",
     "skin_name": "Furious T",
     "sort": "3"
+  },
+  "Chou-D6jY56enAD": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/choukingofmuaythai.zip",
+    "hero": "Chou",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest?cb=20220525164852",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest?cb=20220525164852",
+    "key": "Chou-D6jY56enAD",
+    "skin_name": "Muay Thai",
+    "sort": "4"
   }
 }
