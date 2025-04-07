@@ -4183,5 +4183,14 @@
     "key": "Gord-x3QukT66XT",
     "skin_name": "Controller",
     "sort": "2"
+  },
+  "Gord-cx1SGUrA8v": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20GORD%20LEGEND%2016MAR.zip",
+    "hero": "Gord",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/gordlegend.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/gordlegend.jpg",
+    "key": "Gord-cx1SGUrA8v",
+    "skin_name": "Legend",
+    "sort": "3"
   }
 }
