@@ -3067,5 +3067,14 @@
     "key": "Julian-j8CFS5fLEd",
     "skin_name": "Kurapika",
     "sort": "2"
+  },
+  "Jawhead-HN6sNVm324": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/jawheadori.zip",
+    "hero": "Jawhead",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20220525165409",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20220525165409",
+    "key": "Jawhead-HN6sNVm324",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
