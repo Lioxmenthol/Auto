@@ -3625,5 +3625,14 @@
     "key": "Esmeralda-Zk31qjSPvb",
     "skin_name": "Collector",
     "sort": "7"
+  },
+  "Esmeralda-kUXroZHbIH": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/EsmeraldaMuse.zip",
+    "hero": "Esmeralda",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/esm.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/esm.jpg",
+    "key": "Esmeralda-kUXroZHbIH",
+    "skin_name": "Astral M",
+    "sort": "8"
   }
 }
