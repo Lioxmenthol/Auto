@@ -3616,5 +3616,14 @@
     "key": "Esmeralda-fIYYWG0hMs",
     "skin_name": "Dawning",
     "sort": "6"
+  },
+  "Esmeralda-Zk31qjSPvb": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/EsmeraldaEnvoy.zip",
+    "hero": "Esmeralda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero818-portrait.png/revision/latest?cb=20220525165939",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero818-portrait.png/revision/latest?cb=20220525165939",
+    "key": "Esmeralda-Zk31qjSPvb",
+    "skin_name": "Collector",
+    "sort": "7"
   }
 }
