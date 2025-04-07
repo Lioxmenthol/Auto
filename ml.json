@@ -3706,5 +3706,14 @@
     "key": "Edith-Vwi2fifmVd",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Edith-GUjukHBDnK": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/edithsafeguard.zip",
+    "hero": "Edith",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest?cb=20220525170534",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1112-portrait.png/revision/latest?cb=20220525170534",
+    "key": "Edith-GUjukHBDnK",
+    "skin_name": "Celestial",
+    "sort": "1"
   }
 }
