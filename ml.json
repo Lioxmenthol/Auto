@@ -3418,5 +3418,14 @@
     "key": "Lapu-Lapu-jT06oBXvNY",
     "skin_name": "Elite",
     "sort": "3"
+  },
+  "Lapu-Lapu-Csj7it1nox": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/lapu-lapuspecial.zip",
+    "hero": "Lapu-Lapu",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero374-portrait.png/revision/latest?cb=20220525165117",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero374-portrait.png/revision/latest?cb=20220525165117",
+    "key": "Lapu-Lapu-Csj7it1nox",
+    "skin_name": "Special",
+    "sort": "4"
   }
 }
