@@ -3166,5 +3166,14 @@
     "key": "Guinevere-EnnvgQqDHf",
     "skin_name": "Sakura",
     "sort": "2"
+  },
+  "Guinevere-6agcOd8n60": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/guineverespecial2.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest?cb=20220525165913",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest?cb=20220525165913",
+    "key": "Guinevere-6agcOd8n60",
+    "skin_name": "Special",
+    "sort": "3"
   }
 }
