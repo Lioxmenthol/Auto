@@ -3328,5 +3328,14 @@
     "key": "Martis-xMrL2HjWT0",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Martis-OXgZalAcbm": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/martisstarlight.zip",
+    "hero": "Martis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest?cb=20220525165507",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest?cb=20220525165507",
+    "key": "Martis-OXgZalAcbm",
+    "skin_name": "Starlight",
+    "sort": "1"
   }
 }
