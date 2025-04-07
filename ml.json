@@ -2986,5 +2986,14 @@
     "key": "Freya-v29kof3xae",
     "skin_name": "Special",
     "sort": "3"
+  },
+  "Freya-pH00LbtQBB": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/186.zip",
+    "hero": "Freya",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkL5YKLUAW1SzAEZODcYxsNSdGEgFyMe8Vg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkL5YKLUAW1SzAEZODcYxsNSdGEgFyMe8Vg&usqp=CAU",
+    "key": "Freya-pH00LbtQBB",
+    "skin_name": "Starlight",
+    "sort": "4"
   }
 }
