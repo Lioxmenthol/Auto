@@ -4111,5 +4111,14 @@
     "key": "Gusion-kQsUrFu2cG",
     "skin_name": "Legend",
     "sort": "6"
+  },
+  "Gusion-DzUjEkR2Ha": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/GusionOwl.zip",
+    "hero": "Gusion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest?cb=20220525165452",
+    "key": "Gusion-DzUjEkR2Ha",
+    "skin_name": "Collector",
+    "sort": "7"
   }
 }
