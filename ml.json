@@ -4255,5 +4255,14 @@
     "key": "Granger-bFkV14QDPn",
     "skin_name": "Legend",
     "sort": "4"
+  },
+  "Granger-R9X5X9gfmD": {
+    "url": "https://github.com/Lioxmenthol/SC-MARKSMAN-2025/raw/refs/heads/main/UPDATE%20GRANGER%20MEGATRON%2021JAN.zip",
+    "hero": "Granger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Megatron.jpg/revision/latest/scale-to-width-down/250?cb=20220203090128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Megatron.jpg/revision/latest/scale-to-width-down/250?cb=20220203090128",
+    "key": "Granger-R9X5X9gfmD",
+    "skin_name": "Megatron",
+    "sort": "5"
   }
 }
