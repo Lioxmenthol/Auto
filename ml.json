@@ -3985,5 +3985,14 @@
     "key": "Gloo-2GZBn6X53j",
     "skin_name": "Verdant",
     "sort": "1"
+  },
+  "Gloo-w8paF9eOd7": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/gloospecial.zip",
+    "hero": "Gloo",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDnzaX1Opth0oC-AyD8ij9hQTQX2D5gS1xDw&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDnzaX1Opth0oC-AyD8ij9hQTQX2D5gS1xDw&usqp=CAU",
+    "key": "Gloo-w8paF9eOd7",
+    "skin_name": "Special",
+    "sort": "2"
   }
 }
