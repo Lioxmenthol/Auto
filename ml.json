@@ -3967,5 +3967,14 @@
     "key": "Gatotkaca-cIRVVy7Dxb",
     "skin_name": "Genos",
     "sort": "6"
+  },
+  "Gloo-PLOgUWlm7h": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/glooori.zip",
+    "hero": "Gloo",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl31kW7TtLat5XeP7Yplb_8aGO19XJySU3Pg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl31kW7TtLat5XeP7Yplb_8aGO19XJySU3Pg&usqp=CAU",
+    "key": "Gloo-PLOgUWlm7h",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
