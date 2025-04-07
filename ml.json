@@ -3121,5 +3121,14 @@
     "key": "Jawhead-rFZ2zp1Bi8",
     "skin_name": "Starlight",
     "sort": "5"
+  },
+  "Jawhead-rsxCYIbyDk": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/jawheadmpl.zip",
+    "hero": "Jawhead",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero548-portrait.png/revision/latest?cb=20220804115329",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero548-portrait.png/revision/latest?cb=20220804115329",
+    "key": "Jawhead-rsxCYIbyDk",
+    "skin_name": "Mpl",
+    "sort": "6"
   }
 }
