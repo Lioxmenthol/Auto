@@ -3040,5 +3040,14 @@
     "key": "Julian-U8IiybxVkl",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Julian-RDcPNcRlrM": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/julianstarlight.zip",
+    "hero": "Julian",
+    "img": "https://i.ibb.co.com/S6wS60p/Screenshot-20241106-235149.jpg",
+    "img2": "https://i.ibb.co.com/S6wS60p/Screenshot-20241106-235149.jpg",
+    "key": "Julian-RDcPNcRlrM",
+    "skin_name": "Starlight",
+    "sort": "1"
   }
 }
