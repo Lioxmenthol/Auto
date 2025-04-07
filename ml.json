@@ -3733,5 +3733,14 @@
     "key": "Edith-anrKDc33Hm",
     "skin_name": "Beyond C",
     "sort": "3"
+  },
+  "Edith-aTpc8LYFD6": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/edithcollector.zip",
+    "hero": "Edith",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/edi.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/edi.jpg",
+    "key": "Edith-aTpc8LYFD6",
+    "skin_name": "Collector",
+    "sort": "4"
   }
 }
