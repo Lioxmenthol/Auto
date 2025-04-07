@@ -3949,5 +3949,14 @@
     "key": "Gatotkaca-S8eID10I2X",
     "skin_name": "Nutcracker",
     "sort": "4"
+  },
+  "Gatotkaca-gUQNvldmmd": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20GATOT%20KOF%2022FEB.zip",
+    "hero": "Gatotkaca",
+    "img": "https://i.ibb.co.com/C3SNd1gk/f42806f06e956026ddcada4f4a17f900.jpg",
+    "img2": "https://i.ibb.co.com/C3SNd1gk/f42806f06e956026ddcada4f4a17f900.jpg",
+    "key": "Gatotkaca-gUQNvldmmd",
+    "skin_name": "Kof",
+    "sort": "5"
   }
 }
