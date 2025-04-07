@@ -3751,5 +3751,14 @@
     "key": "Edith-N5uTzdvVZv",
     "skin_name": "Mpl",
     "sort": "5"
+  },
+  "Fanny-kiu0EzdfI8": {
+    "url": "https://github.com/WorstInjector/BACKUPS/raw/refs/heads/main/FannyBackup.zip",
+    "hero": "Fanny",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20220525164654",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20220525164654",
+    "key": "Fanny-kiu0EzdfI8",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
