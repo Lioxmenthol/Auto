@@ -3580,5 +3580,14 @@
     "key": "Esmeralda-f0OVMDv1zP",
     "skin_name": "Ruddy D",
     "sort": "2"
+  },
+  "Esmeralda-eyK88edgB8": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/EsmeraldaVine.zip",
+    "hero": "Esmeralda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hero813-portrait.png/revision/latest?cb=20220525165934",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Hero813-portrait.png/revision/latest?cb=20220525165934",
+    "key": "Esmeralda-eyK88edgB8",
+    "skin_name": "Elite",
+    "sort": "3"
   }
 }
