@@ -3301,5 +3301,14 @@
     "key": "Leomord-4pVPjmFUQ0",
     "skin_name": "Abbys",
     "sort": "5"
+  },
+  "Leomord-enmmJS1gfE": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20LEOMORD%20DUCATI%208MAR.zip",
+    "hero": "Leomord",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/1726882375222.jpg",
+    "img2": "https://github.com/Renier012/Img/raw/refs/heads/main/1726882375222.jpg",
+    "key": "Leomord-enmmJS1gfE",
+    "skin_name": "Ducati",
+    "sort": "6"
   }
 }
