@@ -3031,5 +3031,14 @@
     "key": "Freya-wnZFG29Ivh",
     "skin_name": "Legend",
     "sort": "8"
+  },
+  "Julian-U8IiybxVkl": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/UPDATE%20JULIAN%20ORI.zip",
+    "hero": "Julian",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638",
+    "key": "Julian-U8IiybxVkl",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
