@@ -3661,5 +3661,14 @@
     "key": "Eudora-PNFcU2TfQp",
     "skin_name": "Christmas",
     "sort": "1"
+  },
+  "Eudora-ttRs5bfUFi": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/145.zip",
+    "hero": "Eudora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest?cb=20220525164633",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest?cb=20220525164633",
+    "key": "Eudora-ttRs5bfUFi",
+    "skin_name": "Emerald",
+    "sort": "2"
   }
 }
