@@ -3355,5 +3355,14 @@
     "key": "Martis-Kcjqa3bEOJ",
     "skin_name": "Zodiac",
     "sort": "3"
+  },
+  "Martis-tSQeToFoe8": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/martisspecial.zip",
+    "hero": "Martis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero586-portrait.png/revision/latest?cb=20220525165510",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero586-portrait.png/revision/latest?cb=20220525165510",
+    "key": "Martis-tSQeToFoe8",
+    "skin_name": "Special",
+    "sort": "4"
   }
 }
