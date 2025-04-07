@@ -3958,5 +3958,14 @@
     "key": "Gatotkaca-gUQNvldmmd",
     "skin_name": "Kof",
     "sort": "5"
+  },
+  "Gatotkaca-cIRVVy7Dxb": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20GATOT%20X%20GENOS%2022FEB.zip",
+    "hero": "Gatotkaca",
+    "img": "https://i.ibb.co.com/0R1QPnHQ/1740208799727.jpg",
+    "img2": "https://i.ibb.co.com/0R1QPnHQ/1740208799727.jpg",
+    "key": "Gatotkaca-cIRVVy7Dxb",
+    "skin_name": "Genos",
+    "sort": "6"
   }
 }
