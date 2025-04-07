@@ -3004,5 +3004,14 @@
     "key": "Freya-x0IqoY4EzZ",
     "skin_name": "War Angel",
     "sort": "5"
+  },
+  "Freya-tyIB6kcPDc": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/freyaepic1.zip",
+    "hero": "Freya",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSulWrkMBI_E9FlHOb8mHnfc60ggpUBjAzxUA&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSulWrkMBI_E9FlHOb8mHnfc60ggpUBjAzxUA&usqp=CAU",
+    "key": "Freya-tyIB6kcPDc",
+    "skin_name": "Raven S",
+    "sort": "6"
   }
 }
