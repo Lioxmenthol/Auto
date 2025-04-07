@@ -3193,5 +3193,14 @@
     "key": "Guinevere-dXJMzh01cy",
     "skin_name": "Summer",
     "sort": "5"
+  },
+  "Guinevere-zcAYUdvi81": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/guineverelegend.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest?cb=20220525165927",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest?cb=20220525165927",
+    "key": "Guinevere-zcAYUdvi81",
+    "skin_name": "Legend",
+    "sort": "6"
   }
 }
