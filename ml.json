@@ -2950,5 +2950,14 @@
     "key": "Dyrroth-nfBeIkpjYl",
     "skin_name": "Gon",
     "sort": "6"
+  },
+  "Freya-9K2hwpVYhd": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/freyaori.zip",
+    "hero": "Freya",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJGAwW3-W1aAD2seuxp35cPWa195LLG0xJg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJGAwW3-W1aAD2seuxp35cPWa195LLG0xJg&usqp=CAU",
+    "key": "Freya-9K2hwpVYhd",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
