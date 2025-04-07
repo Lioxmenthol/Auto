@@ -3139,5 +3139,14 @@
     "key": "Jawhead-Q6AqoIvkK9",
     "skin_name": "S33",
     "sort": "7"
+  },
+  "Guinevere-ffrtGTshMA": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/guinevereori.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20220525165850",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20220525165850",
+    "key": "Guinevere-ffrtGTshMA",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
