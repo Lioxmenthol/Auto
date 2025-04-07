@@ -3256,5 +3256,14 @@
     "key": "Leomord-AdWbBl5J4g",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Leomord-kbDgz5mI34": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/152.zip",
+    "hero": "Leomord",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero673-portrait.png/revision/latest?cb=20220525165656",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero673-portrait.png/revision/latest?cb=20220525165656",
+    "key": "Leomord-kbDgz5mI34",
+    "skin_name": "Starlight",
+    "sort": "1"
   }
 }
