@@ -3400,5 +3400,14 @@
     "key": "Lapu-Lapu-CFK1MJzi5n",
     "skin_name": "A Blade",
     "sort": "1"
+  },
+  "Lapu-Lapu-PXtARZS4Wb": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/lapu-lapustarlight.zip",
+    "hero": "Lapu-Lapu",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero375-portrait.png/revision/latest?cb=20220525165118",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero375-portrait.png/revision/latest?cb=20220525165118",
+    "key": "Lapu-Lapu-PXtARZS4Wb",
+    "skin_name": "Starlight",
+    "sort": "2"
   }
 }
