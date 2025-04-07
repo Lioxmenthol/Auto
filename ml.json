@@ -3463,5 +3463,14 @@
     "key": "Masha-QgALLzuSgC",
     "skin_name": "Starlight",
     "sort": "1"
+  },
+  "Masha-fwGRr01q9D": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/mashadragontamer.zip",
+    "hero": "Masha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero884-portrait.png/revision/latest?cb=20220525170110",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero884-portrait.png/revision/latest?cb=20220525170110",
+    "key": "Masha-fwGRr01q9D",
+    "skin_name": "Dragon T",
+    "sort": "2"
   }
 }
