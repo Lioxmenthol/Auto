@@ -2959,5 +2959,14 @@
     "key": "Freya-9K2hwpVYhd",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Freya-LmfUhddTVi": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/183.zip",
+    "hero": "Freya",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbdKHPj1qGFzwdrgwDo0utMB1f6SwWV_V7Pw&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbdKHPj1qGFzwdrgwDo0utMB1f6SwWV_V7Pw&usqp=CAU",
+    "key": "Freya-LmfUhddTVi",
+    "skin_name": "Gladiator",
+    "sort": "1"
   }
 }
