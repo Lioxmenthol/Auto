@@ -3589,5 +3589,14 @@
     "key": "Esmeralda-eyK88edgB8",
     "skin_name": "Elite",
     "sort": "3"
+  },
+  "Esmeralda-0T3Qfs3HmW": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/EsmeraldaLadyThief.zip",
+    "hero": "Esmeralda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero814-portrait.png/revision/latest?cb=20220525165935",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero814-portrait.png/revision/latest?cb=20220525165935",
+    "key": "Esmeralda-0T3Qfs3HmW",
+    "skin_name": "Valentine",
+    "sort": "4"
   }
 }
