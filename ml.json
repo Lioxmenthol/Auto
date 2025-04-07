@@ -4156,5 +4156,14 @@
     "key": "Gusion-AifTtdAiK8",
     "skin_name": "Minato",
     "sort": "11"
+  },
+  "Gord-5qCD8sk3iq": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/gordori.zip",
+    "hero": "Gord",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero231-portrait.png/revision/latest?cb=20220525164812",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero231-portrait.png/revision/latest?cb=20220525164812",
+    "key": "Gord-5qCD8sk3iq",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
