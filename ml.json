@@ -4048,5 +4048,14 @@
     "key": "Grock-BySYtQlftb",
     "skin_name": "Wasteland",
     "sort": "5"
+  },
+  "Gusion-ojK7QnIKA4": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/GusionBlade.zip",
+    "hero": "Gusion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20220909095407",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20220909095407",
+    "key": "Gusion-ojK7QnIKA4",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
