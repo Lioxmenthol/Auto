@@ -3886,5 +3886,14 @@
     "key": "Fredrin-U0SuqR1rDX",
     "skin_name": "Neobeast",
     "sort": "1"
+  },
+  "Fredrin-Ffu7HuHA6o": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/fredrinsparkle.zip",
+    "hero": "Fredrin",
+    "img": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Fredrin%20sparkle.png",
+    "img2": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Fredrin%20sparkle.png",
+    "key": "Fredrin-Ffu7HuHA6o",
+    "skin_name": "Sparkle",
+    "sort": "2"
   }
 }
