@@ -3274,5 +3274,14 @@
     "key": "Leomord-Pdziani5gP",
     "skin_name": "Special",
     "sort": "2"
+  },
+  "Leomord-WALoQA5NQa": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/154.zip",
+    "hero": "Leomord",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero676-portrait.png/revision/latest?cb=20220525165738",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero676-portrait.png/revision/latest?cb=20220525165738",
+    "key": "Leomord-WALoQA5NQa",
+    "skin_name": "Hallowen",
+    "sort": "3"
   }
 }
