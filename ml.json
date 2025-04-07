@@ -2941,5 +2941,14 @@
     "key": "Dyrroth-BcJnSRAW3F",
     "skin_name": "Collector",
     "sort": "5"
+  },
+  "Dyrroth-nfBeIkpjYl": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20DYRROTH%20GON%20UI%2025FEB.zip",
+    "hero": "Dyrroth",
+    "img": "https://i.ibb.co.com/JQfwp8H/1733739742776.jpg",
+    "img2": "https://i.ibb.co.com/JQfwp8H/1733739742776.jpg",
+    "key": "Dyrroth-nfBeIkpjYl",
+    "skin_name": "Gon",
+    "sort": "6"
   }
 }
