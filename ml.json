@@ -3382,5 +3382,14 @@
     "key": "Martis-if4KJF7NNr",
     "skin_name": "Dark Water",
     "sort": "6"
+  },
+  "Lapu-Lapu-aQJRqx7X8f": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/lapu-lapuori.zip",
+    "hero": "Lapu-Lapu",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
+    "key": "Lapu-Lapu-aQJRqx7X8f",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
