@@ -3643,5 +3643,14 @@
     "key": "Esmeralda-Q4q7ESh7hu",
     "skin_name": "Tsunade",
     "sort": "9"
+  },
+  "Eudora-aYxM4eiMvV": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/EudoraWeaver.zip",
+    "hero": "Eudora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png/revision/latest?cb=20220525164621",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png/revision/latest?cb=20220525164621",
+    "key": "Eudora-aYxM4eiMvV",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
