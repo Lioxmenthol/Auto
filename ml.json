@@ -3445,5 +3445,14 @@
     "key": "Lapu-Lapu-lBjQgHusiK",
     "skin_name": "Collector",
     "sort": "6"
+  },
+  "Masha-MRQOduinvd": {
+    "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
+    "hero": "Masha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
+    "key": "Masha-MRQOduinvd",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
