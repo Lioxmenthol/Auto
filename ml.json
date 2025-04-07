@@ -3778,5 +3778,14 @@
     "key": "Fanny-4DBK6gb3L7",
     "skin_name": "Starlight",
     "sort": "2"
+  },
+  "Fanny-A3N7QEHYXA": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/FannyCarnival.zip",
+    "hero": "Fanny",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
+    "key": "Fanny-A3N7QEHYXA",
+    "skin_name": "Christmas",
+    "sort": "3"
   }
 }
