@@ -3130,5 +3130,14 @@
     "key": "Jawhead-rsxCYIbyDk",
     "skin_name": "Mpl",
     "sort": "6"
+  },
+  "Jawhead-Q6AqoIvkK9": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/216.zip",
+    "hero": "Jawhead",
+    "img": "https://github.com/Hiro161123/Fighter/raw/main/jawhead%20s33.jpg",
+    "img2": "https://github.com/Hiro161123/Fighter/raw/main/jawhead%20s33.jpg",
+    "key": "Jawhead-Q6AqoIvkK9",
+    "skin_name": "S33",
+    "sort": "7"
   }
 }
