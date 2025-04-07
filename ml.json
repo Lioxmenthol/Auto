@@ -3454,5 +3454,14 @@
     "key": "Masha-MRQOduinvd",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Masha-QgALLzuSgC": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/105.zip",
+    "hero": "Masha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero883-portrait.png/revision/latest?cb=20220525170110",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero883-portrait.png/revision/latest?cb=20220525170110",
+    "key": "Masha-QgALLzuSgC",
+    "skin_name": "Starlight",
+    "sort": "1"
   }
 }
