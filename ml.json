@@ -3553,5 +3553,14 @@
     "key": "Minsittar-0vZUgloTiz",
     "skin_name": "Abbys",
     "sort": "3"
+  },
+  "Esmeralda-CwaarsmmoM": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/EsmeraldaAstologer.zip",
+    "hero": "Esmeralda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png/revision/latest?cb=20220525165930",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png/revision/latest?cb=20220525165930",
+    "key": "Esmeralda-CwaarsmmoM",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
