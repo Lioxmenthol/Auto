@@ -3634,5 +3634,14 @@
     "key": "Esmeralda-kUXroZHbIH",
     "skin_name": "Astral M",
     "sort": "8"
+  },
+  "Esmeralda-Q4q7ESh7hu": {
+    "url": "https://github.com/Lioxmenthol/SC-TANK-2025/raw/refs/heads/main/ESME%20X%20TSUNADE%205FEB.zip",
+    "hero": "Esmeralda",
+    "img": "https://i.ibb.co.com/MxpbQXwp/1738750933782.jpg",
+    "img2": "https://i.ibb.co.com/MxpbQXwp/1738750933782.jpg",
+    "key": "Esmeralda-Q4q7ESh7hu",
+    "skin_name": "Tsunade",
+    "sort": "9"
   }
 }
