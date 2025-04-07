@@ -3598,5 +3598,14 @@
     "key": "Esmeralda-0T3Qfs3HmW",
     "skin_name": "Valentine",
     "sort": "4"
+  },
+  "Esmeralda-Tdmj8FxXAv": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/EsmeraldaCleopatra.zip",
+    "hero": "Esmeralda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero815-portrait.png/revision/latest?cb=20220525165936",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero815-portrait.png/revision/latest?cb=20220525165936",
+    "key": "Esmeralda-Tdmj8FxXAv",
+    "skin_name": "Starlight",
+    "sort": "5"
   }
 }
