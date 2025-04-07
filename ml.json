@@ -3724,5 +3724,14 @@
     "key": "Edith-6gpRcEtAZT",
     "skin_name": "Ancient W",
     "sort": "2"
+  },
+  "Edith-anrKDc33Hm": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/edithbeyondclouds.zip",
+    "hero": "Edith",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1115-portrait.png/revision/latest?cb=20230805043923",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1115-portrait.png/revision/latest?cb=20230805043923",
+    "key": "Edith-anrKDc33Hm",
+    "skin_name": "Beyond C",
+    "sort": "3"
   }
 }
