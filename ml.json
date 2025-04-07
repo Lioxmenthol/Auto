@@ -3571,5 +3571,14 @@
     "key": "Esmeralda-M1wJYk31PB",
     "skin_name": "Blazing",
     "sort": "1"
+  },
+  "Esmeralda-f0OVMDv1zP": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/EsmeraldaRuddyDusk.zip",
+    "hero": "Esmeralda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero812-portrait.png/revision/latest?cb=20220525165933",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero812-portrait.png/revision/latest?cb=20220525165933",
+    "key": "Esmeralda-f0OVMDv1zP",
+    "skin_name": "Ruddy D",
+    "sort": "2"
   }
 }
