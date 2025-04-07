@@ -3148,5 +3148,14 @@
     "key": "Guinevere-ffrtGTshMA",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Guinevere-ECTGluwp6R": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/guineverestarlight.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest?cb=20220525165909",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest?cb=20220525165909",
+    "key": "Guinevere-ECTGluwp6R",
+    "skin_name": "Starlight",
+    "sort": "1"
   }
 }
