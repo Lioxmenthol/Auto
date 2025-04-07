@@ -3391,5 +3391,14 @@
     "key": "Lapu-Lapu-aQJRqx7X8f",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Lapu-Lapu-CFK1MJzi5n": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/94.zip",
+    "hero": "Lapu-Lapu",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero372-portrait.png/revision/latest?cb=20220525165115",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero372-portrait.png/revision/latest?cb=20220525165115",
+    "key": "Lapu-Lapu-CFK1MJzi5n",
+    "skin_name": "A Blade",
+    "sort": "1"
   }
 }
