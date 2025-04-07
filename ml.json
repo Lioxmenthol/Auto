@@ -3283,5 +3283,14 @@
     "key": "Leomord-WALoQA5NQa",
     "skin_name": "Hallowen",
     "sort": "3"
+  },
+  "Leomord-YRpJkwdMi0": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/leomordepic.zip",
+    "hero": "Leomord",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest?cb=20230514163416",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest?cb=20230514163416",
+    "key": "Leomord-YRpJkwdMi0",
+    "skin_name": "Epic",
+    "sort": "4"
   }
 }
