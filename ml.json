@@ -3913,5 +3913,14 @@
     "key": "Gatotkaca-vsGHhsIrpF",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Gatotkaca-n5heZe8xQ8": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/gatotspark.zip",
+    "hero": "Gatotkaca",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Spark.jpg/revision/latest/scale-to-width-down/250?cb=20211222023451",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Spark.jpg/revision/latest/scale-to-width-down/250?cb=20211222023451",
+    "key": "Gatotkaca-n5heZe8xQ8",
+    "skin_name": "Spark",
+    "sort": "1"
   }
 }
