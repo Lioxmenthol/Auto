@@ -3247,5 +3247,14 @@
     "key": "Khaleed-SfJ4L6ng48",
     "skin_name": "Epic",
     "sort": "3"
+  },
+  "Leomord-AdWbBl5J4g": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/leomordori.zip",
+    "hero": "Leomord",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero671-portrait.png/revision/latest?cb=20220628173702",
+    "key": "Leomord-AdWbBl5J4g",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
