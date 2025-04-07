@@ -3175,5 +3175,14 @@
     "key": "Guinevere-6agcOd8n60",
     "skin_name": "Special",
     "sort": "3"
+  },
+  "Guinevere-nQ3ma6S8KU": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/guinevereladycrane.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero806-portrait.png/revision/latest?cb=20220525165916",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero806-portrait.png/revision/latest?cb=20220525165916",
+    "key": "Guinevere-nQ3ma6S8KU",
+    "skin_name": "Epic",
+    "sort": "4"
   }
 }
