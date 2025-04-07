@@ -3427,5 +3427,14 @@
     "key": "Lapu-Lapu-Csj7it1nox",
     "skin_name": "Special",
     "sort": "4"
+  },
+  "Lapu-Lapu-IGuttIPfSj": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/98.zip",
+    "hero": "Lapu-Lapu",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero376-portrait.png/revision/latest?cb=20230317102332",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero376-portrait.png/revision/latest?cb=20230317102332",
+    "key": "Lapu-Lapu-IGuttIPfSj",
+    "skin_name": "Son Wild",
+    "sort": "5"
   }
 }
