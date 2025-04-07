@@ -3499,5 +3499,14 @@
     "key": "Masha-zJJZ6RwfTg",
     "skin_name": "Kof",
     "sort": "5"
+  },
+  "Minsittar-SylDIdks1Y": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/minsittharori.zip",
+    "hero": "Minsittar",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
+    "key": "Minsittar-SylDIdks1Y",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
