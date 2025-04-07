@@ -3220,5 +3220,14 @@
     "key": "Khaleed-Uz4s8qn0en",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Khaleed-2nD8N8hbEV": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/116.zip",
+    "hero": "Khaleed",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Prince_of_Sand.jpg/revision/latest/scale-to-width-down/250?cb=20200912100112",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Prince_of_Sand.jpg/revision/latest/scale-to-width-down/250?cb=20200912100112",
+    "key": "Khaleed-2nD8N8hbEV",
+    "skin_name": "Prince",
+    "sort": "1"
   }
 }
