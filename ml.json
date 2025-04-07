@@ -3922,5 +3922,14 @@
     "key": "Gatotkaca-n5heZe8xQ8",
     "skin_name": "Spark",
     "sort": "1"
+  },
+  "Gatotkaca-zUBeBkNm6b": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/UPDATE%20GATOT%20SENTINEL.zip",
+    "hero": "Gatotkaca",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Sentinel.jpg/revision/latest/scale-to-width-down/250?cb=20211222023425",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Sentinel.jpg/revision/latest/scale-to-width-down/250?cb=20211222023425",
+    "key": "Gatotkaca-zUBeBkNm6b",
+    "skin_name": "Sentinel",
+    "sort": "2"
   }
 }
