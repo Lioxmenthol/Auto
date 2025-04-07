@@ -3742,5 +3742,14 @@
     "key": "Edith-aTpc8LYFD6",
     "skin_name": "Collector",
     "sort": "4"
+  },
+  "Edith-N5uTzdvVZv": {
+    "url": "https://github.com/Lioxmenthol/SC-TANK-2025/raw/refs/heads/main/UPDATE%20EDITH%20MPL%208MAR.zip",
+    "hero": "Edith",
+    "img": "https://i.ibb.co.com/xS41BWrG/Screenshot-20250310-003918.jpg",
+    "img2": "https://i.ibb.co.com/xS41BWrG/Screenshot-20250310-003918.jpg",
+    "key": "Edith-N5uTzdvVZv",
+    "skin_name": "Mpl",
+    "sort": "5"
   }
 }
