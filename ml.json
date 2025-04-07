@@ -3868,5 +3868,14 @@
     "key": "Fanny-qn75pR8hCk",
     "skin_name": "Sweet Fantasy",
     "sort": "12"
+  },
+  "Fredrin-FPodYyfdT1": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20FREDRIN%20ORI.zip",
+    "hero": "Fredrin",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20220630130119",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20220630130119",
+    "key": "Fredrin-FPodYyfdT1",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
