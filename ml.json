@@ -3994,5 +3994,14 @@
     "key": "Gloo-w8paF9eOd7",
     "skin_name": "Special",
     "sort": "2"
+  },
+  "Grock-bIY1rWLthT": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/grockori.zip",
+    "hero": "Grock",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGYiOaApGxFXDTzR4LZxTpFkgXizZyBg44Q&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGYiOaApGxFXDTzR4LZxTpFkgXizZyBg44Q&usqp=CAU",
+    "key": "Grock-bIY1rWLthT",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
