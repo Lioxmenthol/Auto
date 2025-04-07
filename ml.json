@@ -2914,5 +2914,14 @@
     "key": "Dyrroth-CnAuoJlXGT",
     "skin_name": "Kof",
     "sort": "2"
+  },
+  "Dyrroth-HU6Vwze298": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/72.zip",
+    "hero": "Dyrroth",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
+    "key": "Dyrroth-HU6Vwze298",
+    "skin_name": "Scalebore",
+    "sort": "3"
   }
 }
