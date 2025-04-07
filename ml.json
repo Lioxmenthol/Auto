@@ -3562,5 +3562,14 @@
     "key": "Esmeralda-CwaarsmmoM",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Esmeralda-M1wJYk31PB": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/UPDATE%20ESME%20BLAZING%209JAN.zip",
+    "hero": "Esmeralda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero816-portrait.png/revision/latest?cb=20220525165937",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero816-portrait.png/revision/latest?cb=20220525165937",
+    "key": "Esmeralda-M1wJYk31PB",
+    "skin_name": "Blazing",
+    "sort": "1"
   }
 }
