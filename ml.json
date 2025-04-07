@@ -4021,5 +4021,14 @@
     "key": "Grock-22NNPBA1oQ",
     "skin_name": "Venom",
     "sort": "2"
+  },
+  "Grock-hUGb7TH59J": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/grockepic.zip",
+    "hero": "Grock",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fYgUakCOAzMVuoCKvcnHCFO0cJP59AjzyQ&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fYgUakCOAzMVuoCKvcnHCFO0cJP59AjzyQ&usqp=CAU",
+    "key": "Grock-hUGb7TH59J",
+    "skin_name": "Epic",
+    "sort": "3"
   }
 }
