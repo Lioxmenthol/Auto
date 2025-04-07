@@ -3679,5 +3679,14 @@
     "key": "Eudora-CWH930jBB7",
     "skin_name": "Limited",
     "sort": "3"
+  },
+  "Eudora-0hVYwBJcI1": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/EudoraVoyage.zip",
+    "hero": "Eudora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero157-portrait.png/revision/latest?cb=20220724063929",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero157-portrait.png/revision/latest?cb=20220724063929",
+    "key": "Eudora-0hVYwBJcI1",
+    "skin_name": "Starlight",
+    "sort": "4"
   }
 }
