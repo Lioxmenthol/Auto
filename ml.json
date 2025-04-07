@@ -3688,5 +3688,14 @@
     "key": "Eudora-0hVYwBJcI1",
     "skin_name": "Starlight",
     "sort": "4"
+  },
+  "Eudora-R6DpbevbSa": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/EudoraAtomicpop.zip",
+    "hero": "Eudora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest?cb=20230316133651",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest?cb=20230316133651",
+    "key": "Eudora-R6DpbevbSa",
+    "skin_name": "Atomic",
+    "sort": "5"
   }
 }
