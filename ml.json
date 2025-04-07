@@ -3409,5 +3409,14 @@
     "key": "Lapu-Lapu-PXtARZS4Wb",
     "skin_name": "Starlight",
     "sort": "2"
+  },
+  "Lapu-Lapu-jT06oBXvNY": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/96.zip",
+    "hero": "Lapu-Lapu",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero373-portrait.png/revision/latest?cb=20220525165116",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero373-portrait.png/revision/latest?cb=20220525165116",
+    "key": "Lapu-Lapu-jT06oBXvNY",
+    "skin_name": "Elite",
+    "sort": "3"
   }
 }
