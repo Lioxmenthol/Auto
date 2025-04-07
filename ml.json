@@ -3517,5 +3517,14 @@
     "key": "Minsittar-ltPNnwUfT7",
     "skin_name": "King of War",
     "sort": "1"
+  },
+  "Minsittar-EdWq0Hvew0": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/minsittharelite.zip",
+    "hero": "Minsittar",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero743-portrait.png/revision/latest?cb=20220525165803",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero743-portrait.png/revision/latest?cb=20220525165803",
+    "key": "Minsittar-EdWq0Hvew0",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
