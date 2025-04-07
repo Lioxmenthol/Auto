@@ -3157,5 +3157,14 @@
     "key": "Guinevere-ECTGluwp6R",
     "skin_name": "Starlight",
     "sort": "1"
+  },
+  "Guinevere-EnnvgQqDHf": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/guineverespecial.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png/revision/latest?cb=20220525165920",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png/revision/latest?cb=20220525165920",
+    "key": "Guinevere-EnnvgQqDHf",
+    "skin_name": "Sakura",
+    "sort": "2"
   }
 }
