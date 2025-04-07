@@ -3013,5 +3013,14 @@
     "key": "Freya-tyIB6kcPDc",
     "skin_name": "Raven S",
     "sort": "6"
+  },
+  "Freya-xwviWsEk8m": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/freyas.a.b.e.r.zip",
+    "hero": "Freya",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrh79zrJswf5Os1QuIbXIlmJSgZwUaUv4IQ&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrh79zrJswf5Os1QuIbXIlmJSgZwUaUv4IQ&usqp=CAU",
+    "key": "Freya-xwviWsEk8m",
+    "skin_name": "Saber",
+    "sort": "7"
   }
 }
