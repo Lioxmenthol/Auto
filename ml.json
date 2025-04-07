@@ -3094,5 +3094,14 @@
     "key": "Jawhead-OKYnaiYitX",
     "skin_name": "Space E",
     "sort": "2"
+  },
+  "Jawhead-nfTvKTXRdy": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/78.zip",
+    "hero": "Jawhead",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero545-portrait.png/revision/latest?cb=20220525165416",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero545-portrait.png/revision/latest?cb=20220525165416",
+    "key": "Jawhead-nfTvKTXRdy",
+    "skin_name": "Nutcracker",
+    "sort": "3"
   }
 }
