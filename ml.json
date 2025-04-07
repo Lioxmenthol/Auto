@@ -2932,5 +2932,14 @@
     "key": "Dyrroth-Terx7uwIph",
     "skin_name": "Venom",
     "sort": "4"
+  },
+  "Dyrroth-BcJnSRAW3F": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20DYRROTH%20CC%2013FEB.zip",
+    "hero": "Dyrroth",
+    "img": "https://i.ibb.co.com/fkMdLHv/6967948956385f471d21b4b776a01042.jpg",
+    "img2": "https://i.ibb.co.com/fkMdLHv/6967948956385f471d21b4b776a01042.jpg",
+    "key": "Dyrroth-BcJnSRAW3F",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
