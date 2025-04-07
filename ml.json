@@ -3112,5 +3112,14 @@
     "key": "Jawhead-o0e2JTb70E",
     "skin_name": "Collector",
     "sort": "4"
+  },
+  "Jawhead-rFZ2zp1Bi8": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/80.zip",
+    "hero": "Jawhead",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero547-portrait.png/revision/latest?cb=20220525165418",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero547-portrait.png/revision/latest?cb=20220525165418",
+    "key": "Jawhead-rFZ2zp1Bi8",
+    "skin_name": "Starlight",
+    "sort": "5"
   }
 }
