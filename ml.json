@@ -4075,5 +4075,14 @@
     "key": "Gusion-RcjKT9OeSm",
     "skin_name": "Starlight",
     "sort": "2"
+  },
+  "Gusion-oU75yXNCqu": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/GusionScorpion.zip",
+    "hero": "Gusion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest?cb=20220525165448",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest?cb=20220525165448",
+    "key": "Gusion-oU75yXNCqu",
+    "skin_name": "Venom",
+    "sort": "3"
   }
 }
