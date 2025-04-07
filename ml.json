@@ -4003,5 +4003,14 @@
     "key": "Grock-bIY1rWLthT",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Grock-BQnXN6BwbV": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/grockstar.zip",
+    "hero": "Grock",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSqTXBGaToXeHNXI2G-f_Wd03Wf4MGUtswg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSqTXBGaToXeHNXI2G-f_Wd03Wf4MGUtswg&usqp=CAU",
+    "key": "Grock-BQnXN6BwbV",
+    "skin_name": "Starlight",
+    "sort": "1"
   }
 }
