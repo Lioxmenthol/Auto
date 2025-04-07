@@ -3238,5 +3238,14 @@
     "key": "Khaleed-julqFMzwyI",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Khaleed-SfJ4L6ng48": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/khaleedepic.zip",
+    "hero": "Khaleed",
+    "img": "https://github.com/Hiro161123/Fighter/raw/main/Khaled%20epic.png",
+    "img2": "https://github.com/Hiro161123/Fighter/raw/main/Khaled%20epic.png",
+    "key": "Khaleed-SfJ4L6ng48",
+    "skin_name": "Epic",
+    "sort": "3"
   }
 }
