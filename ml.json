@@ -3652,5 +3652,14 @@
     "key": "Eudora-aYxM4eiMvV",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Eudora-PNFcU2TfQp": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/EudoraCarnival.zip",
+    "hero": "Eudora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero153-portrait.png/revision/latest?cb=20220525164632",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero153-portrait.png/revision/latest?cb=20220525164632",
+    "key": "Eudora-PNFcU2TfQp",
+    "skin_name": "Christmas",
+    "sort": "1"
   }
 }
