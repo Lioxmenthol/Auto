@@ -4165,5 +4165,14 @@
     "key": "Gord-5qCD8sk3iq",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Gord-FrIIJxrcQ2": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/114.zip",
+    "hero": "Gord",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero233-portrait.png/revision/latest?cb=20220525164817",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero233-portrait.png/revision/latest?cb=20220525164817",
+    "key": "Gord-FrIIJxrcQ2",
+    "skin_name": "Christmas",
+    "sort": "1"
   }
 }
