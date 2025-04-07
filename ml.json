@@ -4012,5 +4012,14 @@
     "key": "Grock-BQnXN6BwbV",
     "skin_name": "Starlight",
     "sort": "1"
+  },
+  "Grock-22NNPBA1oQ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/grockv.e.n.o.m.zip",
+    "hero": "Grock",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz1-nj3g0EH6QNL8ncrFt9m4eqU2r3XZfn9Q&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz1-nj3g0EH6QNL8ncrFt9m4eqU2r3XZfn9Q&usqp=CAU",
+    "key": "Grock-22NNPBA1oQ",
+    "skin_name": "Venom",
+    "sort": "2"
   }
 }
