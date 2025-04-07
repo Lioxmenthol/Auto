@@ -4030,5 +4030,14 @@
     "key": "Grock-hUGb7TH59J",
     "skin_name": "Epic",
     "sort": "3"
+  },
+  "Grock-XCk7hHgMTT": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/grockancientgolem.zip",
+    "hero": "Grock",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rX_sa872_Bjc16D9yexgO44SVnHBI441Zw&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rX_sa872_Bjc16D9yexgO44SVnHBI441Zw&usqp=CAU",
+    "key": "Grock-XCk7hHgMTT",
+    "skin_name": "Elite",
+    "sort": "4"
   }
 }
