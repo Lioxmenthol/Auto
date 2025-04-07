@@ -4273,5 +4273,14 @@
     "key": "Granger-pjB8jBahQb",
     "skin_name": "Special",
     "sort": "6"
+  },
+  "Granger-62rMtK69RS": {
+    "url": "https://github.com/Lioxmenthol/SC-MARKSMAN-2025/raw/refs/heads/main/UPDATE%20GRANGER%20ALURING%20ENIGMA%207FEB.zip",
+    "hero": "Granger",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/granger91.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/granger91.jpg",
+    "key": "Granger-62rMtK69RS",
+    "skin_name": "Alluring E",
+    "sort": "7"
   }
 }
