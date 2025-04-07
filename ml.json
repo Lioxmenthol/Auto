@@ -3823,5 +3823,14 @@
     "key": "Fanny-RdRZ3gnWpB",
     "skin_name": "Lightborn",
     "sort": "7"
+  },
+  "Fanny-eJbkc3qWgF": {
+    "url": "https://github.com/WorstInjector/ASSASSIN/raw/refs/heads/main/FannyRecharge.zip",
+    "hero": "Fanny",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero179-portrait.png/revision/latest?cb=20220525164709",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero179-portrait.png/revision/latest?cb=20220525164709",
+    "key": "Fanny-eJbkc3qWgF",
+    "skin_name": "Imperial",
+    "sort": "8"
   }
 }
