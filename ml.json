@@ -3202,5 +3202,14 @@
     "key": "Guinevere-zcAYUdvi81",
     "skin_name": "Legend",
     "sort": "6"
+  },
+  "Guinevere-cay4spDavW": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20GUIN%20KOF%2017FEB.zip",
+    "hero": "Guinevere",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest?cb=20220525165906",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest?cb=20220525165906",
+    "key": "Guinevere-cay4spDavW",
+    "skin_name": "Kof",
+    "sort": "1"
   }
 }
