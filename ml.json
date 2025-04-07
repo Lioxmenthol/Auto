@@ -4192,5 +4192,14 @@
     "key": "Gord-cx1SGUrA8v",
     "skin_name": "Legend",
     "sort": "3"
+  },
+  "Gord-OKyZ44cfVw": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/117.zip",
+    "hero": "Gord",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero236-portrait.png/revision/latest?cb=20220525164820",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero236-portrait.png/revision/latest?cb=20220525164820",
+    "key": "Gord-OKyZ44cfVw",
+    "skin_name": "New Baroon",
+    "sort": "4"
   }
 }
