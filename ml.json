@@ -2923,5 +2923,14 @@
     "key": "Dyrroth-HU6Vwze298",
     "skin_name": "Scalebore",
     "sort": "3"
+  },
+  "Dyrroth-Terx7uwIph": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/dyrrothvenom.zip",
+    "hero": "Dyrroth",
+    "img": "https://i.ibb.co.com/Xy46wyQ/1.jpg",
+    "img2": "https://i.ibb.co.com/Xy46wyQ/1.jpg",
+    "key": "Dyrroth-Terx7uwIph",
+    "skin_name": "Venom",
+    "sort": "4"
   }
 }
