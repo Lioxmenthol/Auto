@@ -3265,5 +3265,14 @@
     "key": "Leomord-kbDgz5mI34",
     "skin_name": "Starlight",
     "sort": "1"
+  },
+  "Leomord-Pdziani5gP": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/153.zip",
+    "hero": "Leomord",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero674-portrait.png/revision/latest?cb=20220525165657",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero674-portrait.png/revision/latest?cb=20220525165657",
+    "key": "Leomord-Pdziani5gP",
+    "skin_name": "Special",
+    "sort": "2"
   }
 }
