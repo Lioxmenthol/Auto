@@ -3373,5 +3373,14 @@
     "key": "Martis-93bhCQ9ZJJ",
     "skin_name": "Levi",
     "sort": "5"
+  },
+  "Martis-if4KJF7NNr": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/martisstar.zip",
+    "hero": "Martis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero588-portrait.png/revision/latest?cb=20240923124137",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero588-portrait.png/revision/latest?cb=20240923124137",
+    "key": "Martis-if4KJF7NNr",
+    "skin_name": "Dark Water",
+    "sort": "6"
   }
 }
