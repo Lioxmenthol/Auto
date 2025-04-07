@@ -2977,5 +2977,14 @@
     "key": "Freya-n1ZQm6pDi4",
     "skin_name": "Christmas",
     "sort": "2"
+  },
+  "Freya-v29kof3xae": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/185.zip",
+    "hero": "Freya",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgLYgy9BHG6d2c_uawESP5puO4e5TfiUjhw&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgLYgy9BHG6d2c_uawESP5puO4e5TfiUjhw&usqp=CAU",
+    "key": "Freya-v29kof3xae",
+    "skin_name": "Special",
+    "sort": "3"
   }
 }
