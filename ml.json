@@ -3814,5 +3814,14 @@
     "key": "Fanny-fZO5qYW1YG",
     "skin_name": "Skylark",
     "sort": "6"
+  },
+  "Fanny-RdRZ3gnWpB": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/FannyRanger.zip",
+    "hero": "Fanny",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
+    "key": "Fanny-RdRZ3gnWpB",
+    "skin_name": "Lightborn",
+    "sort": "7"
   }
 }
