@@ -3076,5 +3076,14 @@
     "key": "Jawhead-HN6sNVm324",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Jawhead-bQKeSdnS0M": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/76.zip",
+    "hero": "Jawhead",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero544-portrait.png/revision/latest?cb=20220525165414",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero544-portrait.png/revision/latest?cb=20220525165414",
+    "key": "Jawhead-bQKeSdnS0M",
+    "skin_name": "Elite",
+    "sort": "1"
   }
 }
