@@ -3481,5 +3481,14 @@
     "key": "Masha-dgGoOwxRCm",
     "skin_name": "Spirited",
     "sort": "3"
+  },
+  "Masha-HEXGiOx6Ux": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/mashaspecial.zip",
+    "hero": "Masha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero886-portrait.png/revision/latest?cb=20221103134619",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero886-portrait.png/revision/latest?cb=20221103134619",
+    "key": "Masha-HEXGiOx6Ux",
+    "skin_name": "Special",
+    "sort": "4"
   }
 }
