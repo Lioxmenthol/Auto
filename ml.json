@@ -3526,5 +3526,14 @@
     "key": "Minsittar-EdWq0Hvew0",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Minsittar-IuUlLuWK8f": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/minsittharstarlight.zip",
+    "hero": "Minsittar",
+    "img": "https://i.ibb.co.com/RCqnLJ3/ea143bc7ca95de83c10f899ca229392f.jpg",
+    "img2": "https://i.ibb.co.com/RCqnLJ3/ea143bc7ca95de83c10f899ca229392f.jpg",
+    "key": "Minsittar-IuUlLuWK8f",
+    "skin_name": "Starlight",
+    "sort": "1"
   }
 }
