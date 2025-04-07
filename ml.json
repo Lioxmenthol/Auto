@@ -3760,5 +3760,14 @@
     "key": "Fanny-kiu0EzdfI8",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Fanny-kbSuYGORxi": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/FannyPrincess.zip",
+    "hero": "Fanny",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero173-portrait.png/revision/latest?cb=20220525164703",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero173-portrait.png/revision/latest?cb=20220525164703",
+    "key": "Fanny-kbSuYGORxi",
+    "skin_name": "S3",
+    "sort": "1"
   }
 }
