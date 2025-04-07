@@ -3472,5 +3472,14 @@
     "key": "Masha-fwGRr01q9D",
     "skin_name": "Dragon T",
     "sort": "2"
+  },
+  "Masha-dgGoOwxRCm": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/107..zip",
+    "hero": "Masha",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero885-portrait.png/revision/latest?cb=20220525170111",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero885-portrait.png/revision/latest?cb=20220525170111",
+    "key": "Masha-dgGoOwxRCm",
+    "skin_name": "Spirited",
+    "sort": "3"
   }
 }
