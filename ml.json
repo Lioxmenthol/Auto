@@ -4174,5 +4174,14 @@
     "key": "Gord-FrIIJxrcQ2",
     "skin_name": "Christmas",
     "sort": "1"
+  },
+  "Gord-x3QukT66XT": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/gordstar.zip",
+    "hero": "Gord",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero235-portrait.png/revision/latest?cb=20220525164819",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero235-portrait.png/revision/latest?cb=20220525164819",
+    "key": "Gord-x3QukT66XT",
+    "skin_name": "Controller",
+    "sort": "2"
   }
 }
