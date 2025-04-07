@@ -4057,5 +4057,14 @@
     "key": "Gusion-ojK7QnIKA4",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Gusion-tJx698lv1v": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/GusionSonata.zip",
+    "hero": "Gusion",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest?cb=20220909095408",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest?cb=20220909095408",
+    "key": "Gusion-tJx698lv1v",
+    "skin_name": "Moonlight",
+    "sort": "1"
   }
 }
