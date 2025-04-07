@@ -3103,5 +3103,14 @@
     "key": "Jawhead-nfTvKTXRdy",
     "skin_name": "Nutcracker",
     "sort": "3"
+  },
+  "Jawhead-o0e2JTb70E": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/jawheadcollector.zip",
+    "hero": "Jawhead",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest?cb=20220525165417",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest?cb=20220525165417",
+    "key": "Jawhead-o0e2JTb70E",
+    "skin_name": "Collector",
+    "sort": "4"
   }
 }
