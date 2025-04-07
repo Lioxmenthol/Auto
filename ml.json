@@ -3931,5 +3931,14 @@
     "key": "Gatotkaca-zUBeBkNm6b",
     "skin_name": "Sentinel",
     "sort": "2"
+  },
+  "Gatotkaca-D5JgSUqZGZ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/gatotkacaepicair.zip",
+    "hero": "Gatotkaca",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/gatotepic.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/gatotepic.jpg",
+    "key": "Gatotkaca-D5JgSUqZGZ",
+    "skin_name": "T Preserver",
+    "sort": "3"
   }
 }
