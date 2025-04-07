@@ -4246,5 +4246,14 @@
     "key": "Granger-G66wFoilvG",
     "skin_name": "Collector",
     "sort": "3"
+  },
+  "Granger-bFkV14QDPn": {
+    "url": "https://github.com/Lioxmenthol/SC-MARKSMAN-2025/raw/refs/heads/main/UPDATE%20GRANGER%20LEGEND%2021JAN.zip",
+    "hero": "Granger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Starfall_Knight.jpg/revision/latest/scale-to-width-down/250?cb=20211010081115",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Starfall_Knight.jpg/revision/latest/scale-to-width-down/250?cb=20211010081115",
+    "key": "Granger-bFkV14QDPn",
+    "skin_name": "Legend",
+    "sort": "4"
   }
 }
