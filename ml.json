@@ -3508,5 +3508,14 @@
     "key": "Minsittar-SylDIdks1Y",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Minsittar-ltPNnwUfT7": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/66.zip",
+    "hero": "Minsittar",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero742-portrait.png/revision/latest?cb=20230317100603",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero742-portrait.png/revision/latest?cb=20230317100603",
+    "key": "Minsittar-ltPNnwUfT7",
+    "skin_name": "King of War",
+    "sort": "1"
   }
 }
