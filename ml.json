@@ -3436,5 +3436,14 @@
     "key": "Lapu-Lapu-IGuttIPfSj",
     "skin_name": "Son Wild",
     "sort": "5"
+  },
+  "Lapu-Lapu-lBjQgHusiK": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/lapu-lapucollector.zip",
+    "hero": "Lapu-Lapu",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/lapu%C2%B2collector.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/lapu%C2%B2collector.jpg",
+    "key": "Lapu-Lapu-lBjQgHusiK",
+    "skin_name": "Collector",
+    "sort": "6"
   }
 }
