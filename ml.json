@@ -3211,5 +3211,14 @@
     "key": "Guinevere-cay4spDavW",
     "skin_name": "Kof",
     "sort": "1"
+  },
+  "Khaleed-Uz4s8qn0en": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/khaleedori.zip",
+    "hero": "Khaleed",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Desert_Scimitar.jpg/revision/latest/scale-to-width-down/250?cb=20200912100057",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Desert_Scimitar.jpg/revision/latest/scale-to-width-down/250?cb=20200912100057",
+    "key": "Khaleed-Uz4s8qn0en",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
