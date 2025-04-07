@@ -4201,5 +4201,14 @@
     "key": "Gord-OKyZ44cfVw",
     "skin_name": "New Baroon",
     "sort": "4"
+  },
+  "Gord-arCTeH5AbN": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/gordepic.zip",
+    "hero": "Gord",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/gord_aug.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/gord_aug.jpg",
+    "key": "Gord-arCTeH5AbN",
+    "skin_name": "Cyber H",
+    "sort": "1"
   }
 }
