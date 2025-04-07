@@ -4039,5 +4039,14 @@
     "key": "Grock-XCk7hHgMTT",
     "skin_name": "Elite",
     "sort": "4"
+  },
+  "Grock-BySYtQlftb": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/grockphyscho.zip",
+    "hero": "Grock",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/jun_grock.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/jun_grock.jpg",
+    "key": "Grock-BySYtQlftb",
+    "skin_name": "Wasteland",
+    "sort": "5"
   }
 }
