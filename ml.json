@@ -3670,5 +3670,14 @@
     "key": "Eudora-ttRs5bfUFi",
     "skin_name": "Emerald",
     "sort": "2"
+  },
+  "Eudora-CWH930jBB7": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/146.zip",
+    "hero": "Eudora",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero155-portrait.png/revision/latest?cb=20220525164634",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero155-portrait.png/revision/latest?cb=20220525164634",
+    "key": "Eudora-CWH930jBB7",
+    "skin_name": "Limited",
+    "sort": "3"
   }
 }
