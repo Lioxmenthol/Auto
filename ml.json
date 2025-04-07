@@ -3364,5 +3364,14 @@
     "key": "Martis-tSQeToFoe8",
     "skin_name": "Special",
     "sort": "4"
+  },
+  "Martis-93bhCQ9ZJJ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/UPDATE%20MARTIS%20AOT%209JAN.zip",
+    "hero": "Martis",
+    "img": "https://github.com/Hiro161123/Fighter/raw/main/Martis%20aot.png",
+    "img2": "https://github.com/Hiro161123/Fighter/raw/main/Martis%20aot.png",
+    "key": "Martis-93bhCQ9ZJJ",
+    "skin_name": "Levi",
+    "sort": "5"
   }
 }
