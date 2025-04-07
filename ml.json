@@ -2995,5 +2995,14 @@
     "key": "Freya-pH00LbtQBB",
     "skin_name": "Starlight",
     "sort": "4"
+  },
+  "Freya-x0IqoY4EzZ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/freyaepic2.zip",
+    "hero": "Freya",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwIdw2yaRIzHgMCAsbBl8Vpw8nMQT-Dd76bw&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwIdw2yaRIzHgMCAsbBl8Vpw8nMQT-Dd76bw&usqp=CAU",
+    "key": "Freya-x0IqoY4EzZ",
+    "skin_name": "War Angel",
+    "sort": "5"
   }
 }
