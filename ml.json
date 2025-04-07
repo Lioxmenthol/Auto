@@ -2896,5 +2896,14 @@
     "key": "Dyrroth-bTrv93CMeS",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Dyrroth-hEaLm9WIh8": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/dyrrothstarlight.zip",
+    "hero": "Dyrroth",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest?cb=20220525170034",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest?cb=20220525170034",
+    "key": "Dyrroth-hEaLm9WIh8",
+    "skin_name": "Starlight",
+    "sort": "1"
   }
 }
