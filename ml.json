@@ -3715,5 +3715,14 @@
     "key": "Edith-GUjukHBDnK",
     "skin_name": "Celestial",
     "sort": "1"
+  },
+  "Edith-6gpRcEtAZT": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/edithstar.zip",
+    "hero": "Edith",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1113-portrait.png/revision/latest?cb=20230409114636",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1113-portrait.png/revision/latest?cb=20230409114636",
+    "key": "Edith-6gpRcEtAZT",
+    "skin_name": "Ancient W",
+    "sort": "2"
   }
 }
