@@ -3535,5 +3535,14 @@
     "key": "Minsittar-IuUlLuWK8f",
     "skin_name": "Starlight",
     "sort": "1"
+  },
+  "Minsittar-m6Ht2vhluR": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/UPDATE%20MINSI%20COLLECTOR%2011JAN.zip",
+    "hero": "Minsittar",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/roger91.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/roger91.jpg",
+    "key": "Minsittar-m6Ht2vhluR",
+    "skin_name": "Collector",
+    "sort": "2"
   }
 }
