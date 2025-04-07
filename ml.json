@@ -3085,5 +3085,14 @@
     "key": "Jawhead-bQKeSdnS0M",
     "skin_name": "Elite",
     "sort": "1"
+  },
+  "Jawhead-OKYnaiYitX": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/77.zip",
+    "hero": "Jawhead",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero543-portrait.png/revision/latest?cb=20220525165413",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero543-portrait.png/revision/latest?cb=20220525165413",
+    "key": "Jawhead-OKYnaiYitX",
+    "skin_name": "Space E",
+    "sort": "2"
   }
 }
