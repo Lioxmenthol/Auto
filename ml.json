@@ -2905,5 +2905,14 @@
     "key": "Dyrroth-hEaLm9WIh8",
     "skin_name": "Starlight",
     "sort": "1"
+  },
+  "Dyrroth-CnAuoJlXGT": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20DYRROTH%20KOF%2017FEB.zip",
+    "hero": "Dyrroth",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest?cb=20220525170033",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest?cb=20220525170033",
+    "key": "Dyrroth-CnAuoJlXGT",
+    "skin_name": "Kof",
+    "sort": "2"
   }
 }
