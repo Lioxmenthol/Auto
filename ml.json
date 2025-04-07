@@ -3607,5 +3607,14 @@
     "key": "Esmeralda-Tdmj8FxXAv",
     "skin_name": "Starlight",
     "sort": "5"
+  },
+  "Esmeralda-fIYYWG0hMs": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/EsmeraldaForeseer.zip",
+    "hero": "Esmeralda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest?cb=20220525165938",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest?cb=20220525165938",
+    "key": "Esmeralda-fIYYWG0hMs",
+    "skin_name": "Dawning",
+    "sort": "6"
   }
 }
