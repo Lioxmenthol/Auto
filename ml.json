@@ -3229,5 +3229,14 @@
     "key": "Khaleed-2nD8N8hbEV",
     "skin_name": "Prince",
     "sort": "1"
+  },
+  "Khaleed-julqFMzwyI": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/117.zip",
+    "hero": "Khaleed",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Crescent_Scimitar.jpg/revision/latest/scale-to-width-down/250?cb=20211009140050",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Crescent_Scimitar.jpg/revision/latest/scale-to-width-down/250?cb=20211009140050",
+    "key": "Khaleed-julqFMzwyI",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
