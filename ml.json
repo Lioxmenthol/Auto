@@ -4282,5 +4282,14 @@
     "key": "Granger-62rMtK69RS",
     "skin_name": "Alluring E",
     "sort": "7"
+  },
+  "Granger-kIIyzQSvHz": {
+    "url": "https://github.com/Lioxmenthol/SC-ASSASIN-2025/raw/refs/heads/main/UPDATE%20GRANGER%20EXORCIST%2029JAN.zip",
+    "hero": "Granger",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/grangerexorcist.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/grangerexorcist.jpg",
+    "key": "Granger-kIIyzQSvHz",
+    "skin_name": "Exorcist",
+    "sort": "8"
   }
 }
