@@ -3319,5 +3319,14 @@
     "key": "Leomord-aCeoPzOezF",
     "skin_name": "Nightmare",
     "sort": "7"
+  },
+  "Martis-xMrL2HjWT0": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/martisori.zip",
+    "hero": "Martis",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
+    "key": "Martis-xMrL2HjWT0",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
