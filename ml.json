@@ -3877,5 +3877,14 @@
     "key": "Fredrin-FPodYyfdT1",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Fredrin-U0SuqR1rDX": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/fredrinneobeast.zip",
+    "hero": "Fredrin",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILVWpFTqEbWRFhLe-kt6pPLvZ05RMl_HUUIGrLL-PKTUfy78wlvbz3ZMU-Kbxa3j5u0Eupo688DiwXt5xKAOjBm-g_O6ogsuhVIjxLPel2SxWxIK7G68-QukHJe-5o1-TypuR5DBtZ4xSquiTq5O01I6IPlDkrmu6tc3h3j-yO7DqGUuEir2KYAHrfC5q/s3124/fredrinn-skin-neobeast.jpg",
+    "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILVWpFTqEbWRFhLe-kt6pPLvZ05RMl_HUUIGrLL-PKTUfy78wlvbz3ZMU-Kbxa3j5u0Eupo688DiwXt5xKAOjBm-g_O6ogsuhVIjxLPel2SxWxIK7G68-QukHJe-5o1-TypuR5DBtZ4xSquiTq5O01I6IPlDkrmu6tc3h3j-yO7DqGUuEir2KYAHrfC5q/s3124/fredrinn-skin-neobeast.jpg",
+    "key": "Fredrin-U0SuqR1rDX",
+    "skin_name": "Neobeast",
+    "sort": "1"
   }
 }
