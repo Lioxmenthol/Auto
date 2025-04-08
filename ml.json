@@ -5650,5 +5650,14 @@
     "key": "Lilya-8y76PT1CW3",
     "skin_name": "Elite",
     "sort": "1"
+  },
+  "Lilya-jO6AvxsSeF": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/LyliaHauntedDoll.zip",
+    "hero": "Lilya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Haunted_Doll.jpg/revision/latest/scale-to-width-down/250?cb=20211207064445",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Haunted_Doll.jpg/revision/latest/scale-to-width-down/250?cb=20211207064445",
+    "key": "Lilya-jO6AvxsSeF",
+    "skin_name": "Hallowen",
+    "sort": "2"
   }
 }
