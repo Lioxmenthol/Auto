@@ -5767,5 +5767,14 @@
     "key": "Lunox-e2OH0iAS0M",
     "skin_name": "Nature's",
     "sort": "8"
+  },
+  "Lolita-59QdKxT2MM": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/lolitaori.zip",
+    "hero": "Lolita",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAHWI1e0lUF9viPo1CuzJSIMPW-U6ttJ8Vxw&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAHWI1e0lUF9viPo1CuzJSIMPW-U6ttJ8Vxw&usqp=CAU",
+    "key": "Lolita-59QdKxT2MM",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
