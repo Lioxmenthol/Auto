@@ -5227,5 +5227,14 @@
     "key": "Karina-9OI6zX8OlE",
     "skin_name": "Kof",
     "sort": "2"
+  },
+  "Karina-9LuQZgVGw0": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/KarinaCarnival.zip",
+    "hero": "Karina",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest?cb=20220525164456",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero083-portrait.png/revision/latest?cb=20220525164456",
+    "key": "Karina-9LuQZgVGw0",
+    "skin_name": "Christmas",
+    "sort": "3"
   }
 }
