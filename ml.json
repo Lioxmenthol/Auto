@@ -5830,5 +5830,14 @@
     "key": "Lancelot-vRNYBcR3G6",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Lancelot-d5ofNQhKtT": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/LancelotCarnival.zip",
+    "hero": "Lancelot",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb=20220525165246",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb=20220525165246",
+    "key": "Lancelot-d5ofNQhKtT",
+    "skin_name": "Christmas",
+    "sort": "1"
   }
 }
