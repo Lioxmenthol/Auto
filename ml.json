@@ -4534,5 +4534,14 @@
     "key": "Hanzo-RX0ZyH8Qc5",
     "skin_name": "Starlight",
     "sort": "4"
+  },
+  "Harith-tiE7FlPZum": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/UPDATE%20HARRITH%20ORI.zip",
+    "hero": "Harith",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero731-portrait.png/revision/latest?cb=20220525165751",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero731-portrait.png/revision/latest?cb=20220525165751",
+    "key": "Harith-tiE7FlPZum",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
