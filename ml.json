@@ -5623,5 +5623,14 @@
     "key": "Luo Yi-SyT4EyGs9W",
     "skin_name": "Collector",
     "sort": "5"
+  },
+  "Luo Yi-Hc7fmegD75": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/luo%20yiepic.zip",
+    "hero": "Luo Yi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest?cb=20230514163426",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest?cb=20230514163426",
+    "key": "Luo Yi-Hc7fmegD75",
+    "skin_name": "Epic",
+    "sort": "6"
   }
 }
