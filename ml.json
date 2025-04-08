@@ -5614,5 +5614,14 @@
     "key": "Luo Yi-NI4w8xWY5g",
     "skin_name": "Starlight",
     "sort": "4"
+  },
+  "Luo Yi-SyT4EyGs9W": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/luo%20yicollector.zip",
+    "hero": "Luo Yi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest?cb=20220628180005",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest?cb=20220628180005",
+    "key": "Luo Yi-SyT4EyGs9W",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
