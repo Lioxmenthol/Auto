@@ -4723,5 +4723,14 @@
     "key": "Hilda-F7N8HQf4Ka",
     "skin_name": "Zodiac",
     "sort": "2"
+  },
+  "Hylos-sCaiWv74Fl": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/hylosori.zip",
+    "hero": "Hylos",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero491-portrait.png/revision/latest?cb=20220525165306",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero491-portrait.png/revision/latest?cb=20220525165306",
+    "key": "Hylos-sCaiWv74Fl",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
