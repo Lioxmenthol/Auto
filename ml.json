@@ -4993,5 +4993,14 @@
     "key": "Kadita-LMswwu7XSN",
     "skin_name": "Princess",
     "sort": "2"
+  },
+  "Kadita-oAZCxxyqAt": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/KaditaHydromancer.zip",
+    "hero": "Kadita",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest?cb=20230805043909",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest?cb=20230805043909",
+    "key": "Kadita-oAZCxxyqAt",
+    "skin_name": "Hydromancer",
+    "sort": "3"
   }
 }
