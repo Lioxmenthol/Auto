@@ -5704,5 +5704,14 @@
     "key": "Lunox-vgYPGAu6gx",
     "skin_name": "Elite",
     "sort": "1"
+  },
+  "Lunox-oqTpvrPxjN": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/LunoxBlossom.zip",
+    "hero": "Lunox",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero684-portrait.png/revision/latest?cb=20220525165715",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero684-portrait.png/revision/latest?cb=20220525165715",
+    "key": "Lunox-oqTpvrPxjN",
+    "skin_name": "Starlight",
+    "sort": "2"
   }
 }
