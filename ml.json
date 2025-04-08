@@ -5380,5 +5380,14 @@
     "key": "Kimmy-zMBDoA27UK",
     "skin_name": "Rising Nova",
     "sort": "6"
+  },
+  "Kimmy-AntUbgwzfL": {
+    "url": "https://github.com/Lioxmenthol/SC-MARKSMAN-2025/raw/refs/heads/main/UPDATE%20KIMMY%20EXORCIST.zip",
+    "hero": "Kimmy",
+    "img": "https://i.ibb.co.com/d45FjfTc/1738254735660.jpg",
+    "img2": "https://i.ibb.co.com/d45FjfTc/1738254735660.jpg",
+    "key": "Kimmy-AntUbgwzfL",
+    "skin_name": "Exorcist",
+    "sort": "7"
   }
 }
