@@ -4462,5 +4462,14 @@
     "key": "Hayabusa-C55GQ8JUSE",
     "skin_name": "Exorcist",
     "sort": "8"
+  },
+  "Hayabusa-59zEivoUob": {
+    "url": "https://github.com/Lioxmenthol/SC-ASSASIN-2025/raw/refs/heads/main/UPDATE%20HAYA%20MINATO%201MAR.zip",
+    "hero": "Hayabusa",
+    "img": "https://i.ibb.co.com/2tTSPcc/df38ec201607205164dde4c6fde07ecc.jpg",
+    "img2": "https://i.ibb.co.com/2tTSPcc/df38ec201607205164dde4c6fde07ecc.jpg",
+    "key": "Hayabusa-59zEivoUob",
+    "skin_name": "Minato",
+    "sort": "9"
   }
 }
