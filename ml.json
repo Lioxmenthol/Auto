@@ -5551,5 +5551,14 @@
     "key": "Lesley-b1AAIHI9ys",
     "skin_name": "Annual Star",
     "sort": "7"
+  },
+  "Lesley-5yMqyb165o": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/lesleyaspirant.zip",
+    "hero": "Lesley",
+    "img": "https://github.com/lanz132/Img/raw/main/lesleyaspi.jpg",
+    "img2": "https://github.com/lanz132/Img/raw/main/lesleyaspi.jpg",
+    "key": "Lesley-5yMqyb165o",
+    "skin_name": "Aspirant",
+    "sort": "8"
   }
 }
