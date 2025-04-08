@@ -5524,5 +5524,14 @@
     "key": "Lesley-C01sbL0mzH",
     "skin_name": "Epic",
     "sort": "4"
+  },
+  "Lesley-cqOrvx0Ftn": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/lesleylegend.zip",
+    "hero": "Lesley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest?cb=20220525165406",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest?cb=20220525165406",
+    "key": "Lesley-cqOrvx0Ftn",
+    "skin_name": "Legend",
+    "sort": "5"
   }
 }
