@@ -4372,5 +4372,14 @@
     "key": "Hanzo-OdwLcLudCm",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Hanzo-WvIRvCG8rE": {
+    "url": "https://github.com/Lioxmenthol/SC-ASSASIN-2025/raw/refs/heads/main/UPDATE%20HANZO%20SPECIAL%2017FEB.zip",
+    "hero": "Hanzo",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20220525165727",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20220525165727",
+    "key": "Hanzo-WvIRvCG8rE",
+    "skin_name": "Special",
+    "sort": "1"
   }
 }
