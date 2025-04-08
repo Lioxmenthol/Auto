@@ -5749,5 +5749,14 @@
     "key": "Lunox-KmnglTEwd0",
     "skin_name": "Revelation",
     "sort": "6"
+  },
+  "Lunox-RhGqfe4wuh": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/UPDATE%20LUNOX%20LEGEND%2013JAN.zip",
+    "hero": "Lunox",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
+    "key": "Lunox-RhGqfe4wuh",
+    "skin_name": "Legend",
+    "sort": "7"
   }
 }
