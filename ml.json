@@ -5407,5 +5407,14 @@
     "key": "Layla-ef6gh0LzQ0",
     "skin_name": "B Spectre",
     "sort": "1"
+  },
+  "Layla-fNg3d9yqcz": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/UPDATE%20LAYLA%20BLAZING.zip",
+    "hero": "Layla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest?cb=20220525164728",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest?cb=20220525164728",
+    "key": "Layla-fNg3d9yqcz",
+    "skin_name": "Blazing",
+    "sort": "2"
   }
 }
