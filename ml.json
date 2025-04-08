@@ -4507,5 +4507,14 @@
     "key": "Helcurt-IAgBXiHvvg",
     "skin_name": "Elite",
     "sort": "1"
+  },
+  "Helcurt-P5sXv6A4TV": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/HelcurtPredator.zip",
+    "hero": "Helcurt",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest?cb=20220525165335",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest?cb=20220525165335",
+    "key": "Helcurt-P5sXv6A4TV",
+    "skin_name": "Special",
+    "sort": "2"
   }
 }
