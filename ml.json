@@ -4399,5 +4399,14 @@
     "key": "Hayabusa-FJ7J917WdV",
     "skin_name": "Biological",
     "sort": "1"
+  },
+  "Hayabusa-uHVpGV8hOh": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/HayabusaExperiment21.zip",
+    "hero": "Hayabusa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest?cb=20220525164754",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest?cb=20220525164754",
+    "key": "Hayabusa-uHVpGV8hOh",
+    "skin_name": "Experiment 21",
+    "sort": "2"
   }
 }
