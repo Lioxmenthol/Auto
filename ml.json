@@ -4471,5 +4471,14 @@
     "key": "Hayabusa-59zEivoUob",
     "skin_name": "Minato",
     "sort": "9"
+  },
+  "Hayabusa-WJjQCjilxq": {
+    "url": "https://github.com/Lioxmenthol/SC-ASSASIN-2025/raw/refs/heads/main/UPDATE%20HAYA%20X%20ITACHI%201FEB.zip",
+    "hero": "Hayabusa",
+    "img": "https://i.ibb.co.com/bMnn00rz/1738737893139.jpg",
+    "img2": "https://i.ibb.co.com/bMnn00rz/1738737893139.jpg",
+    "key": "Hayabusa-WJjQCjilxq",
+    "skin_name": "Itachi",
+    "sort": "10"
   }
 }
