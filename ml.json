@@ -5452,5 +5452,14 @@
     "key": "Layla-xv55FWJN5b",
     "skin_name": "Aspirant",
     "sort": "4"
+  },
+  "Layla-uLlYJRWWmB": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/laylatwilight.zip",
+    "hero": "Layla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero101810-portrait.png/revision/latest?cb=20230917045334",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero101810-portrait.png/revision/latest?cb=20230917045334",
+    "key": "Layla-uLlYJRWWmB",
+    "skin_name": "Twilight",
+    "sort": "5"
   }
 }
