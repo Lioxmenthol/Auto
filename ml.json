@@ -4777,5 +4777,14 @@
     "key": "Hylos-eokXNtGwFk",
     "skin_name": "Marauder",
     "sort": "5"
+  },
+  "Irithel-4CDOu01mcQ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/IrithelHeart.zip",
+    "hero": "Irithel",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png/revision/latest?cb=20220525165209",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png/revision/latest?cb=20220525165209",
+    "key": "Irithel-4CDOu01mcQ",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
