@@ -5497,5 +5497,14 @@
     "key": "Lesley-Nb58RTf3vQ",
     "skin_name": "Elite",
     "sort": "1"
+  },
+  "Lesley-mkC74nccuw": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/lesleyspecial.zip",
+    "hero": "Lesley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero534-portrait.png/revision/latest?cb=20220525165402",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero534-portrait.png/revision/latest?cb=20220525165402",
+    "key": "Lesley-mkC74nccuw",
+    "skin_name": "Special",
+    "sort": "2"
   }
 }
