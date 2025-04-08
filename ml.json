@@ -5344,5 +5344,14 @@
     "key": "Kimmy-Jher5tFhqL",
     "skin_name": "Special",
     "sort": "2"
+  },
+  "Kimmy-L1bWTtCtzd": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/kimmydragontamer.zip",
+    "hero": "Kimmy",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest?cb=20220525165743",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest?cb=20220525165743",
+    "key": "Kimmy-L1bWTtCtzd",
+    "skin_name": "Dragon T",
+    "sort": "3"
   }
 }
