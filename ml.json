@@ -4759,5 +4759,14 @@
     "key": "Hylos-Tra9zeCgo1",
     "skin_name": "Special",
     "sort": "3"
+  },
+  "Hylos-ylIzYgJyaP": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/hylosepic.zip",
+    "hero": "Hylos",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero495-portrait.png/revision/latest?cb=20220525165317",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero495-portrait.png/revision/latest?cb=20220525165317",
+    "key": "Hylos-ylIzYgJyaP",
+    "skin_name": "Epic",
+    "sort": "4"
   }
 }
