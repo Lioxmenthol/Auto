@@ -5056,5 +5056,14 @@
     "key": "Kagura-izFmlxcygv",
     "skin_name": "Maiden",
     "sort": "1"
+  },
+  "Kagura-ezN4h0Afed": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/KaguraFestival.zip",
+    "hero": "Kagura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest?cb=20220628175959",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest?cb=20220628175959",
+    "key": "Kagura-ezN4h0Afed",
+    "skin_name": "Summer",
+    "sort": "2"
   }
 }
