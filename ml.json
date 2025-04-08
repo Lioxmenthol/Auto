@@ -5335,5 +5335,14 @@
     "key": "Kimmy-33v4JZB4jd",
     "skin_name": "Starlight",
     "sort": "1"
+  },
+  "Kimmy-Jher5tFhqL": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/kimmyspecial.zip",
+    "hero": "Kimmy",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero715-portrait.png/revision/latest?cb=20220525165742",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero715-portrait.png/revision/latest?cb=20220525165742",
+    "key": "Kimmy-Jher5tFhqL",
+    "skin_name": "Special",
+    "sort": "2"
   }
 }
