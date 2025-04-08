@@ -4633,5 +4633,14 @@
     "key": "Harley-dU84AeTwb1",
     "skin_name": "Starlight",
     "sort": "2"
+  },
+  "Harley-CuksgrdL1n": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/HarleyInventor.zip",
+    "hero": "Harley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero425-portrait.png/revision/latest?cb=20220525165205",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero425-portrait.png/revision/latest?cb=20220525165205",
+    "key": "Harley-CuksgrdL1n",
+    "skin_name": "Epic",
+    "sort": "3"
   }
 }
