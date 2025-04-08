@@ -4300,5 +4300,14 @@
     "key": "Hanabi-ZiaWUdcURa",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Hanabi-UUidCW4sf1": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/hanabiIrish.zip",
+    "hero": "Hanabi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero602-portrait.png/revision/latest?cb=20221216103133",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero602-portrait.png/revision/latest?cb=20221216103133",
+    "key": "Hanabi-UUidCW4sf1",
+    "skin_name": "Resplendent",
+    "sort": "1"
   }
 }
