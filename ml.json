@@ -5092,5 +5092,14 @@
     "key": "Kagura-oQRsWF6ky6",
     "skin_name": "Water lily",
     "sort": "3"
+  },
+  "Kagura-Qz5su1qlbx": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20KAGURA%20EXORCIST%208MAR.zip",
+    "hero": "Kagura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143",
+    "key": "Kagura-Qz5su1qlbx",
+    "skin_name": "Exorcist",
+    "sort": "4"
   }
 }
