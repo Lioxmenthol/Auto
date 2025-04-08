@@ -4426,5 +4426,14 @@
     "key": "Hayabusa-HfqfRcHOnK",
     "skin_name": "Obscurity",
     "sort": "4"
+  },
+  "Hayabusa-caH6G8SSVT": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/HayabusaShura.zip",
+    "hero": "Hayabusa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
+    "key": "Hayabusa-caH6G8SSVT",
+    "skin_name": "Shura",
+    "sort": "5"
   }
 }
