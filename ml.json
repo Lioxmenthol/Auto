@@ -4831,5 +4831,14 @@
     "key": "Irithel-qQ7uPKNxde",
     "skin_name": "Knight",
     "sort": "5"
+  },
+  "Ixia-2jnLlxxWc6": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/IxiaQutlaw.zip",
+    "hero": "Ixia",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1211-portrait.png/revision/latest?cb=20231010041751",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1211-portrait.png/revision/latest?cb=20231010041751",
+    "key": "Ixia-2jnLlxxWc6",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
