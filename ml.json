@@ -5560,5 +5560,14 @@
     "key": "Lesley-5yMqyb165o",
     "skin_name": "Aspirant",
     "sort": "8"
+  },
+  "Lesley-vp3qN6hnnd": {
+    "url": "https://github.com/Lioxmenthol/SC-MARKSMAN-2025/raw/refs/heads/main/UPDATE%20LESLEY%20COVENANT%209MAR.zip",
+    "hero": "Lesley",
+    "img": "https://i.ibb.co.com/XfkLL37Y/1741514595497.jpg",
+    "img2": "https://i.ibb.co.com/XfkLL37Y/1741514595497.jpg",
+    "key": "Lesley-vp3qN6hnnd",
+    "skin_name": "Covenant",
+    "sort": "9"
   }
 }
