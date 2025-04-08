@@ -4795,5 +4795,14 @@
     "key": "Irithel-zW9093Jojx",
     "skin_name": "Hellfire",
     "sort": "1"
+  },
+  "Irithel-oRhW9dRkik": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/IrithelWanderer.zip",
+    "hero": "Irithel",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero436-portrait.png/revision/latest?cb=20220920091656",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero436-portrait.png/revision/latest?cb=20220920091656",
+    "key": "Irithel-oRhW9dRkik",
+    "skin_name": "Astral W",
+    "sort": "2"
   }
 }
