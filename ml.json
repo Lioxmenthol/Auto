@@ -4309,5 +4309,14 @@
     "key": "Hanabi-UUidCW4sf1",
     "skin_name": "Resplendent",
     "sort": "1"
+  },
+  "Hanabi-9N7MlCIf0H": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/hanabifierymoth.zip",
+    "hero": "Hanabi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero605-portrait.png/revision/latest?cb=20220525165525",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero605-portrait.png/revision/latest?cb=20220525165525",
+    "key": "Hanabi-9N7MlCIf0H",
+    "skin_name": "Starlight",
+    "sort": "2"
   }
 }
