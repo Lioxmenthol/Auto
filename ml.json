@@ -4444,5 +4444,14 @@
     "key": "Hayabusa-bv66Qu2aSk",
     "skin_name": "Hell Shura",
     "sort": "6"
+  },
+  "Hayabusa-zNc5meiOaq": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/HayabusaNinja.zip",
+    "hero": "Hayabusa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest?cb=20221118130654",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero219-portrait.png/revision/latest?cb=20221118130654",
+    "key": "Hayabusa-zNc5meiOaq",
+    "skin_name": "Elite",
+    "sort": "7"
   }
 }
