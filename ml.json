@@ -4975,5 +4975,14 @@
     "key": "Kadita-PeFlq2sYa8",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Kadita-HFH5dls4HO": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/KaditaRobin.zip",
+    "hero": "Kadita",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/White_Robin.jpg/revision/latest/scale-to-width-down/250?cb=20200912121558",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/White_Robin.jpg/revision/latest/scale-to-width-down/250?cb=20200912121558",
+    "key": "Kadita-HFH5dls4HO",
+    "skin_name": "White Robin",
+    "sort": "1"
   }
 }
