@@ -4615,5 +4615,14 @@
     "key": "Harley-1S8BbC6U1K",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Harley-91z7WacrNB": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/HarleyReferee.zip",
+    "hero": "Harley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Hero424-portrait.png/revision/latest?cb=20220525165204",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Hero424-portrait.png/revision/latest?cb=20220525165204",
+    "key": "Harley-91z7WacrNB",
+    "skin_name": "Referee",
+    "sort": "1"
   }
 }
