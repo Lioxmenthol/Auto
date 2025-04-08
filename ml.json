@@ -5983,5 +5983,14 @@
     "key": "Ling-QBkquyYMY8",
     "skin_name": "Basic",
     "sort": "3"
+  },
+  "Ling-yORZo9GDhm": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/LingGuard.zip",
+    "hero": "Ling",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest?cb=20220525170019",
+    "key": "Ling-yORZo9GDhm",
+    "skin_name": "Special",
+    "sort": "4"
   }
 }
