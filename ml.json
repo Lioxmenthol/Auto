@@ -4588,5 +4588,14 @@
     "key": "Harith-N7X9zgXJtP",
     "skin_name": "Collector",
     "sort": "5"
+  },
+  "Harith-DgX79zGIDJ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/HarithCarnival.zip",
+    "hero": "Harith",
+    "img": "https://github.com/lanz132/DISPLAY/raw/main/1.86-4.jpg",
+    "img2": "https://github.com/lanz132/DISPLAY/raw/main/1.86-4.jpg",
+    "key": "Harith-DgX79zGIDJ",
+    "skin_name": "Christmas",
+    "sort": "6"
   }
 }
