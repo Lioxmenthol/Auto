@@ -4453,5 +4453,14 @@
     "key": "Hayabusa-zNc5meiOaq",
     "skin_name": "Elite",
     "sort": "7"
+  },
+  "Hayabusa-C55GQ8JUSE": {
+    "url": "https://github.com/Lioxmenthol/SC-ASSASIN-2025/raw/refs/heads/main/UPDATE%20HAYA%20EXORCIST%204MAR.zip",
+    "hero": "Hayabusa",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/hayaexorcist.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/hayaexorcist.jpg",
+    "key": "Hayabusa-C55GQ8JUSE",
+    "skin_name": "Exorcist",
+    "sort": "8"
   }
 }
