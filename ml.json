@@ -5182,5 +5182,14 @@
     "key": "Karrie-o8XF4NIP24",
     "skin_name": "Elite",
     "sort": "6"
+  },
+  "Karrie-zZNiKbpGx6": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/karrieEpic3.zip",
+    "hero": "Karrie",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9Pu6R1r1VH0czrXfDf6XAlfUM0dnrwbSOA&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9Pu6R1r1VH0czrXfDf6XAlfUM0dnrwbSOA&usqp=CAU",
+    "key": "Karrie-zZNiKbpGx6",
+    "skin_name": "Ice Talon",
+    "sort": "7"
   }
 }
