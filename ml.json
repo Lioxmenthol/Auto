@@ -5668,5 +5668,14 @@
     "key": "Lilya-74lvnxNl88",
     "skin_name": "Special",
     "sort": "3"
+  },
+  "Lilya-42cLfeLMn4": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/LyliaNeobeast.zip",
+    "hero": "Lilya",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76lDAh12d4y4B-VMxTzCjGTu30PU1_MG_cQ&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76lDAh12d4y4B-VMxTzCjGTu30PU1_MG_cQ&usqp=CAU",
+    "key": "Lilya-42cLfeLMn4",
+    "skin_name": "Neobeast",
+    "sort": "4"
   }
 }
