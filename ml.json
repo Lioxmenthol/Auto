@@ -4813,5 +4813,14 @@
     "key": "Irithel-52sYM3KUZb",
     "skin_name": "Zodiac",
     "sort": "3"
+  },
+  "Irithel-zjUrcWmB0f": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/IritjelRider.zip",
+    "hero": "Irithel",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero437-portrait.png/revision/latest?cb=20230917045310",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero437-portrait.png/revision/latest?cb=20230917045310",
+    "key": "Irithel-zjUrcWmB0f",
+    "skin_name": "Ducati",
+    "sort": "4"
   }
 }
