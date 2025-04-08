@@ -4849,5 +4849,14 @@
     "key": "Ixia-j4uFwmvlmF",
     "skin_name": "Shifting S",
     "sort": "1"
+  },
+  "Ixia-QctiCtsSqo": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/IxiaSteark.zip",
+    "hero": "Ixia",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/ixia91.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/ixia91.jpg",
+    "key": "Ixia-QctiCtsSqo",
+    "skin_name": "Dynamic S",
+    "sort": "2"
   }
 }
