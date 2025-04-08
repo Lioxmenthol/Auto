@@ -5479,5 +5479,14 @@
     "key": "Lesley-rKewLnMkhr",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Lesley-HrAii4SVkQ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/lesleyletallady.zip",
+    "hero": "Lesley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero538-portrait.png/revision/latest?cb=20220525165407",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero538-portrait.png/revision/latest?cb=20220525165407",
+    "key": "Lesley-HrAii4SVkQ",
+    "skin_name": "Starlight",
+    "sort": "1"
   }
 }
