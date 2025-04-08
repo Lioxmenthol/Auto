@@ -5128,5 +5128,14 @@
     "key": "Karrie-PU5Ir3UqS1",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Karrie-Pbji4vCbQT": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/karrieEpic.zip",
+    "hero": "Karrie",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/karrieepic.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/karrieepic.jpg",
+    "key": "Karrie-Pbji4vCbQT",
+    "skin_name": "Hawkwatch",
+    "sort": "1"
   }
 }
