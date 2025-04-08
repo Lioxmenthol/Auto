@@ -5290,5 +5290,14 @@
     "key": "Khufra-BibeqH3eA1",
     "skin_name": "Collector",
     "sort": "3"
+  },
+  "Khufra-ibKlmdID81": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/khufrastar.zip",
+    "hero": "Khufra",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero786-portrait.png/revision/latest?cb=20220525165829",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero786-portrait.png/revision/latest?cb=20220525165829",
+    "key": "Khufra-ibKlmdID81",
+    "skin_name": "Starlight",
+    "sort": "4"
   }
 }
