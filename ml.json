@@ -5047,5 +5047,14 @@
     "key": "Kagura-QvqQj0T0QS",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Kagura-izFmlxcygv": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/KaguraMaiden.zip",
+    "hero": "Kagura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest?cb=20220525164843",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest?cb=20220525164843",
+    "key": "Kagura-izFmlxcygv",
+    "skin_name": "Maiden",
+    "sort": "1"
   }
 }
