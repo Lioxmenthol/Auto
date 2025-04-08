@@ -5803,5 +5803,14 @@
     "key": "Lolita-oUqIsYn5ud",
     "skin_name": "Hallowen",
     "sort": "3"
+  },
+  "Lolita-t9smgbNd9O": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/lolitasoldier.zip",
+    "hero": "Lolita",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero202-portrait.png/revision/latest?cb=20220525164741",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero202-portrait.png/revision/latest?cb=20220525164741",
+    "key": "Lolita-t9smgbNd9O",
+    "skin_name": "Elite",
+    "sort": "4"
   }
 }
