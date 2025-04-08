@@ -4354,5 +4354,14 @@
     "key": "Hanabi-4yq4uNi7IY",
     "skin_name": "Moonlit N",
     "sort": "6"
+  },
+  "Hanabi-wfXetm8qSk": {
+    "url": "https://github.com/Lioxmenthol/SC-MARKSMAN-2025/raw/refs/heads/main/UPDATE%20HANABI%20SV%2015MAR.zip",
+    "hero": "Hanabi",
+    "img": "https://github.com/Hiro161123/Apps/raw/main/Hanabi%20soul.png",
+    "img2": "https://github.com/Hiro161123/Apps/raw/main/Hanabi%20soul.png",
+    "key": "Hanabi-wfXetm8qSk",
+    "skin_name": "Soul Vessel",
+    "sort": "7"
   }
 }
