@@ -5353,5 +5353,14 @@
     "key": "Kimmy-L1bWTtCtzd",
     "skin_name": "Dragon T",
     "sort": "3"
+  },
+  "Kimmy-VBuTH4dyNX": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/kimmyEpic.zip",
+    "hero": "Kimmy",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest?cb=20220525165741",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest?cb=20220525165741",
+    "key": "Kimmy-VBuTH4dyNX",
+    "skin_name": "Epic",
+    "sort": "4"
   }
 }
