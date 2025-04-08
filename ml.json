@@ -5281,5 +5281,14 @@
     "key": "Khufra-zHGJ3fnIzo",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Khufra-BibeqH3eA1": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/khufravolcanicoverlord.zip",
+    "hero": "Khufra",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero785-portrait.png/revision/latest?cb=20220525165828",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero785-portrait.png/revision/latest?cb=20220525165828",
+    "key": "Khufra-BibeqH3eA1",
+    "skin_name": "Collector",
+    "sort": "3"
   }
 }
