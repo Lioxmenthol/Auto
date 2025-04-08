@@ -4678,5 +4678,14 @@
     "key": "Harley-sdUtKZC0Vd",
     "skin_name": "S Magician",
     "sort": "7"
+  },
+  "Hilda-65phkZugK9": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/hildaori.zip",
+    "hero": "Hilda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png/revision/latest?cb=20220525165048",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png/revision/latest?cb=20220525165048",
+    "key": "Hilda-65phkZugK9",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
