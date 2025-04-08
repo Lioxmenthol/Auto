@@ -5002,5 +5002,14 @@
     "key": "Kadita-oAZCxxyqAt",
     "skin_name": "Hydromancer",
     "sort": "3"
+  },
+  "Kadita-ZKMxoElAWT": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/KaditaHeartoftheSea.zip",
+    "hero": "Kadita",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/jun_kadita.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/jun_kadita.jpg",
+    "key": "Kadita-ZKMxoElAWT",
+    "skin_name": "Heart Sea",
+    "sort": "4"
   }
 }
