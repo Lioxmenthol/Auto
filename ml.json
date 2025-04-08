@@ -5038,5 +5038,14 @@
     "key": "Kadita-DzLPjY8e3O",
     "skin_name": "Kinshin D",
     "sort": "1"
+  },
+  "Kagura-QvqQj0T0QS": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/KaguraMaster.zip",
+    "hero": "Kagura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero251-portrait.png/revision/latest?cb=20220525164837",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero251-portrait.png/revision/latest?cb=20220525164837",
+    "key": "Kagura-QvqQj0T0QS",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
