@@ -4651,5 +4651,14 @@
     "key": "Harley-AgJumutUxD",
     "skin_name": "Venom",
     "sort": "4"
+  },
+  "Harley-0eHeMRxIHS": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/105.zip",
+    "hero": "Harley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cb=20220525165207",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cb=20220525165207",
+    "key": "Harley-0eHeMRxIHS",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
