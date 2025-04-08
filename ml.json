@@ -5686,5 +5686,14 @@
     "key": "Lilya-MoRELZJOQZ",
     "skin_name": "Magitech",
     "sort": "5"
+  },
+  "Lunox-1tZ9vW2ACE": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/LunoxGoddess.zip",
+    "hero": "Lunox",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero681-portrait.png/revision/latest?cb=20220525165705",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero681-portrait.png/revision/latest?cb=20220525165705",
+    "key": "Lunox-1tZ9vW2ACE",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
