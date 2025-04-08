@@ -4714,5 +4714,14 @@
     "key": "Hilda-8kns0voh2I",
     "skin_name": "Special",
     "sort": "1"
+  },
+  "Hilda-F7N8HQf4Ka": {
+    "url": "https://github.com/Lioxmenthol/SC-TANK-2025/raw/refs/heads/main/UPDATE%20HILDA%20ZODIAC%201FEB.zip",
+    "hero": "Hilda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero355-portrait.png/revision/latest?cb=20230317100645",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero355-portrait.png/revision/latest?cb=20230317100645",
+    "key": "Hilda-F7N8HQf4Ka",
+    "skin_name": "Zodiac",
+    "sort": "2"
   }
 }
