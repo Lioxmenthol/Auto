@@ -4984,5 +4984,14 @@
     "key": "Kadita-HFH5dls4HO",
     "skin_name": "White Robin",
     "sort": "1"
+  },
+  "Kadita-LMswwu7XSN": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/KaditaPrincees.zip",
+    "hero": "Kadita",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Atlantean_Princess.jpg/revision/latest/scale-to-width-down/250?cb=20200912121548",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Atlantean_Princess.jpg/revision/latest/scale-to-width-down/250?cb=20200912121548",
+    "key": "Kadita-LMswwu7XSN",
+    "skin_name": "Princess",
+    "sort": "2"
   }
 }
