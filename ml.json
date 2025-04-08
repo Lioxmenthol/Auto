@@ -4768,5 +4768,14 @@
     "key": "Hylos-ylIzYgJyaP",
     "skin_name": "Epic",
     "sort": "4"
+  },
+  "Hylos-eokXNtGwFk": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/hylosbloodmarauder.zip",
+    "hero": "Hylos",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero496-portrait.png/revision/latest?cb=20240923124129",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero496-portrait.png/revision/latest?cb=20240923124129",
+    "key": "Hylos-eokXNtGwFk",
+    "skin_name": "Marauder",
+    "sort": "5"
   }
 }
