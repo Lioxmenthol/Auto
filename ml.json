@@ -4579,5 +4579,14 @@
     "key": "Harith-RJlEgFYlRn",
     "skin_name": "515",
     "sort": "4"
+  },
+  "Harith-N7X9zgXJtP": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20HARITH%20CC%2018JAN.zip",
+    "hero": "Harith",
+    "img": "https://github.com/Hiro161123/Mage/raw/main/Harith%20collector.png",
+    "img2": "https://github.com/Hiro161123/Mage/raw/main/Harith%20collector.png",
+    "key": "Harith-N7X9zgXJtP",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
