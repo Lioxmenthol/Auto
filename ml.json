@@ -5902,5 +5902,14 @@
     "key": "Lancelot-Rxmqo90c3Z",
     "skin_name": "Dragon T",
     "sort": "1"
+  },
+  "Lancelot-nEHkbSkLj6": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/LancelotBlades.zip",
+    "hero": "Lancelot",
+    "img": "https://raw.githubusercontent.com/lanz132/Img/main/lance.webp",
+    "img2": "https://raw.githubusercontent.com/lanz132/Img/main/lance.webp",
+    "key": "Lancelot-nEHkbSkLj6",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
