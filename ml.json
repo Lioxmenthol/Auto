@@ -4705,5 +4705,14 @@
     "key": "Hilda-XITL9HEfT6",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Hilda-8kns0voh2I": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/hildaspecial.zip",
+    "hero": "Hilda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero356-portrait.png/revision/latest?cb=20220525165055",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero356-portrait.png/revision/latest?cb=20220525165055",
+    "key": "Hilda-8kns0voh2I",
+    "skin_name": "Special",
+    "sort": "1"
   }
 }
