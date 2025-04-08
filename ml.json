@@ -4642,5 +4642,14 @@
     "key": "Harley-CuksgrdL1n",
     "skin_name": "Epic",
     "sort": "3"
+  },
+  "Harley-AgJumutUxD": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/HarleyOctopus.zip",
+    "hero": "Harley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero426-portrait.png/revision/latest?cb=20220525165207",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero426-portrait.png/revision/latest?cb=20220525165207",
+    "key": "Harley-AgJumutUxD",
+    "skin_name": "Venom",
+    "sort": "4"
   }
 }
