@@ -5470,5 +5470,14 @@
     "key": "Layla-3KrxXZJTfl",
     "skin_name": "Collector",
     "sort": "6"
+  },
+  "Lesley-rKewLnMkhr": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/lesleyori.zip",
+    "hero": "Lesley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero531-portrait.png/revision/latest?cb=20220824141739",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero531-portrait.png/revision/latest?cb=20220824141739",
+    "key": "Lesley-rKewLnMkhr",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
