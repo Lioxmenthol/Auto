@@ -5083,5 +5083,14 @@
     "key": "Kagura-ZSziyy9MAU",
     "skin_name": "Starlight",
     "sort": "2"
+  },
+  "Kagura-oQRsWF6ky6": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/KaguraWaterLily.zip",
+    "hero": "Kagura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest?cb=20220525164845",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest?cb=20220525164845",
+    "key": "Kagura-oQRsWF6ky6",
+    "skin_name": "Water lily",
+    "sort": "3"
   }
 }
