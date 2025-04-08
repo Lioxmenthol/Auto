@@ -5236,5 +5236,14 @@
     "key": "Karina-9LuQZgVGw0",
     "skin_name": "Christmas",
     "sort": "3"
+  },
+  "Karina-v9r6y8BzI0": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/KarinaDuelist.zip",
+    "hero": "Karina",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero086-portrait.png/revision/latest?cb=20220525164459",
+    "key": "Karina-v9r6y8BzI0",
+    "skin_name": "Epic",
+    "sort": "4"
   }
 }
