@@ -4840,5 +4840,14 @@
     "key": "Ixia-2jnLlxxWc6",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Ixia-j4uFwmvlmF": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/IxiaShiftingSand.zip",
+    "hero": "Ixia",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero1212-portrait.png/revision/latest?cb=20230623125905",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero1212-portrait.png/revision/latest?cb=20230623125905",
+    "key": "Ixia-j4uFwmvlmF",
+    "skin_name": "Shifting S",
+    "sort": "1"
   }
 }
