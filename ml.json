@@ -5695,5 +5695,14 @@
     "key": "Lunox-1tZ9vW2ACE",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Lunox-vgYPGAu6gx": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/LunoxHarmony.zip",
+    "hero": "Lunox",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero683-portrait.png/revision/latest?cb=20220525165714",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero683-portrait.png/revision/latest?cb=20220525165714",
+    "key": "Lunox-vgYPGAu6gx",
+    "skin_name": "Elite",
+    "sort": "1"
   }
 }
