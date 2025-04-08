@@ -4516,5 +4516,14 @@
     "key": "Helcurt-P5sXv6A4TV",
     "skin_name": "Special",
     "sort": "2"
+  },
+  "Helcurt-RgCQLAXg6P": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/HelcurtScorpio.zip",
+    "hero": "Helcurt",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest?cb=20220525165336",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest?cb=20220525165336",
+    "key": "Helcurt-RgCQLAXg6P",
+    "skin_name": "Zodiac",
+    "sort": "3"
   }
 }
