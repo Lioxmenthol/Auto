@@ -4867,5 +4867,14 @@
     "key": "Johnson-zDCOOejcR1",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Johnson-ka1Bx2oyN8": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/jhonsonjeepneyracer.zip",
+    "hero": "Johnson",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero324-portrait.png/revision/latest?cb=20220525165016",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero324-portrait.png/revision/latest?cb=20220525165016",
+    "key": "Johnson-ka1Bx2oyN8",
+    "skin_name": "Jeepney R",
+    "sort": "1"
   }
 }
