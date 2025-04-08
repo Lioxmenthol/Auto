@@ -5713,5 +5713,14 @@
     "key": "Lunox-oqTpvrPxjN",
     "skin_name": "Starlight",
     "sort": "2"
+  },
+  "Lunox-7xkY3rgrSj": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/LunoxSeraphim.zip",
+    "hero": "Lunox",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+    "key": "Lunox-7xkY3rgrSj",
+    "skin_name": "Butterfly",
+    "sort": "3"
   }
 }
