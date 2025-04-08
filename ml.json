@@ -5596,5 +5596,14 @@
     "key": "Luo Yi-WfxZELUhP0",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Luo Yi-6OzMakBIRt": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/luo%20yilunarfest.zip",
+    "hero": "Luo Yi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero964-portrait.png/revision/latest?cb=20221111133616",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero964-portrait.png/revision/latest?cb=20221111133616",
+    "key": "Luo Yi-6OzMakBIRt",
+    "skin_name": "Lunarfest",
+    "sort": "3"
   }
 }
