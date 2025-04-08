@@ -5812,5 +5812,14 @@
     "key": "Lolita-t9smgbNd9O",
     "skin_name": "Elite",
     "sort": "4"
+  },
+  "Lolita-c97TjhEUFR": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/lolitastarwatcher.zip",
+    "hero": "Lolita",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Lolita%20rising.png",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Lolita%20rising.png",
+    "key": "Lolita-c97TjhEUFR",
+    "skin_name": "Starwatcher",
+    "sort": "5"
   }
 }
