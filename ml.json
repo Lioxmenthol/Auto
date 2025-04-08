@@ -5722,5 +5722,14 @@
     "key": "Lunox-7xkY3rgrSj",
     "skin_name": "Butterfly",
     "sort": "3"
+  },
+  "Lunox-ljSllGqoLz": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/LunoxLibra.zip",
+    "hero": "Lunox",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest?cb=20220525165716",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest?cb=20220525165716",
+    "key": "Lunox-ljSllGqoLz",
+    "skin_name": "Zodiac",
+    "sort": "4"
   }
 }
