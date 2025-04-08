@@ -5875,5 +5875,14 @@
     "key": "Lancelot-gIBmq45fyH",
     "skin_name": "Dawning",
     "sort": "5"
+  },
+  "Lancelot-wO8uaiPcFY": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/LancelotPisces.zip",
+    "hero": "Lancelot",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
+    "key": "Lancelot-wO8uaiPcFY",
+    "skin_name": "Zodiac",
+    "sort": "6"
   }
 }
