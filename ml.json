@@ -5101,5 +5101,14 @@
     "key": "Kagura-Qz5su1qlbx",
     "skin_name": "Exorcist",
     "sort": "4"
+  },
+  "Kagura-9Q5v39Wj0C": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/KaguraClouds.zip",
+    "hero": "Kagura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest?cb=20230805043819",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest?cb=20230805043819",
+    "key": "Kagura-9Q5v39Wj0C",
+    "skin_name": "Beyond C",
+    "sort": "5"
   }
 }
