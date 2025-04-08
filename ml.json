@@ -5443,5 +5443,14 @@
     "key": "Layla-46B4aohOnN",
     "skin_name": "Valentine",
     "sort": "3"
+  },
+  "Layla-xv55FWJN5b": {
+    "url": "https://github.com/Lioxmenthol/SC-MARKSMAN-2025/raw/refs/heads/main/UPDATE%20LAYLA%20ASPIRANT%2024MAR.zip",
+    "hero": "Layla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest?cb=20220525164729",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest?cb=20220525164729",
+    "key": "Layla-xv55FWJN5b",
+    "skin_name": "Aspirant",
+    "sort": "4"
   }
 }
