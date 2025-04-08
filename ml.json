@@ -5110,5 +5110,14 @@
     "key": "Kagura-9Q5v39Wj0C",
     "skin_name": "Beyond C",
     "sort": "5"
+  },
+  "Kagura-lvBgjAul4V": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/KaguraBlossom.zip",
+    "hero": "Kagura",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/1726883193666.jpg",
+    "img2": "https://github.com/Renier012/Img/raw/refs/heads/main/1726883193666.jpg",
+    "key": "Kagura-lvBgjAul4V",
+    "skin_name": "Blossom",
+    "sort": "6"
   }
 }
