@@ -4696,5 +4696,14 @@
     "key": "Hilda-HwlOvQWJQV",
     "skin_name": "Flower",
     "sort": "1"
+  },
+  "Hilda-XITL9HEfT6": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/hildasacredguard.zip",
+    "hero": "Hilda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero354-portrait.png/revision/latest?cb=20220525165053",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero354-portrait.png/revision/latest?cb=20220525165053",
+    "key": "Hilda-XITL9HEfT6",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
