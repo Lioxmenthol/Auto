@@ -5740,5 +5740,14 @@
     "key": "Lunox-1gb6pUsNJk",
     "skin_name": "Eyes E",
     "sort": "5"
+  },
+  "Lunox-KmnglTEwd0": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/LunoxRevelation.zip",
+    "hero": "Lunox",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero688-portrait.png/revision/latest?cb=20220525165720",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero688-portrait.png/revision/latest?cb=20220525165720",
+    "key": "Lunox-KmnglTEwd0",
+    "skin_name": "Revelation",
+    "sort": "6"
   }
 }
