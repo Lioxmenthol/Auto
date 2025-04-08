@@ -5848,5 +5848,14 @@
     "key": "Lancelot-PUy6Fqltwq",
     "skin_name": "Starlight",
     "sort": "2"
+  },
+  "Lancelot-L8xnSTwdCj": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/LancelotKnight.zip",
+    "hero": "Lancelot",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest?cb=20220525165250",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest?cb=20220525165250",
+    "key": "Lancelot-L8xnSTwdCj",
+    "skin_name": "Floral K",
+    "sort": "3"
   }
 }
