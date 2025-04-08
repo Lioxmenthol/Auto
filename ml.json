@@ -5308,5 +5308,14 @@
     "key": "Khufra-sdPzKS85jW",
     "skin_name": "Iron Hook",
     "sort": "5"
+  },
+  "Khufra-35JC26DCpP": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/khufraepic.zip",
+    "hero": "Khufra",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/1726882581221.jpg",
+    "img2": "https://github.com/Renier012/Img/raw/refs/heads/main/1726882581221.jpg",
+    "key": "Khufra-35JC26DCpP",
+    "skin_name": "Epic",
+    "sort": "6"
   }
 }
