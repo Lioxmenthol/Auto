@@ -4660,5 +4660,14 @@
     "key": "Harley-0eHeMRxIHS",
     "skin_name": "Collector",
     "sort": "5"
+  },
+  "Harley-sumJc6ko08": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/HarleyStarCaster.zip",
+    "hero": "Harley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero428-portrait.png/revision/latest?cb=20220915122657",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero428-portrait.png/revision/latest?cb=20220915122657",
+    "key": "Harley-sumJc6ko08",
+    "skin_name": "Special",
+    "sort": "6"
   }
 }
