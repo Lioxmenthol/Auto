@@ -5398,5 +5398,14 @@
     "key": "Layla-8wQCzPay1S",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Layla-ef6gh0LzQ0": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/laylasbluepectre.zip",
+    "hero": "Layla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero185-portrait.png/revision/latest?cb=20220525164722",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero185-portrait.png/revision/latest?cb=20220525164722",
+    "key": "Layla-ef6gh0LzQ0",
+    "skin_name": "B Spectre",
+    "sort": "1"
   }
 }
