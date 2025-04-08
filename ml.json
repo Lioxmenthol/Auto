@@ -5587,5 +5587,14 @@
     "key": "Luo Yi-ssEhHnRfjP",
     "skin_name": "Ying Yang",
     "sort": "1"
+  },
+  "Luo Yi-WfxZELUhP0": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/120.zip",
+    "hero": "Luo Yi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero963-portrait.png/revision/latest?cb=20220525170246",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero963-portrait.png/revision/latest?cb=20220525170246",
+    "key": "Luo Yi-WfxZELUhP0",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
