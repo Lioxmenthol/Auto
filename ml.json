@@ -5425,5 +5425,14 @@
     "key": "Layla-2hk5Qd7Sx3",
     "skin_name": "Saber",
     "sort": "1"
+  },
+  "Layla-ADINVzkPf9": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/laylastarlight.zip",
+    "hero": "Layla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero183-portrait.png/revision/latest?cb=20220525164720",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero183-portrait.png/revision/latest?cb=20220525164720",
+    "key": "Layla-ADINVzkPf9",
+    "skin_name": "Starlight",
+    "sort": "2"
   }
 }
