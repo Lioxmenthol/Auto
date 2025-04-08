@@ -6001,5 +6001,14 @@
     "key": "Ling-0x9lKgDYvu",
     "skin_name": "Collector",
     "sort": "5"
+  },
+  "Ling-ZodX0t8ayv": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/LingWorld.zip",
+    "hero": "Ling",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest?cb=20220525170021",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest?cb=20220525170021",
+    "key": "Ling-ZodX0t8ayv",
+    "skin_name": "Mworld",
+    "sort": "6"
   }
 }
