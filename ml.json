@@ -4741,5 +4741,14 @@
     "key": "Hylos-gyrdKfnsjX",
     "skin_name": "Jungle",
     "sort": "1"
+  },
+  "Hylos-AUwbBiQ5yj": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/hylosabbysalsaman.zip",
+    "hero": "Hylos",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero492-portrait.png/revision/latest?cb=20220525165314",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero492-portrait.png/revision/latest?cb=20220525165314",
+    "key": "Hylos-AUwbBiQ5yj",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
