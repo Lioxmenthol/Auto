@@ -4939,5 +4939,14 @@
     "key": "Joy-PGupq6RLfd",
     "skin_name": "Ranger",
     "sort": "1"
+  },
+  "Joy-KukGWU78Ht": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/JoyPretector.zip",
+    "hero": "Joy",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/joy%20eli.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/joy%20eli.jpg",
+    "key": "Joy-KukGWU78Ht",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
