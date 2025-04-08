@@ -4417,5 +4417,14 @@
     "key": "Hayabusa-wQSK6hmqT2",
     "skin_name": "Sushi M",
     "sort": "3"
+  },
+  "Hayabusa-HfqfRcHOnK": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/HayabusaObscurity.zip",
+    "hero": "Hayabusa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
+    "key": "Hayabusa-HfqfRcHOnK",
+    "skin_name": "Obscurity",
+    "sort": "4"
   }
 }
