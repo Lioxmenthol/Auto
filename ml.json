@@ -4336,5 +4336,14 @@
     "key": "Hanabi-A7C00HZ1ma",
     "skin_name": "Rakshesha",
     "sort": "4"
+  },
+  "Hanabi-5cfMEBiuBl": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/hanabicollector.zip",
+    "hero": "Hanabi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero608-portrait.png/revision/latest?cb=20220525165528",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero608-portrait.png/revision/latest?cb=20220525165528",
+    "key": "Hanabi-5cfMEBiuBl",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
