@@ -4822,5 +4822,14 @@
     "key": "Irithel-zjUrcWmB0f",
     "skin_name": "Ducati",
     "sort": "4"
+  },
+  "Irithel-qQ7uPKNxde": {
+    "url": "https://github.com/Lioxmenthol/SC-MARKSMAN-2025/raw/refs/heads/main/UPDATE%20IRITHEL%20KNIGHT%204FEB.zip",
+    "hero": "Irithel",
+    "img": "https://i.ibb.co.com/dK7mPtm/Screenshot-20241209-181938.jpg",
+    "img2": "https://i.ibb.co.com/dK7mPtm/Screenshot-20241209-181938.jpg",
+    "key": "Irithel-qQ7uPKNxde",
+    "skin_name": "Knight",
+    "sort": "5"
   }
 }
