@@ -4543,5 +4543,14 @@
     "key": "Harith-tiE7FlPZum",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Harith-k09UwF7pMz": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/HarithStardust.zip",
+    "hero": "Harith",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero733-portrait.png/revision/latest?cb=20220525165755",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero733-portrait.png/revision/latest?cb=20220525165755",
+    "key": "Harith-k09UwF7pMz",
+    "skin_name": "Elite",
+    "sort": "1"
   }
 }
