@@ -5533,5 +5533,14 @@
     "key": "Lesley-cqOrvx0Ftn",
     "skin_name": "Legend",
     "sort": "5"
+  },
+  "Lesley-XqDmVU7R1k": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/lesleycollecter.zip",
+    "hero": "Lesley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest?cb=20220525165408",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest?cb=20220525165408",
+    "key": "Lesley-XqDmVU7R1k",
+    "skin_name": "Collector",
+    "sort": "6"
   }
 }
