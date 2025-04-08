@@ -4318,5 +4318,14 @@
     "key": "Hanabi-9N7MlCIf0H",
     "skin_name": "Starlight",
     "sort": "2"
+  },
+  "Hanabi-zlOdqG5uX3": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/hanabivenom.zip",
+    "hero": "Hanabi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero604-portrait.png/revision/latest?cb=20220525165524",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero604-portrait.png/revision/latest?cb=20220525165524",
+    "key": "Hanabi-zlOdqG5uX3",
+    "skin_name": "Venom",
+    "sort": "3"
   }
 }
