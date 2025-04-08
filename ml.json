@@ -4291,5 +4291,14 @@
     "key": "Granger-kIIyzQSvHz",
     "skin_name": "Exorcist",
     "sort": "8"
+  },
+  "Hanabi-ZiaWUdcURa": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/hanabiRemove.zip",
+    "hero": "Hanabi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero601-portrait.png/revision/latest?cb=20221217032835",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero601-portrait.png/revision/latest?cb=20221217032835",
+    "key": "Hanabi-ZiaWUdcURa",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
