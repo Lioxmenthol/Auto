@@ -4606,5 +4606,14 @@
     "key": "Harith-UmnDITl2EL",
     "skin_name": "Killua",
     "sort": "7"
+  },
+  "Harley-1S8BbC6U1K": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/HarleyGenius.zip",
+    "hero": "Harley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20220525165200",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20220525165200",
+    "key": "Harley-1S8BbC6U1K",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
