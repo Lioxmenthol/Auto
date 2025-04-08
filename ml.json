@@ -5263,5 +5263,14 @@
     "key": "Khufra-NfssDammvQ",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Khufra-dnwFTSLW10": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/khufravalentine.zip",
+    "hero": "Khufra",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero784-portrait.png/revision/latest?cb=20220525165827",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero784-portrait.png/revision/latest?cb=20220525165827",
+    "key": "Khufra-dnwFTSLW10",
+    "skin_name": "Valentine",
+    "sort": "1"
   }
 }
