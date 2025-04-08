@@ -4390,5 +4390,14 @@
     "key": "Hayabusa-daUuDapiTV",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Hayabusa-FJ7J917WdV": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/HayabusaWeapon.zip",
+    "hero": "Hayabusa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest?cb=20220525164756",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero217-portrait.png/revision/latest?cb=20220525164756",
+    "key": "Hayabusa-FJ7J917WdV",
+    "skin_name": "Biological",
+    "sort": "1"
   }
 }
