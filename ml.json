@@ -5542,5 +5542,14 @@
     "key": "Lesley-XqDmVU7R1k",
     "skin_name": "Collector",
     "sort": "6"
+  },
+  "Lesley-b1AAIHI9ys": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/lesleysniper.zip",
+    "hero": "Lesley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest?cb=20221103134621",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest?cb=20221103134621",
+    "key": "Lesley-b1AAIHI9ys",
+    "skin_name": "Annual Star",
+    "sort": "7"
   }
 }
