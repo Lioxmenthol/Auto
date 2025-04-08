@@ -5209,5 +5209,14 @@
     "key": "Karina-3oe82IjGDU",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Karina-77M7zsI60X": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/KarinaSpiderLily.zip",
+    "hero": "Karina",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest?cb=20220525164458",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero085-portrait.png/revision/latest?cb=20220525164458",
+    "key": "Karina-77M7zsI60X",
+    "skin_name": "Special",
+    "sort": "1"
   }
 }
