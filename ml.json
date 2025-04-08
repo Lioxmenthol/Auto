@@ -4876,5 +4876,14 @@
     "key": "Johnson-ka1Bx2oyN8",
     "skin_name": "Jeepney R",
     "sort": "1"
+  },
+  "Johnson-hqleZAM5JF": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/jhonsondeadride.zip",
+    "hero": "Johnson",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero326-portrait.png/revision/latest?cb=20220525165018",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero326-portrait.png/revision/latest?cb=20220525165018",
+    "key": "Johnson-hqleZAM5JF",
+    "skin_name": "Dead Ride",
+    "sort": "2"
   }
 }
