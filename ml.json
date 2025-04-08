@@ -5074,5 +5074,14 @@
     "key": "Kagura-sPEk418UUN",
     "skin_name": "Special",
     "sort": "1"
+  },
+  "Kagura-ZSziyy9MAU": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/KaguraRainyWalk.zip",
+    "hero": "Kagura",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest?cb=20220525164844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest?cb=20220525164844",
+    "key": "Kagura-ZSziyy9MAU",
+    "skin_name": "Starlight",
+    "sort": "2"
   }
 }
