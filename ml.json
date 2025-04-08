@@ -5956,5 +5956,14 @@
     "key": "Ling-7ydGTkZkx7",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Ling-E4P4n4KA9J": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/LingShade.zip",
+    "hero": "Ling",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb=20220525170017",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest?cb=20220525170017",
+    "key": "Ling-E4P4n4KA9J",
+    "skin_name": "Dragon T",
+    "sort": "1"
   }
 }
