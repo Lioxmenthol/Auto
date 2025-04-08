@@ -4498,5 +4498,14 @@
     "key": "Helcurt-sTr4Blfvr1",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Helcurt-IAgBXiHvvg": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/HelcurtSkythe.zip",
+    "hero": "Helcurt",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest?cb=20220525165334",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest?cb=20220525165334",
+    "key": "Helcurt-IAgBXiHvvg",
+    "skin_name": "Elite",
+    "sort": "1"
   }
 }
