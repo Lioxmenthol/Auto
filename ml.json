@@ -5191,5 +5191,14 @@
     "key": "Karrie-zZNiKbpGx6",
     "skin_name": "Ice Talon",
     "sort": "7"
+  },
+  "Karrie-ieiF0oqiPL": {
+    "url": "https://github.com/Lioxmenthol/SC-MARKSMAN-2025/raw/refs/heads/main/UPDATE%20KARRIE%20KD%204FEB.zip",
+    "hero": "Karrie",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/Karrie%208-2-24.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/Karrie%208-2-24.jpg",
+    "key": "Karrie-ieiF0oqiPL",
+    "skin_name": "Kinshin D",
+    "sort": "8"
   }
 }
