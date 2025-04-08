@@ -5515,5 +5515,14 @@
     "key": "Lesley-tCShNxKxI1",
     "skin_name": "Valentine",
     "sort": "3"
+  },
+  "Lesley-C01sbL0mzH": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/lesleyghost.zip",
+    "hero": "Lesley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest?cb=20230805043856",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest?cb=20230805043856",
+    "key": "Lesley-C01sbL0mzH",
+    "skin_name": "Epic",
+    "sort": "4"
   }
 }
