@@ -4732,5 +4732,14 @@
     "key": "Hylos-sCaiWv74Fl",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Hylos-gyrdKfnsjX": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/hylosjunglewathcer.zip",
+    "hero": "Hylos",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero494-portrait.png/revision/latest?cb=20220525165316",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero494-portrait.png/revision/latest?cb=20220525165316",
+    "key": "Hylos-gyrdKfnsjX",
+    "skin_name": "Jungle",
+    "sort": "1"
   }
 }
