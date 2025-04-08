@@ -4624,5 +4624,14 @@
     "key": "Harley-91z7WacrNB",
     "skin_name": "Referee",
     "sort": "1"
+  },
+  "Harley-dU84AeTwb1": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/HarleyMagister.zip",
+    "hero": "Harley",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest?cb=20220525165203",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest?cb=20220525165203",
+    "key": "Harley-dU84AeTwb1",
+    "skin_name": "Starlight",
+    "sort": "2"
   }
 }
