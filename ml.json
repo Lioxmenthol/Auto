@@ -5776,5 +5776,14 @@
     "key": "Lolita-59QdKxT2MM",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Lolita-2S8srmAb29": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/lolitagenkislam.zip",
+    "hero": "Lolita",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeNKn2vANCgDXTE1qtnNrdFbnuXD-r0j9lZQ&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeNKn2vANCgDXTE1qtnNrdFbnuXD-r0j9lZQ&usqp=CAU",
+    "key": "Lolita-2S8srmAb29",
+    "skin_name": "Special",
+    "sort": "1"
   }
 }
