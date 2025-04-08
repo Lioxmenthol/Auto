@@ -5929,5 +5929,14 @@
     "key": "Lancelot-2bkeC3iVco",
     "skin_name": "Zenitsu",
     "sort": "4"
+  },
+  "Lancelot-tbOfFjHRct": {
+    "url": "https://github.com/Lioxmenthol/SC-ASSASIN-2025/raw/refs/heads/main/UPDATE%20LANCE%20X%20SHANKS%2021FEB.zip",
+    "hero": "Lancelot",
+    "img": "https://i.ibb.co.com/spr6xh7q/Shanks.jpg",
+    "img2": "https://i.ibb.co.com/spr6xh7q/Shanks.jpg",
+    "key": "Lancelot-tbOfFjHRct",
+    "skin_name": "Shanks Akagami",
+    "sort": "5"
   }
 }
