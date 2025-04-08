@@ -5578,5 +5578,14 @@
     "key": "Luo Yi-7Wls4Zx2gV",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Luo Yi-ssEhHnRfjP": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/119.zip",
+    "hero": "Luo Yi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero962-portrait.png/revision/latest?cb=20220525170244",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero962-portrait.png/revision/latest?cb=20220525170244",
+    "key": "Luo Yi-ssEhHnRfjP",
+    "skin_name": "Ying Yang",
+    "sort": "1"
   }
 }
