@@ -5011,5 +5011,14 @@
     "key": "Kadita-ZKMxoElAWT",
     "skin_name": "Heart Sea",
     "sort": "4"
+  },
+  "Kadita-wEeHnxOtXF": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20KADITA%20NICO%20ROBIN.zip",
+    "hero": "Kadita",
+    "img": "https://i.ibb.co.com/HTVzYbd/1737866670384.jpg",
+    "img2": "https://i.ibb.co.com/HTVzYbd/1737866670384.jpg",
+    "key": "Kadita-wEeHnxOtXF",
+    "skin_name": "Nico Robin",
+    "sort": "5"
   }
 }
