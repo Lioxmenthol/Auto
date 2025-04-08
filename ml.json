@@ -5434,5 +5434,14 @@
     "key": "Layla-ADINVzkPf9",
     "skin_name": "Starlight",
     "sort": "2"
+  },
+  "Layla-46B4aohOnN": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/laylaroses.zip",
+    "hero": "Layla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero184-portrait.png/revision/latest?cb=20220525164721",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero184-portrait.png/revision/latest?cb=20220525164721",
+    "key": "Layla-46B4aohOnN",
+    "skin_name": "Valentine",
+    "sort": "3"
   }
 }
