@@ -5299,5 +5299,14 @@
     "key": "Khufra-ibKlmdID81",
     "skin_name": "Starlight",
     "sort": "4"
+  },
+  "Khufra-sdPzKS85jW": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/khufraironhook.zip",
+    "hero": "Khufra",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero787-portrait.png/revision/latest?cb=20230316133740",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero787-portrait.png/revision/latest?cb=20230316133740",
+    "key": "Khufra-sdPzKS85jW",
+    "skin_name": "Iron Hook",
+    "sort": "5"
   }
 }
