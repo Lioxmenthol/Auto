@@ -5641,5 +5641,14 @@
     "key": "Lilya-lzhqBIBhjB",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Lilya-8y76PT1CW3": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/LyliaStudent.zip",
+    "hero": "Lilya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Star_Student.jpg/revision/latest/scale-to-width-down/250?cb=20211207064506",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Star_Student.jpg/revision/latest/scale-to-width-down/250?cb=20211207064506",
+    "key": "Lilya-8y76PT1CW3",
+    "skin_name": "Elite",
+    "sort": "1"
   }
 }
