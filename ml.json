@@ -4597,5 +4597,14 @@
     "key": "Harith-DgX79zGIDJ",
     "skin_name": "Christmas",
     "sort": "6"
+  },
+  "Harith-UmnDITl2EL": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20HARRITH%20KILLUA%20UI%2012FEB.zip",
+    "hero": "Harith",
+    "img": "https://i.ibb.co.com/GWQk7dd/Screenshot-20241209-182453.jpg",
+    "img2": "https://i.ibb.co.com/GWQk7dd/Screenshot-20241209-182453.jpg",
+    "key": "Harith-UmnDITl2EL",
+    "skin_name": "Killua",
+    "sort": "7"
   }
 }
