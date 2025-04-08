@@ -4786,5 +4786,14 @@
     "key": "Irithel-4CDOu01mcQ",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Irithel-zW9093Jojx": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/IrithelHellfire.zip",
+    "hero": "Irithel",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero433-portrait.png/revision/latest?cb=20220525165212",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero433-portrait.png/revision/latest?cb=20220525165212",
+    "key": "Irithel-zW9093Jojx",
+    "skin_name": "Hellfire",
+    "sort": "1"
   }
 }
