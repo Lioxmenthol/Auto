@@ -4363,5 +4363,14 @@
     "key": "Hanabi-wfXetm8qSk",
     "skin_name": "Soul Vessel",
     "sort": "7"
+  },
+  "Hanzo-OdwLcLudCm": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/HanzoAkumaNinja.zip",
+    "hero": "Hanzo",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20220525165722",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20220525165722",
+    "key": "Hanzo-OdwLcLudCm",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
