@@ -5974,5 +5974,14 @@
     "key": "Ling-VlizaFXeSk",
     "skin_name": "Starlight",
     "sort": "2"
+  },
+  "Ling-QBkquyYMY8": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/LingDance.zip",
+    "hero": "Ling",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest?cb=20220525170015",
+    "key": "Ling-QBkquyYMY8",
+    "skin_name": "Basic",
+    "sort": "3"
   }
 }
