@@ -4345,5 +4345,14 @@
     "key": "Hanabi-5cfMEBiuBl",
     "skin_name": "Collector",
     "sort": "5"
+  },
+  "Hanabi-4yq4uNi7IY": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/hanabimoonlitninja.zip",
+    "hero": "Hanabi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero609-portrait.png/revision/latest?cb=20230316133735",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero609-portrait.png/revision/latest?cb=20230316133735",
+    "key": "Hanabi-4yq4uNi7IY",
+    "skin_name": "Moonlit N",
+    "sort": "6"
   }
 }
