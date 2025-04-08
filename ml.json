@@ -4750,5 +4750,14 @@
     "key": "Hylos-AUwbBiQ5yj",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Hylos-Tra9zeCgo1": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/hylosphantomseer.zip",
+    "hero": "Hylos",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero493-portrait.png/revision/latest?cb=20220525165315",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero493-portrait.png/revision/latest?cb=20220525165315",
+    "key": "Hylos-Tra9zeCgo1",
+    "skin_name": "Special",
+    "sort": "3"
   }
 }
