@@ -4930,5 +4930,14 @@
     "key": "Joy-GtG4Nhej37",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Joy-PGupq6RLfd": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/JoyRanger.zip",
+    "hero": "Joy",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest?cb=20221021123853",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest?cb=20221021123853",
+    "key": "Joy-PGupq6RLfd",
+    "skin_name": "Ranger",
+    "sort": "1"
   }
 }
