@@ -5911,5 +5911,14 @@
     "key": "Lancelot-nEHkbSkLj6",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Lancelot-ZYxW34Xz31": {
+    "url": "https://github.com/Lioxmenthol/SC-ASSASIN-2025/raw/refs/heads/main/UPDATE%20LANCE%20DENSETSU%2020FEB.zip",
+    "hero": "Lancelot",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/lancelot%208-2-24.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/lancelot%208-2-24.jpg",
+    "key": "Lancelot-ZYxW34Xz31",
+    "skin_name": "Kinshin D",
+    "sort": "3"
   }
 }
