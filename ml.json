@@ -4327,5 +4327,14 @@
     "key": "Hanabi-zlOdqG5uX3",
     "skin_name": "Venom",
     "sort": "3"
+  },
+  "Hanabi-A7C00HZ1ma": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/hanabiEpic.zip",
+    "hero": "Hanabi",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero606-portrait.png/revision/latest?cb=20220525165526",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero606-portrait.png/revision/latest?cb=20220525165526",
+    "key": "Hanabi-A7C00HZ1ma",
+    "skin_name": "Rakshesha",
+    "sort": "4"
   }
 }
