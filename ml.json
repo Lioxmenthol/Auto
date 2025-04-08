@@ -4687,5 +4687,14 @@
     "key": "Hilda-65phkZugK9",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Hilda-HwlOvQWJQV": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/hildaflowerOW.zip",
+    "hero": "Hilda",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero353-portrait.png/revision/latest?cb=20220525165052",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero353-portrait.png/revision/latest?cb=20220525165052",
+    "key": "Hilda-HwlOvQWJQV",
+    "skin_name": "Flower",
+    "sort": "1"
   }
 }
