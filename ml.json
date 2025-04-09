@@ -6487,5 +6487,14 @@
     "key": "Paquito-jtZhBtbbRY",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Paquito-wTKNqgt1cA": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/paquitopacquiao.zip",
+    "hero": "Paquito",
+    "img": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/paquitopacquiao.zip",
+    "img2": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/paquitopacquiao.zip",
+    "key": "Paquito-wTKNqgt1cA",
+    "skin_name": "Paquiao",
+    "sort": "1"
   }
 }
