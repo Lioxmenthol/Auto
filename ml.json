@@ -7189,5 +7189,14 @@
     "key": "Zilong-Vmsed7cac3",
     "skin_name": "Commander",
     "sort": "2"
+  },
+  "Zilong-XYIu7YfbUg": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/45.zip",
+    "hero": "Zilong",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero167-portrait.png/revision/latest?cb=20220525164650",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero167-portrait.png/revision/latest?cb=20220525164650",
+    "key": "Zilong-XYIu7YfbUg",
+    "skin_name": "Christmas",
+    "sort": "3"
   }
 }
