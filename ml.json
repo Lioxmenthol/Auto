@@ -7018,5 +7018,14 @@
     "key": "X-Borg-vPiWzfVrYj",
     "skin_name": "Mcgg",
     "sort": "5"
+  },
+  "Yin-wvfanpkeom": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/yinori.zip",
+    "hero": "Yin",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20220525170549",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20220525170549",
+    "key": "Yin-wvfanpkeom",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
