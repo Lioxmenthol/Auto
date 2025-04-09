@@ -6982,5 +6982,14 @@
     "key": "X-Borg-8MOhJ5bzXS",
     "skin_name": "Elite",
     "sort": "1"
+  },
+  "X-Borg-Gj92s4oKM4": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/x-borgstarlight.zip",
+    "hero": "X-Borg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrLAHIyDxQP_iahU1JM2Vj9vkdQ9dWkTG3w&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrLAHIyDxQP_iahU1JM2Vj9vkdQ9dWkTG3w&usqp=CAU",
+    "key": "X-Borg-Gj92s4oKM4",
+    "skin_name": "Starlight",
+    "sort": "2"
   }
 }
