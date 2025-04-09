@@ -7207,5 +7207,14 @@
     "key": "Zilong-fq9oMIA4OM",
     "skin_name": "Elite",
     "sort": "4"
+  },
+  "Zilong-FYnhlcWA6P": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/47.zip",
+    "hero": "Zilong",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero164-portrait.png/revision/latest?cb=20220525164647",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero164-portrait.png/revision/latest?cb=20220525164647",
+    "key": "Zilong-FYnhlcWA6P",
+    "skin_name": "Starlight",
+    "sort": "5"
   }
 }
