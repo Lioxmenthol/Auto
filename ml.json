@@ -6586,5 +6586,14 @@
     "key": "Phoveus-KhDtw25LAS",
     "skin_name": "Verdant W",
     "sort": "2"
+  },
+  "Phoveus-sQ53NOgKCN": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20PHOVEUS%20FOSSIL%20BLOOD%207FEB.zip",
+    "hero": "Phoveus",
+    "img": "https://i.ibb.co.com/d4RD1nhQ/1739978329967.jpg",
+    "img2": "https://i.ibb.co.com/d4RD1nhQ/1739978329967.jpg",
+    "key": "Phoveus-sQ53NOgKCN",
+    "skin_name": "Fossil B",
+    "sort": "3"
   }
 }
