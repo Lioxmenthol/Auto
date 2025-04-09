@@ -6289,5 +6289,14 @@
     "key": "Minotaur-OjWV3FwI8f",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Minotaur-dnjEi5eBBB": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/minosacredhammer.zip",
+    "hero": "Minotaur",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero194-portrait.png/revision/latest?cb=20220525164735",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero194-portrait.png/revision/latest?cb=20220525164735",
+    "key": "Minotaur-dnjEi5eBBB",
+    "skin_name": "Hammer",
+    "sort": "1"
   }
 }
