@@ -6793,5 +6793,14 @@
     "key": "Sun-FglHwr7j8d",
     "skin_name": "Rock Star",
     "sort": "1"
+  },
+  "Sun-NNRWYbzFdm": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/165.zip",
+    "hero": "Sun",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest?cb=20220525164904",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest?cb=20220525164904",
+    "key": "Sun-NNRWYbzFdm",
+    "skin_name": "Street L",
+    "sort": "2"
   }
 }
