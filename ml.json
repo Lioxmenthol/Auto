@@ -6739,5 +6739,14 @@
     "key": "Silvana-USvnLRQLNZ",
     "skin_name": "Elite",
     "sort": "4"
+  },
+  "Silvana-yGbw5dBwWY": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/181.zip",
+    "hero": "Silvana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest?cb=20230623125834",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest?cb=20230623125834",
+    "key": "Silvana-yGbw5dBwWY",
+    "skin_name": "Verdant",
+    "sort": "5"
   }
 }
