@@ -6514,5 +6514,14 @@
     "key": "Paquito-p4sxDlpKkk",
     "skin_name": "Starlight",
     "sort": "3"
+  },
+  "Paquito-zmgxYvhKI8": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/128.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1036-portrait.png/revision/latest?cb=20221216103142",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1036-portrait.png/revision/latest?cb=20221216103142",
+    "key": "Paquito-zmgxYvhKI8",
+    "skin_name": "Fist of Light",
+    "sort": "4"
   }
 }
