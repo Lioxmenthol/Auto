@@ -6559,5 +6559,14 @@
     "key": "Paquito-12qFRS2UI8",
     "skin_name": "Kyo Kusanagi",
     "sort": "8"
+  },
+  "Phoveus-TzUOpQ48a9": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/phoveusori.zip",
+    "hero": "Phoveus",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFOlpoPpKvhPG1FHsKP0dw5sCmoYAcZrklzA&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFOlpoPpKvhPG1FHsKP0dw5sCmoYAcZrklzA&usqp=CAU",
+    "key": "Phoveus-TzUOpQ48a9",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
