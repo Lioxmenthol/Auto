@@ -6280,5 +6280,14 @@
     "key": "Moskov-mrbRTxqxmO",
     "skin_name": "Allstar",
     "sort": "8"
+  },
+  "Minotaur-OjWV3FwI8f": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/minotaurori.zip",
+    "hero": "Minotaur",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero191-portrait.png/revision/latest?cb=20220525164730",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero191-portrait.png/revision/latest?cb=20220525164730",
+    "key": "Minotaur-OjWV3FwI8f",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
