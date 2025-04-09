@@ -6073,5 +6073,14 @@
     "key": "Melissa-EG8wcBzma0",
     "skin_name": "Walker",
     "sort": "3"
+  },
+  "Melissa-hBNO0hWiU3": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/MelissaSparkle.zip",
+    "hero": "Melissa",
+    "img": "https://raw.githubusercontent.com/Hiro161123/Marksman/main/Melisa%20sparkle.png",
+    "img2": "https://raw.githubusercontent.com/Hiro161123/Marksman/main/Melisa%20sparkle.png",
+    "key": "Melissa-hBNO0hWiU3",
+    "skin_name": "Sparkle",
+    "sort": "4"
   }
 }
