@@ -6190,5 +6190,14 @@
     "key": "Miya-BWPfhyngpG",
     "skin_name": "Atomic",
     "sort": "10"
+  },
+  "Moskov-GTLH6ChS0p": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/moskovori.zip",
+    "hero": "Moskov",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png/revision/latest?cb=20231110122307",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png/revision/latest?cb=20231110122307",
+    "key": "Moskov-GTLH6ChS0p",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
