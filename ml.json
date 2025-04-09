@@ -7234,5 +7234,14 @@
     "key": "Zilong-neRrs2REgJ",
     "skin_name": "Summer",
     "sort": "7"
+  },
+  "Zilong-sGSibvY1Ky": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/zilongcollector.zip",
+    "hero": "Zilong",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest?cb=20220602112648",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest?cb=20220602112648",
+    "key": "Zilong-sGSibvY1Ky",
+    "skin_name": "Collector",
+    "sort": "8"
   }
 }
