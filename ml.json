@@ -6307,5 +6307,14 @@
     "key": "Minotaur-FzlK4FWtc7",
     "skin_name": "Orbiter",
     "sort": "2"
+  },
+  "Minotaur-x4JrAI2H7N": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/minotaurzodiac.zip",
+    "hero": "Minotaur",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero195-portrait.png/revision/latest?cb=20230316133655",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero195-portrait.png/revision/latest?cb=20230316133655",
+    "key": "Minotaur-x4JrAI2H7N",
+    "skin_name": "Zodiac",
+    "sort": "3"
   }
 }
