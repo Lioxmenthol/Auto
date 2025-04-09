@@ -6613,5 +6613,14 @@
     "key": "Ruby-PtYakEFQLX",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Ruby-uCIGZc5Yx9": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/59.zip",
+    "hero": "Ruby",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest?cb=20220525164934",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest?cb=20220525164934",
+    "key": "Ruby-uCIGZc5Yx9",
+    "skin_name": "Hidden",
+    "sort": "1"
   }
 }
