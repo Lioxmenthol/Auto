@@ -7000,5 +7000,14 @@
     "key": "X-Borg-wFQ4nzPpJY",
     "skin_name": "Epic",
     "sort": "3"
+  },
+  "X-Borg-a3x5ElsqUK": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/x-borgtransformers.zip",
+    "hero": "X-Borg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyqpQKbpRSXOZmuyv3ZYAQ6QhuKrEPwxltsA&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyqpQKbpRSXOZmuyv3ZYAQ6QhuKrEPwxltsA&usqp=CAU",
+    "key": "X-Borg-a3x5ElsqUK",
+    "skin_name": "Transformers",
+    "sort": "4"
   }
 }
