@@ -7126,5 +7126,14 @@
     "key": "Yu Zhong-HrnFvh2BFv",
     "skin_name": "Collector",
     "sort": "3"
+  },
+  "Yu Zhong-cl0DJ6M75Q": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20YZ%20EXORCIST%2012FEB.zip",
+    "hero": "Yu Zhong",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKgZWnNHMIy3YCefgk0eHUNQM3FK2Gc3OUnw&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKgZWnNHMIy3YCefgk0eHUNQM3FK2Gc3OUnw&usqp=CAU",
+    "key": "Yu Zhong-cl0DJ6M75Q",
+    "skin_name": "Exorcist",
+    "sort": "4"
   }
 }
