@@ -6856,5 +6856,14 @@
     "key": "Terizla-x8m6HDE2sI",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Terizla-IvaabGjVJm": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/terizlaelite.zip",
+    "hero": "Terizla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero823-portrait.png/revision/latest?cb=20220525165944",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero823-portrait.png/revision/latest?cb=20220525165944",
+    "key": "Terizla-IvaabGjVJm",
+    "skin_name": "Elite",
+    "sort": "1"
   }
 }
