@@ -6127,5 +6127,14 @@
     "key": "Miya-AIhEHciUpt",
     "skin_name": "Christmas",
     "sort": "3"
+  },
+  "Miya-9NbwdPqxvJ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/miyaspecial.zip",
+    "hero": "Miya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero018-portrait.png/revision/latest?cb=20220525164240",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero018-portrait.png/revision/latest?cb=20220525164240",
+    "key": "Miya-9NbwdPqxvJ",
+    "skin_name": "Special",
+    "sort": "4"
   }
 }
