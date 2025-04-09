@@ -6496,5 +6496,14 @@
     "key": "Paquito-wTKNqgt1cA",
     "skin_name": "Paquiao",
     "sort": "1"
+  },
+  "Paquito-twlGRdRTXQ": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/126.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1034-portrait.png/revision/latest?cb=20220525170359",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1034-portrait.png/revision/latest?cb=20220525170359",
+    "key": "Paquito-twlGRdRTXQ",
+    "skin_name": "Special",
+    "sort": "2"
   }
 }
