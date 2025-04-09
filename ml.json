@@ -6037,5 +6037,14 @@
     "key": "Alucard-Oqtn7QdDLW",
     "skin_name": "Hidan",
     "sort": "1"
+  },
+  "Melissa-V6ERRSHA9n": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/MelissaNeedle.zip",
+    "hero": "Melissa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png/revision/latest?cb=20220525170741",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png/revision/latest?cb=20220525170741",
+    "key": "Melissa-V6ERRSHA9n",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
