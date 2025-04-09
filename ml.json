@@ -6892,5 +6892,14 @@
     "key": "Terizla-dU6C9nNsjk",
     "skin_name": "Rustwreck",
     "sort": "4"
+  },
+  "Terizla-qqhbtLpNz0": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/210.zip",
+    "hero": "Terizla",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/ter.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/ter.jpg",
+    "key": "Terizla-qqhbtLpNz0",
+    "skin_name": "Flames",
+    "sort": "5"
   }
 }
