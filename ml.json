@@ -6082,5 +6082,14 @@
     "key": "Melissa-hBNO0hWiU3",
     "skin_name": "Sparkle",
     "sort": "4"
+  },
+  "Melissa-RrcMCbR1H7": {
+    "url": "https://github.com/Lioxmenthol/SC-MARKSMAN-2025/raw/refs/heads/main/UPDATE%20MELISSA%20COLLECTOR%208MAR.zip",
+    "hero": "Melissa",
+    "img": "https://i.ibb.co.com/H8nghq8/1741514625490.jpg",
+    "img2": "https://i.ibb.co.com/H8nghq8/1741514625490.jpg",
+    "key": "Melissa-RrcMCbR1H7",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
