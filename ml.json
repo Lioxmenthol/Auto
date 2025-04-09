@@ -6802,5 +6802,14 @@
     "key": "Sun-NNRWYbzFdm",
     "skin_name": "Street L",
     "sort": "2"
+  },
+  "Sun-tw434ZlDVU": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/166.zip",
+    "hero": "Sun",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero272-portrait.png/revision/latest?cb=20220525164902",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero272-portrait.png/revision/latest?cb=20220525164902",
+    "key": "Sun-tw434ZlDVU",
+    "skin_name": "Elite",
+    "sort": "3"
   }
 }
