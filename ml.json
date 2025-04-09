@@ -6775,5 +6775,14 @@
     "key": "Silvana-d7Q1U1saud",
     "skin_name": "Special",
     "sort": "3"
+  },
+  "Sun-hONBrCBjcy": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/sunori.zip",
+    "hero": "Sun",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20220525164858",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20220525164858",
+    "key": "Sun-hONBrCBjcy",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
