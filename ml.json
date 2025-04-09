@@ -6424,5 +6424,14 @@
     "key": "Natalia-kKhEyfC26I",
     "skin_name": "Strangler",
     "sort": "5"
+  },
+  "Natalia-hKYUfwKWVU": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/Natalia.zip",
+    "hero": "Natalia",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/natalia_aug.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/natalia_aug.jpg",
+    "key": "Natalia-hKYUfwKWVU",
+    "skin_name": "Collector",
+    "sort": "6"
   }
 }
