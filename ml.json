@@ -6874,5 +6874,14 @@
     "key": "Terizla-YUkFtltmyI",
     "skin_name": "Hallowen",
     "sort": "2"
+  },
+  "Terizla-h3PD2dZXxt": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/102.zip",
+    "hero": "Terizla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero822-portrait.png/revision/latest?cb=20220525165943",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero822-portrait.png/revision/latest?cb=20220525165943",
+    "key": "Terizla-h3PD2dZXxt",
+    "skin_name": "Abbys G",
+    "sort": "3"
   }
 }
