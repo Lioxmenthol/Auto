@@ -6334,5 +6334,14 @@
     "key": "Natan-ZV7RDyBE6i",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Natan-5W3zKDGm4n": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/NatanHunter.zip",
+    "hero": "Natan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1073-portrait.png/revision/latest?cb=20220525170444",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1073-portrait.png/revision/latest?cb=20220525170444",
+    "key": "Natan-5W3zKDGm4n",
+    "skin_name": "Hunter",
+    "sort": "1"
   }
 }
