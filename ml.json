@@ -7144,5 +7144,14 @@
     "key": "Yu Zhong-aH9QMY9aHA",
     "skin_name": "M5",
     "sort": "5"
+  },
+  "Yu Zhong-E8EDR2nT5k": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/yuzhongprime.zip",
+    "hero": "Yu Zhong",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/yuzhong2.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/yuzhong2.jpg",
+    "key": "Yu Zhong-E8EDR2nT5k",
+    "skin_name": "Prime",
+    "sort": "6"
   }
 }
