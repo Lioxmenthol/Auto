@@ -6478,5 +6478,14 @@
     "key": "Miya-C4CapBGdXB",
     "skin_name": "Starlight",
     "sort": "1"
+  },
+  "Paquito-jtZhBtbbRY": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/paquitoori.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
+    "key": "Paquito-jtZhBtbbRY",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
