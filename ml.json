@@ -6955,5 +6955,14 @@
     "key": "Thamus-vyXF19NoPf",
     "skin_name": "Kai",
     "sort": "4"
+  },
+  "Thamus-aPnhq534g2": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20THAMUZ%20STARLIGHT%2020FEB.zip",
+    "hero": "Thamus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
+    "key": "Thamus-aPnhq534g2",
+    "skin_name": "Starlight",
+    "sort": "5"
   }
 }
