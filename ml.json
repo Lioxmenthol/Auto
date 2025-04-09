@@ -7252,5 +7252,14 @@
     "key": "Zilong-xxNLtdF533",
     "skin_name": "515",
     "sort": "9"
+  },
+  "Zilong-O8RsUdli6q": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20ZILONG%20LUNARFEST%2021JAN.zip",
+    "hero": "Zilong",
+    "img": "https://github.com/Hiro161123/Fighter/raw/main/Zilong%20lunar%20fest.png",
+    "img2": "https://github.com/Hiro161123/Fighter/raw/main/Zilong%20lunar%20fest.png",
+    "key": "Zilong-O8RsUdli6q",
+    "skin_name": "Lunarfest",
+    "sort": "10"
   }
 }
