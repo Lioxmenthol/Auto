@@ -6361,5 +6361,14 @@
     "key": "Natan-vp2RHolG2Z",
     "skin_name": "Collector",
     "sort": "2"
+  },
+  "Natan-fYOV2Jebeh": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/NatanVortex.zip",
+    "hero": "Natan",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZAMPssHGi_GILQprKBD18sq8SP3NRTOGoi8wSK4BvfSfAw4XIcTA_Rk1NHaz1wmkpv9VY5ueTU7JCI_Ol-CdFU2ygYHGkakwqSRJ3SPvYqTVcOl2ETPRjkNlPCFPtGyndf-7Aw6-pQKrhZJVqls_uXgfASUU_b819xnTTirvWT1IjQ4PDP3L4C2QSn21/s1560/natan-special-skin-wallpaper.png",
+    "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZAMPssHGi_GILQprKBD18sq8SP3NRTOGoi8wSK4BvfSfAw4XIcTA_Rk1NHaz1wmkpv9VY5ueTU7JCI_Ol-CdFU2ygYHGkakwqSRJ3SPvYqTVcOl2ETPRjkNlPCFPtGyndf-7Aw6-pQKrhZJVqls_uXgfASUU_b819xnTTirvWT1IjQ4PDP3L4C2QSn21/s1560/natan-special-skin-wallpaper.png",
+    "key": "Natan-fYOV2Jebeh",
+    "skin_name": "Special",
+    "sort": "3"
   }
 }
