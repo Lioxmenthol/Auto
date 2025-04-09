@@ -7243,5 +7243,14 @@
     "key": "Zilong-sGSibvY1Ky",
     "skin_name": "Collector",
     "sort": "8"
+  },
+  "Zilong-xxNLtdF533": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/zilong515.zip",
+    "hero": "Zilong",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101611-portrait.png/revision/latest?cb=20220602112731",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101611-portrait.png/revision/latest?cb=20220602112731",
+    "key": "Zilong-xxNLtdF533",
+    "skin_name": "515",
+    "sort": "9"
   }
 }
