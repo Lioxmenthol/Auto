@@ -6577,5 +6577,14 @@
     "key": "Phoveus-0IWIf8zExK",
     "skin_name": "Summer",
     "sort": "1"
+  },
+  "Phoveus-KhDtw25LAS": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20PHOVEUS%20NEW%20VENOM.zip",
+    "hero": "Phoveus",
+    "img": "https://i.ibb.co.com/dtmw2yD/20250126-125347.jpg",
+    "img2": "https://i.ibb.co.com/dtmw2yD/20250126-125347.jpg",
+    "key": "Phoveus-KhDtw25LAS",
+    "skin_name": "Verdant W",
+    "sort": "2"
   }
 }
