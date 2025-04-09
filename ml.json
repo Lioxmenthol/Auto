@@ -6442,5 +6442,14 @@
     "key": "Nolan-j3i5OX2WPG",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Nolan-Bf0ZJBeWQb": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/nolanbasic.zip",
+    "hero": "Nolan",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest/scale-to-width-down/250?cb=20230925013257",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest/scale-to-width-down/250?cb=20230925013257",
+    "key": "Nolan-Bf0ZJBeWQb",
+    "skin_name": "Basic",
+    "sort": "1"
   }
 }
