@@ -6541,5 +6541,14 @@
     "key": "Paquito-QLkIq7Co4z",
     "skin_name": "Kof",
     "sort": "6"
+  },
+  "Paquito-0QCQMFU1Se": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/paquitofmvp.zip",
+    "hero": "Paquito",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/1726882954138.jpg",
+    "img2": "https://github.com/Renier012/Img/raw/refs/heads/main/1726882954138.jpg",
+    "key": "Paquito-0QCQMFU1Se",
+    "skin_name": "Mvp",
+    "sort": "7"
   }
 }
