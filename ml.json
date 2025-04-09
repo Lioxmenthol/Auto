@@ -6199,5 +6199,14 @@
     "key": "Moskov-GTLH6ChS0p",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Moskov-qVv11K1Acg": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/moskovYasha.zip",
+    "hero": "Moskov",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero314-portrait.png/revision/latest?cb=20220525165000",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero314-portrait.png/revision/latest?cb=20220525165000",
+    "key": "Moskov-qVv11K1Acg",
+    "skin_name": "Yasha",
+    "sort": "1"
   }
 }
