@@ -6046,5 +6046,14 @@
     "key": "Melissa-V6ERRSHA9n",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Melissa-aB8xSQu6fO": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/MelissaWeaver.zip",
+    "hero": "Melissa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero1142-portrait.png/revision/latest?cb=20220525170622",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero1142-portrait.png/revision/latest?cb=20220525170622",
+    "key": "Melissa-aB8xSQu6fO",
+    "skin_name": "Weaver",
+    "sort": "1"
   }
 }
