@@ -6712,5 +6712,14 @@
     "key": "Silvana-TUQgQvGRm3",
     "skin_name": "Hallowed",
     "sort": "1"
+  },
+  "Silvana-MvalfnNhun": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/177.zip",
+    "hero": "Silvana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest?cb=20220525170144",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest?cb=20220525170144",
+    "key": "Silvana-MvalfnNhun",
+    "skin_name": "Midnight",
+    "sort": "2"
   }
 }
