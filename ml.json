@@ -6271,5 +6271,14 @@
     "key": "Moskov-a73hvVuXni",
     "skin_name": "Violet",
     "sort": "7"
+  },
+  "Moskov-mrbRTxqxmO": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/UPDATE%20MOSKOV%20ALLSTAR%2012JAN.zip",
+    "hero": "Moskov",
+    "img": "https://raw.githubusercontent.com/Hiro161123/Marksman/main/Moskov%20allstar.png",
+    "img2": "https://raw.githubusercontent.com/Hiro161123/Marksman/main/Moskov%20allstar.png",
+    "key": "Moskov-mrbRTxqxmO",
+    "skin_name": "Allstar",
+    "sort": "8"
   }
 }
