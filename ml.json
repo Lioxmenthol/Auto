@@ -6595,5 +6595,14 @@
     "key": "Phoveus-sQ53NOgKCN",
     "skin_name": "Fossil B",
     "sort": "3"
+  },
+  "Phoveus-BG7rzaw3Mp": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20PHOVEUS%20MPL%2031JAN.zip",
+    "hero": "Phoveus",
+    "img": "https://i.ibb.co.com/n81GRVD0/1738254642601.jpg",
+    "img2": "https://i.ibb.co.com/n81GRVD0/1738254642601.jpg",
+    "key": "Phoveus-BG7rzaw3Mp",
+    "skin_name": "Mpl",
+    "sort": "4"
   }
 }
