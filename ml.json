@@ -6658,5 +6658,14 @@
     "key": "Ruby-go2Gtuy62O",
     "skin_name": "Aspirant",
     "sort": "5"
+  },
+  "Ruby-dWldrZMUR3": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/rubycollector.zip",
+    "hero": "Ruby",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest?cb=20230805043835",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest?cb=20230805043835",
+    "key": "Ruby-dWldrZMUR3",
+    "skin_name": "Collector",
+    "sort": "6"
   }
 }
