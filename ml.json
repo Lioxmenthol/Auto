@@ -6631,5 +6631,14 @@
     "key": "Ruby-M5CN63jsPF",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Ruby-EFcQ26J1Ez": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/rubystar.zip",
+    "hero": "Ruby",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero296-portrait.png/revision/latest?cb=20220525164937",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero296-portrait.png/revision/latest?cb=20220525164937",
+    "key": "Ruby-EFcQ26J1Ez",
+    "skin_name": "Starlight",
+    "sort": "3"
   }
 }
