@@ -6883,5 +6883,14 @@
     "key": "Terizla-h3PD2dZXxt",
     "skin_name": "Abbys G",
     "sort": "3"
+  },
+  "Terizla-dU6C9nNsjk": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/103.zip",
+    "hero": "Terizla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero825-portrait.png/revision/latest?cb=20220525165946",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero825-portrait.png/revision/latest?cb=20220525165946",
+    "key": "Terizla-dU6C9nNsjk",
+    "skin_name": "Rustwreck",
+    "sort": "4"
   }
 }
