@@ -6415,5 +6415,14 @@
     "key": "Natalia-tKkLHQuG1p",
     "skin_name": "Spectre",
     "sort": "4"
+  },
+  "Natalia-kKhEyfC26I": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/NataliaStrangler.zip",
+    "hero": "Natalia",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero246-portrait.png/revision/latest?cb=20220525164835",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero246-portrait.png/revision/latest?cb=20220525164835",
+    "key": "Natalia-kKhEyfC26I",
+    "skin_name": "Strangler",
+    "sort": "5"
   }
 }
