@@ -6226,5 +6226,14 @@
     "key": "Moskov-HNPll12yLH",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Moskov-yi1UmeRZTs": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/moskovChampion.zip",
+    "hero": "Moskov",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png/revision/latest?cb=20220525165001",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png/revision/latest?cb=20220525165001",
+    "key": "Moskov-yi1UmeRZTs",
+    "skin_name": "Special",
+    "sort": "3"
   }
 }
