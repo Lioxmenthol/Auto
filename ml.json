@@ -6172,5 +6172,14 @@
     "key": "Miya-NyEuHd6ph6",
     "skin_name": "Elite",
     "sort": "8"
+  },
+  "Miya-7lrZRqv4K5": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/miyacollector.zip",
+    "hero": "Miya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest?cb=20220804115343",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest?cb=20220804115343",
+    "key": "Miya-7lrZRqv4K5",
+    "skin_name": "Collector",
+    "sort": "9"
   }
 }
