@@ -7216,5 +7216,14 @@
     "key": "Zilong-FYnhlcWA6P",
     "skin_name": "Starlight",
     "sort": "5"
+  },
+  "Zilong-nB9OmQnqil": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/zilongepic2.zip",
+    "hero": "Zilong",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero163-portrait.png/revision/latest?cb=20220525164646",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero163-portrait.png/revision/latest?cb=20220525164646",
+    "key": "Zilong-nB9OmQnqil",
+    "skin_name": "Epic",
+    "sort": "6"
   }
 }
