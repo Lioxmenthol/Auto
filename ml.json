@@ -7027,5 +7027,14 @@
     "key": "Yin-wvfanpkeom",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Yin-KPrKOXh0fN": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/137.zip",
+    "hero": "Yin",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest?cb=20220525170604",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest?cb=20220525170604",
+    "key": "Yin-KPrKOXh0fN",
+    "skin_name": "Fist Valor",
+    "sort": "1"
   }
 }
