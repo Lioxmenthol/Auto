@@ -6973,5 +6973,14 @@
     "key": "X-Borg-OOx3oclDb1",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "X-Borg-8MOhJ5bzXS": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/171.zip",
+    "hero": "X-Borg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0JgcmBFNETkjHQc2wk0DfWcHCTB62zaC2Bg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0JgcmBFNETkjHQc2wk0DfWcHCTB62zaC2Bg&usqp=CAU",
+    "key": "X-Borg-8MOhJ5bzXS",
+    "skin_name": "Elite",
+    "sort": "1"
   }
 }
