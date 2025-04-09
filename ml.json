@@ -6568,5 +6568,14 @@
     "key": "Phoveus-TzUOpQ48a9",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Phoveus-0IWIf8zExK": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20PHOVEUS%20SUMMER%2023JAN.zip",
+    "hero": "Phoveus",
+    "img": "https://i.ibb.co.com/bPYnm7v/1737865989941.jpg",
+    "img2": "https://i.ibb.co.com/bPYnm7v/1737865989941.jpg",
+    "key": "Phoveus-0IWIf8zExK",
+    "skin_name": "Summer",
+    "sort": "1"
   }
 }
