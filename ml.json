@@ -6703,5 +6703,14 @@
     "key": "Silvana-Vu5Q23M74S",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Silvana-TUQgQvGRm3": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/176.zip",
+    "hero": "Silvana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero902-portrait.png/revision/latest?cb=20220525170143",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero902-portrait.png/revision/latest?cb=20220525170143",
+    "key": "Silvana-TUQgQvGRm3",
+    "skin_name": "Hallowed",
+    "sort": "1"
   }
 }
