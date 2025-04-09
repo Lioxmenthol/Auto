@@ -6667,5 +6667,14 @@
     "key": "Ruby-dWldrZMUR3",
     "skin_name": "Collector",
     "sort": "6"
+  },
+  "Ruby-OHX1mxzvDR": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/rubyspecial.zip",
+    "hero": "Ruby",
+    "img": "https://github.com/Hiro161123/Fighter/raw/main/Ruby%20special.png",
+    "img2": "https://github.com/Hiro161123/Fighter/raw/main/Ruby%20special.png",
+    "key": "Ruby-OHX1mxzvDR",
+    "skin_name": "Special",
+    "sort": "7"
   }
 }
