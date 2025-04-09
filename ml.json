@@ -7036,5 +7036,14 @@
     "key": "Yin-KPrKOXh0fN",
     "skin_name": "Fist Valor",
     "sort": "1"
+  },
+  "Yin-YJBXP8OR3d": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/yinmworld.zip",
+    "hero": "Yin",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest?cb=20220525170605",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest?cb=20220525170605",
+    "key": "Yin-YJBXP8OR3d",
+    "skin_name": "Mworld",
+    "sort": "2"
   }
 }
