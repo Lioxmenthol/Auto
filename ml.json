@@ -7135,5 +7135,14 @@
     "key": "Yu Zhong-cl0DJ6M75Q",
     "skin_name": "Exorcist",
     "sort": "4"
+  },
+  "Yu Zhong-aH9QMY9aHA": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/yuzhongm5.zip",
+    "hero": "Yu Zhong",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/yuzhong1.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/yuzhong1.jpg",
+    "key": "Yu Zhong-aH9QMY9aHA",
+    "skin_name": "M5",
+    "sort": "5"
   }
 }
