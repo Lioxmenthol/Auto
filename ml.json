@@ -6829,5 +6829,14 @@
     "key": "Sun-GNYFFI4sLq",
     "skin_name": "Lunarfest",
     "sort": "5"
+  },
+  "Sun-Ty9uxFOtQI": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/UPDATE%20SUN%20CC%201FEB.zip",
+    "hero": "Sun",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest?cb=20220628180003",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest?cb=20220628180003",
+    "key": "Sun-Ty9uxFOtQI",
+    "skin_name": "Collector",
+    "sort": "6"
   }
 }
