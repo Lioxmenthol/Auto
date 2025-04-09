@@ -6397,5 +6397,14 @@
     "key": "Natalia-9Al9gyTF0Z",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Natalia-IQIMvYSwbc": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/NataliaRaven.zip",
+    "hero": "Natalia",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero245-portrait.png/revision/latest?cb=20220525164834",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero245-portrait.png/revision/latest?cb=20220525164834",
+    "key": "Natalia-IQIMvYSwbc",
+    "skin_name": "Raven",
+    "sort": "3"
   }
 }
