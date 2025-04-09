@@ -6532,5 +6532,14 @@
     "key": "Paquito-8oSlzJaZQ4",
     "skin_name": "Collector",
     "sort": "5"
+  },
+  "Paquito-QLkIq7Co4z": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/paquitokof.zip",
+    "hero": "Paquito",
+    "img": "https://github.com/Hiro161123/Fighter/raw/main/Paquito%20kof%20'97.png",
+    "img2": "https://github.com/Hiro161123/Fighter/raw/main/Paquito%20kof%20'97.png",
+    "key": "Paquito-QLkIq7Co4z",
+    "skin_name": "Kof",
+    "sort": "6"
   }
 }
