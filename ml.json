@@ -6721,5 +6721,14 @@
     "key": "Silvana-MvalfnNhun",
     "skin_name": "Midnight",
     "sort": "2"
+  },
+  "Silvana-G43YpqpHpM": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/178.zip",
+    "hero": "Silvana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero904-portrait.png/revision/latest?cb=20220525170145",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero904-portrait.png/revision/latest?cb=20220525170145",
+    "key": "Silvana-G43YpqpHpM",
+    "skin_name": "Starlight",
+    "sort": "3"
   }
 }
