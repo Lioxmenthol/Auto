@@ -6064,5 +6064,14 @@
     "key": "Melissa-Ba5woO3L8X",
     "skin_name": "Kugisaki",
     "sort": "2"
+  },
+  "Melissa-EG8wcBzma0": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/MelissaWalker.zip",
+    "hero": "Melissa",
+    "img": "https://github.com/lanz132/Img/raw/main/melissa.jpg",
+    "img2": "https://github.com/lanz132/Img/raw/main/melissa.jpg",
+    "key": "Melissa-EG8wcBzma0",
+    "skin_name": "Walker",
+    "sort": "3"
   }
 }
