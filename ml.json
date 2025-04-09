@@ -6784,5 +6784,14 @@
     "key": "Sun-hONBrCBjcy",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Sun-FglHwr7j8d": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/164.zip",
+    "hero": "Sun",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest?cb=20220525164903",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest?cb=20220525164903",
+    "key": "Sun-FglHwr7j8d",
+    "skin_name": "Rock Star",
+    "sort": "1"
   }
 }
