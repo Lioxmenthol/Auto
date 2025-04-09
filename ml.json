@@ -6181,5 +6181,14 @@
     "key": "Miya-7lrZRqv4K5",
     "skin_name": "Collector",
     "sort": "9"
+  },
+  "Miya-BWPfhyngpG": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/miyaatomicpop.zip",
+    "hero": "Miya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest?cb=20230316133748",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest?cb=20230316133748",
+    "key": "Miya-BWPfhyngpG",
+    "skin_name": "Atomic",
+    "sort": "10"
   }
 }
