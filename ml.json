@@ -6298,5 +6298,14 @@
     "key": "Minotaur-dnjEi5eBBB",
     "skin_name": "Hammer",
     "sort": "1"
+  },
+  "Minotaur-FzlK4FWtc7": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/minoorbiter.zip",
+    "hero": "Minotaur",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero193-portrait.png/revision/latest?cb=20220525164734",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero193-portrait.png/revision/latest?cb=20220525164734",
+    "key": "Minotaur-FzlK4FWtc7",
+    "skin_name": "Orbiter",
+    "sort": "2"
   }
 }
