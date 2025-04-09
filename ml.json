@@ -6604,5 +6604,14 @@
     "key": "Phoveus-BG7rzaw3Mp",
     "skin_name": "Mpl",
     "sort": "4"
+  },
+  "Ruby-PtYakEFQLX": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/rubyori.zip",
+    "hero": "Ruby",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20220525164924",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20220525164924",
+    "key": "Ruby-PtYakEFQLX",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
