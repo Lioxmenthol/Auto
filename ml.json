@@ -6937,5 +6937,14 @@
     "key": "Thamus-WPZ6dssv5l",
     "skin_name": "Lord Wrait",
     "sort": "2"
+  },
+  "Thamus-RT4A9FJdbu": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/147.zip",
+    "hero": "Thamus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero724-portrait.png/revision/latest?cb=20220525165749",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero724-portrait.png/revision/latest?cb=20220525165749",
+    "key": "Thamus-RT4A9FJdbu",
+    "skin_name": "Special",
+    "sort": "3"
   }
 }
