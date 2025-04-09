@@ -6865,5 +6865,14 @@
     "key": "Terizla-IvaabGjVJm",
     "skin_name": "Elite",
     "sort": "1"
+  },
+  "Terizla-YUkFtltmyI": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/terizoahalloween.zip",
+    "hero": "Terizla",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero824-portrait.png/revision/latest?cb=20220525165945",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero824-portrait.png/revision/latest?cb=20220525165945",
+    "key": "Terizla-YUkFtltmyI",
+    "skin_name": "Hallowen",
+    "sort": "2"
   }
 }
