@@ -6919,5 +6919,14 @@
     "key": "Thamus-0PIMYANZl4",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Thamus-mlgA6uXBwk": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/thamuzelite.zip",
+    "hero": "Thamus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero723-portrait.png/revision/latest?cb=20220525165749",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero723-portrait.png/revision/latest?cb=20220525165749",
+    "key": "Thamus-mlgA6uXBwk",
+    "skin_name": "Elite",
+    "sort": "1"
   }
 }
