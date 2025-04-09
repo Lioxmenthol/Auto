@@ -6244,5 +6244,14 @@
     "key": "Moskov-IoHOEQtXPu",
     "skin_name": "Spear",
     "sort": "4"
+  },
+  "Moskov-UQudK7ggnW": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/moskovdragon.zip",
+    "hero": "Moskov",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest?cb=20220525165004",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest?cb=20220525165004",
+    "key": "Moskov-UQudK7ggnW",
+    "skin_name": "Twilight D",
+    "sort": "5"
   }
 }
