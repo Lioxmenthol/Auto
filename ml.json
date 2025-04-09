@@ -6406,5 +6406,14 @@
     "key": "Natalia-IQIMvYSwbc",
     "skin_name": "Raven",
     "sort": "3"
+  },
+  "Natalia-tKkLHQuG1p": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/Nataliaspectre.zip",
+    "hero": "Natalia",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest?cb=20220525164836",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest?cb=20220525164836",
+    "key": "Natalia-tKkLHQuG1p",
+    "skin_name": "Spectre",
+    "sort": "4"
   }
 }
