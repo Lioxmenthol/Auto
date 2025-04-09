@@ -6145,5 +6145,14 @@
     "key": "Miya-bn6zGUHvzG",
     "skin_name": "Valentine",
     "sort": "5"
+  },
+  "Miya-PrJejZpIbo": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/miyahonor.zip",
+    "hero": "Miya",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero015-portrait.png/revision/latest?cb=20220525164225",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero015-portrait.png/revision/latest?cb=20220525164225",
+    "key": "Miya-PrJejZpIbo",
+    "skin_name": "Honor",
+    "sort": "6"
   }
 }
