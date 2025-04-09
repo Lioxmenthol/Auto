@@ -6730,5 +6730,14 @@
     "key": "Silvana-G43YpqpHpM",
     "skin_name": "Starlight",
     "sort": "3"
+  },
+  "Silvana-USvnLRQLNZ": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/179.zip",
+    "hero": "Silvana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero906-portrait.png/revision/latest?cb=20220525170147",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero906-portrait.png/revision/latest?cb=20220525170147",
+    "key": "Silvana-USvnLRQLNZ",
+    "skin_name": "Elite",
+    "sort": "4"
   }
 }
