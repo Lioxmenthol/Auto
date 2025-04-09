@@ -6622,5 +6622,14 @@
     "key": "Ruby-uCIGZc5Yx9",
     "skin_name": "Hidden",
     "sort": "1"
+  },
+  "Ruby-M5CN63jsPF": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/rubyelite.zip",
+    "hero": "Ruby",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero294-portrait.png/revision/latest?cb=20220525164936",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero294-portrait.png/revision/latest?cb=20220525164936",
+    "key": "Ruby-M5CN63jsPF",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
