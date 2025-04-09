@@ -6217,5 +6217,14 @@
     "key": "Moskov-6z7i4Yk784",
     "skin_name": "Commander",
     "sort": "1"
+  },
+  "Moskov-HNPll12yLH": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/moskovDecapitator.zip",
+    "hero": "Moskov",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest?cb=20220525165005",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest?cb=20220525165005",
+    "key": "Moskov-HNPll12yLH",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
