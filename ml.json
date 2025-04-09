@@ -6208,5 +6208,14 @@
     "key": "Moskov-qVv11K1Acg",
     "skin_name": "Yasha",
     "sort": "1"
+  },
+  "Moskov-6z7i4Yk784": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/moskovCommader.zip",
+    "hero": "Moskov",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero313-portrait.png/revision/latest?cb=20220525164959",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero313-portrait.png/revision/latest?cb=20220525164959",
+    "key": "Moskov-6z7i4Yk784",
+    "skin_name": "Commander",
+    "sort": "1"
   }
 }
