@@ -6109,5 +6109,14 @@
     "key": "Miya-6yUCeoSjpF",
     "skin_name": "Legend",
     "sort": "1"
+  },
+  "Miya-CpQbCHebtZ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/miyaanniversary.zip",
+    "hero": "Miya",
+    "img": "https://i.ibb.co.com/1ZTqP0S/4fed1b7c9c7762481d6419a9d54b7de9.jpg",
+    "img2": "https://i.ibb.co.com/1ZTqP0S/4fed1b7c9c7762481d6419a9d54b7de9.jpg",
+    "key": "Miya-CpQbCHebtZ",
+    "skin_name": "Anniversary",
+    "sort": "2"
   }
 }
