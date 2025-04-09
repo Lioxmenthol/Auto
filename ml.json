@@ -6505,5 +6505,14 @@
     "key": "Paquito-twlGRdRTXQ",
     "skin_name": "Special",
     "sort": "2"
+  },
+  "Paquito-p4sxDlpKkk": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/paquitostar.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1035-portrait.png/revision/latest?cb=20220525170401",
+    "key": "Paquito-p4sxDlpKkk",
+    "skin_name": "Starlight",
+    "sort": "3"
   }
 }
