@@ -7171,5 +7171,14 @@
     "key": "Zilong-82WIwSW0n4",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Zilong-z0gxT4Ce0T": {
+    "url": "https://github.com/lanz132/FIGHTER/raw/refs/heads/main/43.zip",
+    "hero": "Zilong",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest?cb=20220525164652",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest?cb=20220525164652",
+    "key": "Zilong-z0gxT4Ce0T",
+    "skin_name": "Loyal S",
+    "sort": "1"
   }
 }
