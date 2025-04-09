@@ -6055,5 +6055,14 @@
     "key": "Melissa-aB8xSQu6fO",
     "skin_name": "Weaver",
     "sort": "1"
+  },
+  "Melissa-Ba5woO3L8X": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/MelissaKugisaki.zip",
+    "hero": "Melissa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero1143-portrait.png/revision/latest?cb=20230212035448",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero1143-portrait.png/revision/latest?cb=20230212035448",
+    "key": "Melissa-Ba5woO3L8X",
+    "skin_name": "Kugisaki",
+    "sort": "2"
   }
 }
