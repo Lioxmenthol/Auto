@@ -6910,5 +6910,14 @@
     "key": "Terizla-dA24CPLTFD",
     "skin_name": "Collector",
     "sort": "6"
+  },
+  "Thamus-0PIMYANZl4": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/thamuzori.zip",
+    "hero": "Thamus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
+    "key": "Thamus-0PIMYANZl4",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
