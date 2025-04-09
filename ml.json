@@ -6523,5 +6523,14 @@
     "key": "Paquito-zmgxYvhKI8",
     "skin_name": "Fist of Light",
     "sort": "4"
+  },
+  "Paquito-8oSlzJaZQ4": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/paquitoblazingtiger.zip",
+    "hero": "Paquito",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
+    "key": "Paquito-8oSlzJaZQ4",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
