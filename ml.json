@@ -6964,5 +6964,14 @@
     "key": "Thamus-aPnhq534g2",
     "skin_name": "Starlight",
     "sort": "5"
+  },
+  "X-Borg-OOx3oclDb1": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/x-borgori.zip",
+    "hero": "X-Borg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQauOudYU8NlrjF1AHJ3_1V99uFn1g_Cng0Og&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQauOudYU8NlrjF1AHJ3_1V99uFn1g_Cng0Og&usqp=CAU",
+    "key": "X-Borg-OOx3oclDb1",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
