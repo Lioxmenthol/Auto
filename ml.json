@@ -6757,5 +6757,14 @@
     "key": "Silvana-ua2hoakaXL",
     "skin_name": "Collector",
     "sort": "1"
+  },
+  "Silvana-Sn3N9wkXAa": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/Silvanna%20Valentine.zip",
+    "hero": "Silvana",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/silvana91.jpg",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/silvana91.jpg",
+    "key": "Silvana-Sn3N9wkXAa",
+    "skin_name": "Valentine",
+    "sort": "2"
   }
 }
