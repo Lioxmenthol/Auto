@@ -7702,5 +7702,14 @@
     "key": "Valir-n6WLEiscdv",
     "skin_name": "Starlight",
     "sort": "1"
+  },
+  "Valir-6EfnhmArpx": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ValirSummoner.zip",
+    "hero": "Valir",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero573-portrait.png/revision/latest?cb=20220525165458",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero573-portrait.png/revision/latest?cb=20220525165458",
+    "key": "Valir-6EfnhmArpx",
+    "skin_name": "Special",
+    "sort": "2"
   }
 }
