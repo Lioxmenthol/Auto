@@ -8017,5 +8017,14 @@
     "key": "Tigreal-918bj5cbjz",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Tigreal-aO82LlIQjf": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/Tigrealslayer.zip",
+    "hero": "Tigreal",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero064-portrait.png/revision/latest?cb=20220525164422",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero064-portrait.png/revision/latest?cb=20220525164422",
+    "key": "Tigreal-aO82LlIQjf",
+    "skin_name": "Wyrmslayer",
+    "sort": "1"
   }
 }
