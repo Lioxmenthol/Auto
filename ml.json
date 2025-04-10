@@ -7603,5 +7603,14 @@
     "key": "Valentina-3uqeZMZ3gV",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Valentina-xz4J52U53c": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/valentinastarlight.zip",
+    "hero": "Valentina",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest?cb=20230212035444",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest?cb=20230212035444",
+    "key": "Valentina-xz4J52U53c",
+    "skin_name": "Starlight",
+    "sort": "3"
   }
 }
