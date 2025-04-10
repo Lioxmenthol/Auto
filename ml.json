@@ -7450,5 +7450,14 @@
     "key": "Saber-Q5x8PaBwZG",
     "skin_name": "F Warrior",
     "sort": "4"
+  },
+  "Saber-E3IrrjQdk4": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SaberRegulator.zip",
+    "hero": "Saber",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero036-portrait.png/revision/latest?cb=20220525164332",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero036-portrait.png/revision/latest?cb=20220525164332",
+    "key": "Saber-E3IrrjQdk4",
+    "skin_name": "Saber",
+    "sort": "5"
   }
 }
