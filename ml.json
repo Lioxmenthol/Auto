@@ -7639,5 +7639,14 @@
     "key": "Vale-LeqXuCPe9B",
     "skin_name": "Winds",
     "sort": "1"
+  },
+  "Vale-EKVTI9MEld": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ValeKannagi.zip",
+    "hero": "Vale",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest?cb=20220525165648",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest?cb=20220525165648",
+    "key": "Vale-EKVTI9MEld",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
