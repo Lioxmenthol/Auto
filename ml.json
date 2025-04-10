@@ -7765,5 +7765,14 @@
     "key": "Valir-y5MgTbTQip",
     "skin_name": "Kof",
     "sort": "4"
+  },
+  "Vexana-AL76r1B73G": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/VexanaShimmerofHope.zip",
+    "hero": "Vexana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20220714134445",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20220714134445",
+    "key": "Vexana-AL76r1B73G",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
