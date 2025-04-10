@@ -7486,5 +7486,14 @@
     "key": "Saber-naurjTHQdo",
     "skin_name": "Legend",
     "sort": "1"
+  },
+  "Selena-NTVEV6cpuB": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SelenaAbyssal.zip",
+    "hero": "Selena",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20220525165556",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20220525165556",
+    "key": "Selena-NTVEV6cpuB",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
