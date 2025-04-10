@@ -7549,5 +7549,14 @@
     "key": "Selena-rHjQ7ffGAV",
     "skin_name": "Stun",
     "sort": "6"
+  },
+  "Selena-beDETgWHzN": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SelenaVengeance.zip",
+    "hero": "Selena",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest?cb=20220525165610",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest?cb=20220525165610",
+    "key": "Selena-beDETgWHzN",
+    "skin_name": "Abbys",
+    "sort": "7"
   }
 }
