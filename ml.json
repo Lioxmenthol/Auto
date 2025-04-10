@@ -7315,5 +7315,14 @@
     "key": "Popol & Kupa-O6IE8fdRjq",
     "skin_name": "Transformers",
     "sort": "4"
+  },
+  "Popol & Kupa-W1i4eiRKef": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/PopolkupaBrush.zip",
+    "hero": "Popol & Kupa",
+    "img": "https://github.com/lanz132/NEWIMG/raw/main/popol.j",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/main/popol.j",
+    "key": "Popol & Kupa-W1i4eiRKef",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
