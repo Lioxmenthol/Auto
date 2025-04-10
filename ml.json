@@ -7747,5 +7747,14 @@
     "key": "Valir-ARPZOpiBdJ",
     "skin_name": "Phoenix Ikki",
     "sort": "2"
+  },
+  "Valir-TSKutpDMT0": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20VALIR%20KUNING%2020JAN.zip",
+    "hero": "Valir",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest?cb=20220915121957",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest?cb=20220915121957",
+    "key": "Valir-TSKutpDMT0",
+    "skin_name": "Leo Ikki",
+    "sort": "3"
   }
 }
