@@ -7909,5 +7909,14 @@
     "key": "Zhask-9MiwDJ9NpC",
     "skin_name": "Special",
     "sort": "1"
+  },
+  "Zhask-xALICqoGGy": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ZhaskShadow.zip",
+    "hero": "Zhask",
+    "img": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ZhaskShadow.zip",
+    "img2": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ZhaskShadow.zip",
+    "key": "Zhask-xALICqoGGy",
+    "skin_name": "Starlight",
+    "sort": "2"
   }
 }
