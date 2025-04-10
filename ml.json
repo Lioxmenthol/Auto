@@ -7387,5 +7387,14 @@
     "key": "Roger-EI8WmKPdpc",
     "skin_name": "Prime",
     "sort": "4"
+  },
+  "Roger-e2D4LfNvzZ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/RogerGrimlock.zip",
+    "hero": "Roger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest?cb=20220525165139",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest?cb=20220525165139",
+    "key": "Roger-e2D4LfNvzZ",
+    "skin_name": "Transformers",
+    "sort": "5"
   }
 }
