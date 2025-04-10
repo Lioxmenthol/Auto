@@ -7279,5 +7279,14 @@
     "key": "Popol & Kupa-CtAFuyO8Wa",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Popol & Kupa-mPctl2Uw8v": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/PopolkupaHuntingplas.zip",
+    "hero": "Popol & Kupa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero942-portrait.png/revision/latest?cb=20220525170230",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero942-portrait.png/revision/latest?cb=20220525170230",
+    "key": "Popol & Kupa-mPctl2Uw8v",
+    "skin_name": "Hunting",
+    "sort": "1"
   }
 }
