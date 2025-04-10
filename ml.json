@@ -7738,5 +7738,14 @@
     "key": "Valir-RFI75JqA5V",
     "skin_name": "Legend",
     "sort": "1"
+  },
+  "Valir-ARPZOpiBdJ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ValirPhoenxilkki.zip",
+    "hero": "Valir",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest?cb=20220915121951",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest?cb=20220915121951",
+    "key": "Valir-ARPZOpiBdJ",
+    "skin_name": "Phoenix Ikki",
+    "sort": "2"
   }
 }
