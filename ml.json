@@ -7351,5 +7351,14 @@
     "key": "Roger-eBpZMIV8Zd",
     "skin_name": "Starlight",
     "sort": "0"
+  },
+  "Roger-W6X6ceJp16": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/RogerBeast.zip",
+    "hero": "Roger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest?cb=20220920092342",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest?cb=20220920092342",
+    "key": "Roger-W6X6ceJp16",
+    "skin_name": "Dr Beast",
+    "sort": "1"
   }
 }
