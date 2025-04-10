@@ -7306,5 +7306,14 @@
     "key": "Popol & Kupa-LG1l4EwYfD",
     "skin_name": "Elite",
     "sort": "3"
+  },
+  "Popol & Kupa-O6IE8fdRjq": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/PopolkupaRavage.zip",
+    "hero": "Popol & Kupa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero945-portrait.png/revision/latest?cb=20220525170232",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero945-portrait.png/revision/latest?cb=20220525170232",
+    "key": "Popol & Kupa-O6IE8fdRjq",
+    "skin_name": "Transformers",
+    "sort": "4"
   }
 }
