@@ -7882,5 +7882,14 @@
     "key": "Yve-bw9cPrR2SX",
     "skin_name": "Forest H",
     "sort": "1"
+  },
+  "Yve-3JQsSnHiXn": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/yveelite.zip",
+    "hero": "Yve",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
+    "key": "Yve-3JQsSnHiXn",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
