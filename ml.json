@@ -7954,5 +7954,14 @@
     "key": "Yi Shun Shin-z9B3YCVHLh",
     "skin_name": "Basic",
     "sort": "1"
+  },
+  "Yi Shun Shin-Dm0n3eV4xy": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/yisunshinagent.zip",
+    "hero": "Yi Shun Shin",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest?cb=20220525164950",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest?cb=20220525164950",
+    "key": "Yi Shun Shin-Dm0n3eV4xy",
+    "skin_name": "Apocalypse",
+    "sort": "2"
   }
 }
