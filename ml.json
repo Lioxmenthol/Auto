@@ -7657,5 +7657,14 @@
     "key": "Vale-lRetz0VZLK",
     "skin_name": "Starlight",
     "sort": "3"
+  },
+  "Vale-yuSq3qiRpN": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ValeStrom.zip",
+    "hero": "Vale",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest?cb=20220525165647",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest?cb=20220525165647",
+    "key": "Vale-yuSq3qiRpN",
+    "skin_name": "Dawning",
+    "sort": "4"
   }
 }
