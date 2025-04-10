@@ -7630,5 +7630,14 @@
     "key": "Vale-pNLXWhtaJH",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Vale-LeqXuCPe9B": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ValeWinds.zip",
+    "hero": "Vale",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest?cb=20220525165646",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest?cb=20220525165646",
+    "key": "Vale-LeqXuCPe9B",
+    "skin_name": "Winds",
+    "sort": "1"
   }
 }
