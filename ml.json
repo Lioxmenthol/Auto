@@ -7864,5 +7864,14 @@
     "key": "Yin-YR0N6x6wUz",
     "skin_name": "Neobeast",
     "sort": "1"
+  },
+  "Yve-rE5uezWlOF": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/yveori.zip",
+    "hero": "Yve",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png/revision/latest?cb=20220920092448",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png/revision/latest?cb=20220920092448",
+    "key": "Yve-rE5uezWlOF",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
