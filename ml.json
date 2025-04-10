@@ -8080,5 +8080,14 @@
     "key": "Tigreal-h8W4QCblkI",
     "skin_name": "Lightborn",
     "sort": "7"
+  },
+  "Uranus-i56DK4mqnh": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/uranusori.zip",
+    "hero": "Uranus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero591-portrait.png/revision/latest?cb=20220525165512",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero591-portrait.png/revision/latest?cb=20220525165512",
+    "key": "Uranus-i56DK4mqnh",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
