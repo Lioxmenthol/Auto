@@ -7693,5 +7693,14 @@
     "key": "Valir-gw9j4WF72Q",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Valir-n6WLEiscdv": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ValirDictator.zip",
+    "hero": "Valir",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest?cb=20220525165459",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest?cb=20220525165459",
+    "key": "Valir-n6WLEiscdv",
+    "skin_name": "Starlight",
+    "sort": "1"
   }
 }
