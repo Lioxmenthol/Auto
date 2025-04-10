@@ -7873,5 +7873,14 @@
     "key": "Yve-rE5uezWlOF",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Yve-bw9cPrR2SX": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/126.zip",
+    "hero": "Yve",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero1012-portrait.png/revision/latest?cb=20220525170334",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero1012-portrait.png/revision/latest?cb=20220525170334",
+    "key": "Yve-bw9cPrR2SX",
+    "skin_name": "Forest H",
+    "sort": "1"
   }
 }
