@@ -7288,5 +7288,14 @@
     "key": "Popol & Kupa-mPctl2Uw8v",
     "skin_name": "Hunting",
     "sort": "1"
+  },
+  "Popol & Kupa-XKw7GqqjnB": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/PopolkupaTribalHowl.zip",
+    "hero": "Popol & Kupa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero943-portrait.png/revision/latest?cb=20220525170231",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero943-portrait.png/revision/latest?cb=20220525170231",
+    "key": "Popol & Kupa-XKw7GqqjnB",
+    "skin_name": "Tribal Howl",
+    "sort": "2"
   }
 }
