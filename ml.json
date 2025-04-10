@@ -7270,5 +7270,14 @@
     "key": "Granger-V3xfBXdrsx",
     "skin_name": "Dimension",
     "sort": "1"
+  },
+  "Popol & Kupa-CtAFuyO8Wa": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/PopolkupaCompanions.zip",
+    "hero": "Popol & Kupa",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20220525170226",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20220525170226",
+    "key": "Popol & Kupa-CtAFuyO8Wa",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
