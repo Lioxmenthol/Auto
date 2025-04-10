@@ -8071,5 +8071,14 @@
     "key": "Tigreal-nh7ZbDUwyX",
     "skin_name": "Starlight",
     "sort": "6"
+  },
+  "Tigreal-h8W4QCblkI": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/tigreallightborn.zip",
+    "hero": "Tigreal",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest?cb=20220525164423",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest?cb=20220525164423",
+    "key": "Tigreal-h8W4QCblkI",
+    "skin_name": "Lightborn",
+    "sort": "7"
   }
 }
