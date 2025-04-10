@@ -7585,5 +7585,14 @@
     "key": "Valentina-FBN8ZUjso2",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Valentina-0xIs4jD6cz": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/129.zip",
+    "hero": "Valentina",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest?cb=20220525170523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest?cb=20220525170523",
+    "key": "Valentina-0xIs4jD6cz",
+    "skin_name": "Twilight",
+    "sort": "1"
   }
 }
