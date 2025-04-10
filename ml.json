@@ -7648,5 +7648,14 @@
     "key": "Vale-EKVTI9MEld",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Vale-lRetz0VZLK": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/UPDATE%20VALE%20STAR.zip",
+    "hero": "Vale",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest?cb=20220525165649",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest?cb=20220525165649",
+    "key": "Vale-lRetz0VZLK",
+    "skin_name": "Starlight",
+    "sort": "3"
   }
 }
