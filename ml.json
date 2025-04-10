@@ -7801,5 +7801,14 @@
     "key": "Vexana-wvNTM6upgA",
     "skin_name": "Epic",
     "sort": "3"
+  },
+  "Vexana-j3E5j6xSYh": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/VexanaMagician.zip",
+    "hero": "Vexana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest?cb=20221103134615",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest?cb=20221103134615",
+    "key": "Vexana-j3E5j6xSYh",
+    "skin_name": "Starlight",
+    "sort": "4"
   }
 }
