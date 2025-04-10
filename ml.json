@@ -7792,5 +7792,14 @@
     "key": "Vexana-4e3mjmhLme",
     "skin_name": "Cursed S",
     "sort": "2"
+  },
+  "Vexana-wvNTM6upgA": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/VexanaRose.zip",
+    "hero": "Vexana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero383-portrait.png/revision/latest?cb=20220714134505",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero383-portrait.png/revision/latest?cb=20220714134505",
+    "key": "Vexana-wvNTM6upgA",
+    "skin_name": "Epic",
+    "sort": "3"
   }
 }
