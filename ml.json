@@ -7477,5 +7477,14 @@
     "key": "Saber-4xntH8YdnQ",
     "skin_name": "Starlight",
     "sort": "7"
+  },
+  "Saber-naurjTHQdo": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SaberStorm.zip",
+    "hero": "Saber",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
+    "key": "Saber-naurjTHQdo",
+    "skin_name": "Legend",
+    "sort": "1"
   }
 }
