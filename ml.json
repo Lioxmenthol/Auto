@@ -7756,5 +7756,14 @@
     "key": "Valir-TSKutpDMT0",
     "skin_name": "Leo Ikki",
     "sort": "3"
+  },
+  "Valir-y5MgTbTQip": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ValirKusanagi.zip",
+    "hero": "Valir",
+    "img": "https://github.com/Hiro161123/Mage/raw/main/Valir%20kof%20'97.png",
+    "img2": "https://github.com/Hiro161123/Mage/raw/main/Valir%20kof%20'97.png",
+    "key": "Valir-y5MgTbTQip",
+    "skin_name": "Kof",
+    "sort": "4"
   }
 }
