@@ -7711,5 +7711,14 @@
     "key": "Vale-0k0XB2N2VU",
     "skin_name": "Cyrstal Man",
     "sort": "9"
+  },
+  "Vale-3bJTRW92AH": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20VALE%20X%20GAARA%201FEB.zip",
+    "hero": "Vale",
+    "img": "https://i.ibb.co.com/TDP8gRC8/1738737867385.jpg",
+    "img2": "https://i.ibb.co.com/TDP8gRC8/1738737867385.jpg",
+    "key": "Vale-3bJTRW92AH",
+    "skin_name": "Gaara",
+    "sort": "10"
   }
 }
