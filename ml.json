@@ -8035,5 +8035,14 @@
     "key": "Tigreal-lqzWykhBD4",
     "skin_name": "Guardian",
     "sort": "2"
+  },
+  "Tigreal-Rip88S9FH0": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/tigrealfallenguard.zip",
+    "hero": "Tigreal",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero063-portrait.png/revision/latest?cb=20220525164421",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero063-portrait.png/revision/latest?cb=20220525164421",
+    "key": "Tigreal-Rip88S9FH0",
+    "skin_name": "Fallen G",
+    "sort": "3"
   }
 }
