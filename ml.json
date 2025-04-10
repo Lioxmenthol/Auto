@@ -8089,5 +8089,14 @@
     "key": "Uranus-i56DK4mqnh",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Uranus-hdUw8gmkdo": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/uranuspineball.zip",
+    "hero": "Uranus",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero595-portrait.png/revision/latest?cb=20220525165518",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero595-portrait.png/revision/latest?cb=20220525165518",
+    "key": "Uranus-hdUw8gmkdo",
+    "skin_name": "Pinball M",
+    "sort": "1"
   }
 }
