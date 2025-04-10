@@ -7711,5 +7711,14 @@
     "key": "Valir-6EfnhmArpx",
     "skin_name": "Special",
     "sort": "2"
+  },
+  "Valir-Rpnf8X0Kud": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ValirFlame.zip",
+    "hero": "Valir",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest?cb=20220525165500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest?cb=20220525165500",
+    "key": "Valir-Rpnf8X0Kud",
+    "skin_name": "Dragontamer",
+    "sort": "3"
   }
 }
