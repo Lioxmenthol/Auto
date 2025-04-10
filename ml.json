@@ -7405,5 +7405,14 @@
     "key": "Roger-qhpwQpIlYQ",
     "skin_name": "Pirate",
     "sort": "6"
+  },
+  "Saber-NHlT7Gcnjt": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SaberOri.zip",
+    "hero": "Saber",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest?cb=20220525164318",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero031-portrait.png/revision/latest?cb=20220525164318",
+    "key": "Saber-NHlT7Gcnjt",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
