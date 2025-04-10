@@ -7927,5 +7927,14 @@
     "key": "Zhask-QZlWfAH6ly",
     "skin_name": "Zodiac",
     "sort": "1"
+  },
+  "Zhask-BFCdObcvbX": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ZhanskFlamen.zip",
+    "hero": "Zhask",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20220525165326",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20220525165326",
+    "key": "Zhask-BFCdObcvbX",
+    "skin_name": "Epic",
+    "sort": "2"
   }
 }
