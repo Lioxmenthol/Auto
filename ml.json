@@ -7720,5 +7720,14 @@
     "key": "Valir-Rpnf8X0Kud",
     "skin_name": "Dragontamer",
     "sort": "3"
+  },
+  "Valir-pJ0vlh2hHc": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ValirDemonlord.zip",
+    "hero": "Valir",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest?cb=20220525165501",
+    "key": "Valir-pJ0vlh2hHc",
+    "skin_name": "Collector",
+    "sort": "4"
   }
 }
