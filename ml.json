@@ -7432,5 +7432,14 @@
     "key": "Saber-19p6zVIWH6",
     "skin_name": "Silver E",
     "sort": "2"
+  },
+  "Saber-IB6YBu8B8D": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SaberMetalRonin.zip",
+    "hero": "Saber",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero035-portrait.png/revision/latest?cb=20220525164330",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero035-portrait.png/revision/latest?cb=20220525164330",
+    "key": "Saber-IB6YBu8B8D",
+    "skin_name": "Elite",
+    "sort": "3"
   }
 }
