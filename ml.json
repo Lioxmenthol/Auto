@@ -8053,5 +8053,14 @@
     "key": "Tigreal-cXRgYsTfyH",
     "skin_name": "Gold Baron",
     "sort": "4"
+  },
+  "Tigreal-9ffsf5UWZ9": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/tigrealjustice.zip",
+    "hero": "Tigreal",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Tigreal%20special%202024.png",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Tigreal%20special%202024.png",
+    "key": "Tigreal-9ffsf5UWZ9",
+    "skin_name": "Pasha J",
+    "sort": "5"
   }
 }
