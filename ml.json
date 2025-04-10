@@ -7594,5 +7594,14 @@
     "key": "Valentina-0xIs4jD6cz",
     "skin_name": "Twilight",
     "sort": "1"
+  },
+  "Valentina-3uqeZMZ3gV": {
+    "url": "https://github.com/lanz132/MAGE/raw/refs/heads/main/130.zip",
+    "hero": "Valentina",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1103-portrait.png/revision/latest?cb=20220804115341",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1103-portrait.png/revision/latest?cb=20220804115341",
+    "key": "Valentina-3uqeZMZ3gV",
+    "skin_name": "Elite",
+    "sort": "2"
   }
 }
