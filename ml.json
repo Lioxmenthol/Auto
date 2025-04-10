@@ -7540,5 +7540,14 @@
     "key": "Selena-E9mgRVNkwd",
     "skin_name": "Thunder F",
     "sort": "5"
+  },
+  "Selena-rHjQ7ffGAV": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SelenaStun.zip",
+    "hero": "Selena",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest?cb=20220525165609",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest?cb=20220525165609",
+    "key": "Selena-rHjQ7ffGAV",
+    "skin_name": "Stun",
+    "sort": "6"
   }
 }
