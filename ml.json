@@ -7684,5 +7684,14 @@
     "key": "Vale-y2muPJsj8A",
     "skin_name": "Collector",
     "sort": "6"
+  },
+  "Vale-hTrxFzELft": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ValeContertoofLight.zip",
+    "hero": "Vale",
+    "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Vale%20anualstar.png",
+    "img2": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Vale%20anualstar.png",
+    "key": "Vale-hTrxFzELft",
+    "skin_name": "Annual Star",
+    "sort": "7"
   }
 }
