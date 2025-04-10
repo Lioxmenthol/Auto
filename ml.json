@@ -7729,5 +7729,14 @@
     "key": "Valir-pJ0vlh2hHc",
     "skin_name": "Collector",
     "sort": "4"
+  },
+  "Valir-RFI75JqA5V": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ValirBlaze.zip",
+    "hero": "Valir",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest?cb=20220525165502",
+    "key": "Valir-RFI75JqA5V",
+    "skin_name": "Legend",
+    "sort": "1"
   }
 }
