@@ -7666,5 +7666,14 @@
     "key": "Vale-yuSq3qiRpN",
     "skin_name": "Dawning",
     "sort": "4"
+  },
+  "Vale-HqK79lC2v5": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ValeKeeperoftheWinds.zip",
+    "hero": "Vale",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest?cb=20230317102031",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest?cb=20230317102031",
+    "key": "Vale-HqK79lC2v5",
+    "skin_name": "Epic",
+    "sort": "5"
   }
 }
