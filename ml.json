@@ -8044,5 +8044,14 @@
     "key": "Tigreal-Rip88S9FH0",
     "skin_name": "Fallen G",
     "sort": "3"
+  },
+  "Tigreal-cXRgYsTfyH": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/raw/refs/heads/main/tigrealspecial.zip",
+    "hero": "Tigreal",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest?cb=20220525164424",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest?cb=20220525164424",
+    "key": "Tigreal-cXRgYsTfyH",
+    "skin_name": "Gold Baron",
+    "sort": "4"
   }
 }
