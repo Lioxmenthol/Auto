@@ -7810,5 +7810,14 @@
     "key": "Vexana-j3E5j6xSYh",
     "skin_name": "Starlight",
     "sort": "4"
+  },
+  "Vexana-7RVjNqSest": {
+    "url": "https://github.com/Lioxmenthol/SC-MAGE-2025/raw/refs/heads/main/UPDATE%20VEXANA%20CC%2012FEB.zip",
+    "hero": "Vexana",
+    "img": "https://github.com/lanz132/Img/raw/main/vexana.jpeg",
+    "img2": "https://github.com/lanz132/Img/raw/main/vexana.jpeg",
+    "key": "Vexana-7RVjNqSest",
+    "skin_name": "Collector",
+    "sort": "5"
   }
 }
