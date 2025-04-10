@@ -7423,5 +7423,14 @@
     "key": "Saber-kgbPPLbrt2",
     "skin_name": "Basic",
     "sort": "1"
+  },
+  "Saber-19p6zVIWH6": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SaberEdge.zip",
+    "hero": "Saber",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero038-portrait.png/revision/latest?cb=20220525164337",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero038-portrait.png/revision/latest?cb=20220525164337",
+    "key": "Saber-19p6zVIWH6",
+    "skin_name": "Silver E",
+    "sort": "2"
   }
 }
