@@ -7522,5 +7522,14 @@
     "key": "Selena-nKmklZtTAz",
     "skin_name": "Zodiac",
     "sort": "3"
+  },
+  "Selena-yQDGaUqVwM": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SelenaVirus.zip",
+    "hero": "Selena",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest?cb=20220525165604",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest?cb=20220525165604",
+    "key": "Selena-yQDGaUqVwM",
+    "skin_name": "Virus",
+    "sort": "4"
   }
 }
