@@ -7441,5 +7441,14 @@
     "key": "Saber-IB6YBu8B8D",
     "skin_name": "Elite",
     "sort": "3"
+  },
+  "Saber-Q5x8PaBwZG": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SaberWarrior.zip",
+    "hero": "Saber",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero033-portrait.png/revision/latest?cb=20220525164328",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero033-portrait.png/revision/latest?cb=20220525164328",
+    "key": "Saber-Q5x8PaBwZG",
+    "skin_name": "F Warrior",
+    "sort": "4"
   }
 }
