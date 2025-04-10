@@ -7558,5 +7558,14 @@
     "key": "Selena-beDETgWHzN",
     "skin_name": "Abbys",
     "sort": "7"
+  },
+  "Selena-XP1VzzfOcK": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SelenaButterfly.zip",
+    "hero": "Selena",
+    "img": "https://i.ibb.co.com/NtSYktd/Selena-Epic.jpg",
+    "img2": "https://i.ibb.co.com/NtSYktd/Selena-Epic.jpg",
+    "key": "Selena-XP1VzzfOcK",
+    "skin_name": "Epic",
+    "sort": "8"
   }
 }
