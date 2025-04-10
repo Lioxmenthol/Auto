@@ -7783,5 +7783,14 @@
     "key": "Vexana-WsZWxH9D6s",
     "skin_name": "Lucent B",
     "sort": "1"
+  },
+  "Vexana-4e3mjmhLme": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/VexanaShackle.zip",
+    "hero": "Vexana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest?cb=20220604034152",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest?cb=20220604034152",
+    "key": "Vexana-4e3mjmhLme",
+    "skin_name": "Cursed S",
+    "sort": "2"
   }
 }
