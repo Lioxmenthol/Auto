@@ -7774,5 +7774,14 @@
     "key": "Vexana-AL76r1B73G",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Vexana-WsZWxH9D6s": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/VexanaBeacon.zip",
+    "hero": "Vexana",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest?cb=20220714134500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest?cb=20220714134500",
+    "key": "Vexana-WsZWxH9D6s",
+    "skin_name": "Lucent B",
+    "sort": "1"
   }
 }
