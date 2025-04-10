@@ -7945,5 +7945,14 @@
     "key": "Yi Shun Shin-UKOBMTpWRp",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Yi Shun Shin-z9B3YCVHLh": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/yisunshingeneral.zip",
+    "hero": "Yi Shun Shin",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest?cb=20220525164949",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest?cb=20220525164949",
+    "key": "Yi Shun Shin-z9B3YCVHLh",
+    "skin_name": "Basic",
+    "sort": "1"
   }
 }
