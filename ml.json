@@ -7360,5 +7360,14 @@
     "key": "Roger-W6X6ceJp16",
     "skin_name": "Dr Beast",
     "sort": "1"
+  },
+  "Roger-wt28a8rwdK": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/RogerWerewolf.zip",
+    "hero": "Roger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero396-portrait.png/revision/latest?cb=20220525165135",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero396-portrait.png/revision/latest?cb=20220525165135",
+    "key": "Roger-wt28a8rwdK",
+    "skin_name": "Cyborg W",
+    "sort": "2"
   }
 }
