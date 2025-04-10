@@ -7936,5 +7936,14 @@
     "key": "Zhask-BFCdObcvbX",
     "skin_name": "Epic",
     "sort": "2"
+  },
+  "Yi Shun Shin-UKOBMTpWRp": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/yisunshinlegend.zip",
+    "hero": "Yi Shun Shin",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
+    "key": "Yi Shun Shin-UKOBMTpWRp",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
