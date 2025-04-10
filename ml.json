@@ -7396,5 +7396,14 @@
     "key": "Roger-e2D4LfNvzZ",
     "skin_name": "Transformers",
     "sort": "5"
+  },
+  "Roger-qhpwQpIlYQ": {
+    "url": "https://github.com/Lioxmenthol/Sc-Marksman-2024/raw/refs/heads/main/RogerPirate.zip",
+    "hero": "Roger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest?cb=20230317100649",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest?cb=20230317100649",
+    "key": "Roger-qhpwQpIlYQ",
+    "skin_name": "Pirate",
+    "sort": "6"
   }
 }
