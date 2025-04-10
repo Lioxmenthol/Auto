@@ -7414,5 +7414,14 @@
     "key": "Saber-NHlT7Gcnjt",
     "skin_name": "Ori",
     "sort": "0"
+  },
+  "Saber-kgbPPLbrt2": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SaberGoldemFlash.zip",
+    "hero": "Saber",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero032-portrait.png/revision/latest?cb=20220525164327",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero032-portrait.png/revision/latest?cb=20220525164327",
+    "key": "Saber-kgbPPLbrt2",
+    "skin_name": "Basic",
+    "sort": "1"
   }
 }
