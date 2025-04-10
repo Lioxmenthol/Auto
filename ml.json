@@ -7891,5 +7891,14 @@
     "key": "Yve-3JQsSnHiXn",
     "skin_name": "Elite",
     "sort": "2"
+  },
+  "Zhask-dcOmf3sYcw": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/raw/refs/heads/main/ZhaskSwarms.zip",
+    "hero": "Zhask",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero501-portrait.png/revision/latest?cb=20220525165318",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero501-portrait.png/revision/latest?cb=20220525165318",
+    "key": "Zhask-dcOmf3sYcw",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
