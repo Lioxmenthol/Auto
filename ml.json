@@ -7531,5 +7531,14 @@
     "key": "Selena-yQDGaUqVwM",
     "skin_name": "Virus",
     "sort": "4"
+  },
+  "Selena-E9mgRVNkwd": {
+    "url": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/SelenaFlash.zip",
+    "hero": "Selena",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest?cb=20220525165607",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest?cb=20220525165607",
+    "key": "Selena-E9mgRVNkwd",
+    "skin_name": "Thunder F",
+    "sort": "5"
   }
 }
