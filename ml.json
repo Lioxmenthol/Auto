@@ -7369,5 +7369,14 @@
     "key": "Roger-wt28a8rwdK",
     "skin_name": "Cyborg W",
     "sort": "2"
+  },
+  "Roger-Ni89McehHV": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/raw/refs/heads/main/UPDATE%20ROGER%20M3%2010JAN.zip",
+    "hero": "Roger",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero397-portrait.png/revision/latest?cb=20220525165136",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero397-portrait.png/revision/latest?cb=20220525165136",
+    "key": "Roger-Ni89McehHV",
+    "skin_name": "M3",
+    "sort": "3"
   }
 }
