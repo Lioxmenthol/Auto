@@ -8170,5 +8170,14 @@
     "key": "Lukas-DY9GwXwImT",
     "skin_name": "Basic to Naruto",
     "sort": "1"
+  },
+  "Kalea-JJjaCX1LJG": {
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/52616zwslsrHero1281-portrait.png",
+    "hero": "Kalea",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/52616zwslsrHero1281-portrait.png",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/52616zwslsrHero1281-portrait.png",
+    "key": "Kalea-JJjaCX1LJG",
+    "skin_name": "Ori",
+    "sort": "0"
   }
 }
