@@ -17,7 +17,7 @@
     {
         "her":"Alice",
         "roll":"Mage",
-        "URL":"https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/8\/82\/Alice.png\/revision\/latest?cb=20211231100041"
+        "URL":"https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/5gaulyg27ia69387.png"
     },
     {
         "her":"Alpha",
@@ -643,5 +643,11 @@
         "her":"Zetian",
         "roll":"Fighter",
         "URL":"https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/459pktl4aof1750732570278.jpg"
+    }
+    },
+    {
+        "her":"Obsidia",
+        "roll":"Fighter",
+        "URL":"https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/2zs0zxl7rtb69588.jpg"
     }
 ]
