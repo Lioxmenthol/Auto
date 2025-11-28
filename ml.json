@@ -14200,5 +14200,14 @@
     "key": "! Custom Map-Tp1ocMe2Ym",
     "skin_name": "Yellow",
     "sort": "3"
+  },
+  "! Custom Map-y16zURaVpp": {
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20NARUTO%20FLOWER%20SANCTUM.zip",
+    "hero": "! Custom Map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/f9sjys3h94e266523.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/f9sjys3h94e266523.jpg",
+    "key": "! Custom Map-y16zURaVpp",
+    "skin_name": "Naruto",
+    "sort": "4"
   }
 }
