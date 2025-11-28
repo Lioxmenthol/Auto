@@ -14236,5 +14236,14 @@
     "key": "! Custom Map-RglQMUYxdZ",
     "skin_name": "Set High ~ Sanctum Island ~ Sand",
     "sort": "6"
+  },
+  "! Custom Map-smY7vT1Oa3": {
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20CHINA%20SANCTUM.zip",
+    "hero": "! Custom Map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/lpak587vtmm266532.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/lpak587vtmm266532.jpg",
+    "key": "! Custom Map-smY7vT1Oa3",
+    "skin_name": "Set Medium ~ Sanctum Island ~ China",
+    "sort": "7"
   }
 }
