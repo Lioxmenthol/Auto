@@ -14227,5 +14227,14 @@
     "key": "! Custom Map-t0tUL7pYmY",
     "skin_name": "Set High ~ Sanctum Island ~ Pro Max",
     "sort": "5"
+  },
+  "! Custom Map-RglQMUYxdZ": {
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20PASIR%20SANCTUM.zip",
+    "hero": "! Custom Map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/xirweseaa5266529.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/xirweseaa5266529.jpg",
+    "key": "! Custom Map-RglQMUYxdZ",
+    "skin_name": "Set High ~ Sanctum Island ~ Sand",
+    "sort": "6"
   }
 }
