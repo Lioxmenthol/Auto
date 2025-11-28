@@ -14227,5 +14227,14 @@
     "key": "! Custom Map-L5bSjSddcy",
     "skin_name": "Sand",
     "sort": "6"
+  },
+  "! Custom Map-z5FQCd5Qey": {
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20CHINA%20SANCTUM.zip",
+    "hero": "! Custom Map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/5n81ro3vbq266532.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/5n81ro3vbq266532.jpg",
+    "key": "! Custom Map-z5FQCd5Qey",
+    "skin_name": "China",
+    "sort": "7"
   }
 }
