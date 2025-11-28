@@ -14218,5 +14218,14 @@
     "key": "! Custom Map-lKCA3uqteG",
     "skin_name": "Pro Max",
     "sort": "5"
+  },
+  "! Custom Map-L5bSjSddcy": {
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20PASIR%20SANCTUM.zip",
+    "hero": "! Custom Map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/x29zkmpuv1266529.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/x29zkmpuv1266529.jpg",
+    "key": "! Custom Map-L5bSjSddcy",
+    "skin_name": "Sand",
+    "sort": "6"
   }
 }
