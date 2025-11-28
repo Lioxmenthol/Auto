@@ -14218,5 +14218,14 @@
     "key": "! Custom Map-a2txrDjsnl",
     "skin_name": "Set High ~ Sanctum Island ~ Naruto",
     "sort": "4"
+  },
+  "! Custom Map-t0tUL7pYmY": {
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20PROMAX%20SANCTUM.zip",
+    "hero": "! Custom Map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/mnp18wuizyl266526.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/mnp18wuizyl266526.jpg",
+    "key": "! Custom Map-t0tUL7pYmY",
+    "skin_name": "Set High ~ Sanctum Island ~ Pro Max",
+    "sort": "5"
   }
 }
