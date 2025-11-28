@@ -14209,5 +14209,14 @@
     "key": "! Custom Map-y16zURaVpp",
     "skin_name": "Naruto",
     "sort": "4"
+  },
+  "! Custom Map-lKCA3uqteG": {
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20PROMAX%20SANCTUM.zip",
+    "hero": "! Custom Map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/duytmq5g9g5266526.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/duytmq5g9g5266526.jpg",
+    "key": "! Custom Map-lKCA3uqteG",
+    "skin_name": "Pro Max",
+    "sort": "5"
   }
 }
