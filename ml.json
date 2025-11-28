@@ -14209,5 +14209,14 @@
     "key": "! Custom Map-Hp2EU3qOkc",
     "skin_name": "Set Medium ~ Sanctum Island ~ Yellow",
     "sort": "3"
+  },
+  "! Custom Map-a2txrDjsnl": {
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20NARUTO%20FLOWER%20SANCTUM.zip",
+    "hero": "! Custom Map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/4es43e0e4du266523.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/4es43e0e4du266523.jpg",
+    "key": "! Custom Map-a2txrDjsnl",
+    "skin_name": "Set High ~ Sanctum Island ~ Naruto",
+    "sort": "4"
   }
 }
