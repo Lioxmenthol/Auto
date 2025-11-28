@@ -14182,5 +14182,14 @@
     "key": "! Custom Map-YDCCv5CofR",
     "skin_name": "Tol",
     "sort": "1"
+  },
+  "! Custom Map-wrBc6hHzIS": {
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20SNOW%20V2%20SANCTUM.zip",
+    "hero": "! Custom Map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/1q5xtljeq6l266517.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/1q5xtljeq6l266517.jpg",
+    "key": "! Custom Map-wrBc6hHzIS",
+    "skin_name": "Snow",
+    "sort": "2"
   }
 }
