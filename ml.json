@@ -14191,5 +14191,14 @@
     "key": "! Custom Map-wrBc6hHzIS",
     "skin_name": "Snow",
     "sort": "2"
+  },
+  "! Custom Map-Tp1ocMe2Ym": {
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20YELLOW%20HD%20SANCTUM.zip",
+    "hero": "! Custom Map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/x5309n283gq266520.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/x5309n283gq266520.jpg",
+    "key": "! Custom Map-Tp1ocMe2Ym",
+    "skin_name": "Yellow",
+    "sort": "3"
   }
 }
