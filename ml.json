@@ -14236,5 +14236,14 @@
     "key": "! Custom Map-z5FQCd5Qey",
     "skin_name": "China",
     "sort": "7"
+  },
+  "! Custom Map-FFpKSRyXT0": {
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/SANCTUM%20ISLAND%20MAP%20L.O.L.zip",
+    "hero": "! Custom Map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/zaug3jh0fdj266535.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/zaug3jh0fdj266535.jpg",
+    "key": "! Custom Map-FFpKSRyXT0",
+    "skin_name": "League of Legend",
+    "sort": "8"
   }
 }
