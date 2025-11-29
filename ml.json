@@ -14362,5 +14362,14 @@
     "key": "Granger-QCbXYHqrHQ",
     "skin_name": "M7",
     "sort": "6"
+  },
+  "Granger-xRmaq3iRy1": {
+    "url": "https://github.com/Lioxmenthol/Sc-Fighter-2024/releases/download/1.0/GRANGER.PRIME.zip",
+    "hero": "Granger",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/1f6sw2oqljzi270129.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/1f6sw2oqljzi270129.jpg",
+    "key": "Granger-xRmaq3iRy1",
+    "skin_name": "Prime",
+    "sort": "7"
   }
 }
