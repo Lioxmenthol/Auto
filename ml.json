@@ -14380,5 +14380,14 @@
     "key": "Granger-2mGV5oMM9X",
     "skin_name": "Basic to Prime",
     "sort": "1"
+  },
+  "Granger-ES47im6imG": {
+    "url": "https://github.com/Lioxmenthol/Sc-Mage-2024/releases/download/1.0/GRANGER.ELITE.TO.PRIME.zip",
+    "hero": "Granger",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/0iqcpbtm9bp270376.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/0iqcpbtm9bp270376.jpg",
+    "key": "Granger-ES47im6imG",
+    "skin_name": "Elite to Prime",
+    "sort": "2"
   }
 }
