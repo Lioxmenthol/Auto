@@ -14389,5 +14389,14 @@
     "key": "Granger-ES47im6imG",
     "skin_name": "Elite to Prime",
     "sort": "2"
+  },
+  "Granger-snLlB8QZ5L": {
+    "url": "https://github.com/Lioxmenthol/Sc-Tank-2024/releases/download/1.0/GRANGER.LIGHTBORN.TO.PRIME.zip",
+    "hero": "Granger",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/bs0fcup6wqh270377.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/bs0fcup6wqh270377.jpg",
+    "key": "Granger-snLlB8QZ5L",
+    "skin_name": "Lightborn to Prime",
+    "sort": "3"
   }
 }
