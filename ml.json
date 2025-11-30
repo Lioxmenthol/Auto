@@ -14488,5 +14488,14 @@
     "key": "Saber-rOwBiTdfQw",
     "skin_name": "Venom",
     "sort": "6"
+  },
+  "Granger-81f4sdV1qX": {
+    "url": "https://github.com/Lioxmenthol/Sc-Support-2024/releases/download/1.0/GRANGER.BASIC.TO.M7.zip",
+    "hero": "Granger",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/n91b5geo2e8271785.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/n91b5geo2e8271785.jpg",
+    "key": "Granger-81f4sdV1qX",
+    "skin_name": "Basic to M7",
+    "sort": "7"
   }
 }
