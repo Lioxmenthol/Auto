@@ -14560,5 +14560,14 @@
     "key": "! All Custom-Fg11zy887r",
     "skin_name": "Set High ~ Sanctum Island ~ Tol",
     "sort": "2"
+  },
+  "! All Custom-LTTBGnQWnV": {
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20SNOW%20V2%20SANCTUM.zip",
+    "hero": "! All Custom",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/8xeuvgam63w266517.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/SC-ASSASIN-2025/main/temp/8xeuvgam63w266517.jpg",
+    "key": "! All Custom-LTTBGnQWnV",
+    "skin_name": "Set Medium ~ Sanctum Island ~ Snow",
+    "sort": "3"
   }
 }
