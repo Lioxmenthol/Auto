@@ -15739,5 +15739,14 @@
     "key": "Yu Zhong-I53stRgxe1",
     "skin_name": "Allstar",
     "sort": "1"
+  },
+  "Yu Zhong-X34Zo0HQel": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/yz%20basic%20to%20allstar.zip",
+    "hero": "Yu Zhong",
+    "img": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/20260404_214226.jpg",
+    "img2": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/raw/refs/heads/main/20260404_214226.jpg",
+    "key": "Yu Zhong-X34Zo0HQel",
+    "skin_name": "Basic to Allstar",
+    "sort": "2"
   }
 }
