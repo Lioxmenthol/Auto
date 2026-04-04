@@ -15730,5 +15730,14 @@
     "key": "Alucard-4hYY3VUYPR",
     "skin_name": "Rimuru Tempest",
     "sort": "1"
+  },
+  "Yu Zhong-I53stRgxe1": {
+    "url": "https://github.com/Lioxmenthol/Auto/raw/refs/heads/main/yz%20allstar.zip",
+    "hero": "Yu Zhong",
+    "img": "https://github.com/Lioxmenthol/Auto/raw/refs/heads/main/Screenshot_20260404-213936.jpg",
+    "img2": "https://github.com/Lioxmenthol/Auto/raw/refs/heads/main/Screenshot_20260404-213936.jpg",
+    "key": "Yu Zhong-I53stRgxe1",
+    "skin_name": "Allstar",
+    "sort": "1"
   }
 }
