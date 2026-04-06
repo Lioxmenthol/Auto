@@ -15829,5 +15829,14 @@
     "key": "Alpha-JXGj328xgO",
     "skin_name": "Luckybox",
     "sort": "8"
+  },
+  "Ling-yIRMkgSwMe": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775486680765_ling%20allstar.zip",
+    "hero": "Ling",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775486680526_Screenshot_20260404-214050.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775486680526_Screenshot_20260404-214050.jpg",
+    "key": "Ling-yIRMkgSwMe",
+    "skin_name": "Allstar",
+    "sort": "9"
   }
 }
