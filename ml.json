@@ -15802,5 +15802,14 @@
     "key": "Martis-gneA10Qhpw",
     "skin_name": "Epic",
     "sort": "5"
+  },
+  "Lesley-0A4wDDACjh": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775488567219_LESLEY%20LEGEND%20REVAMP.zip",
+    "hero": "Lesley",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775488566757_Screenshot_20260406-231453.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775488566757_Screenshot_20260406-231453.jpg",
+    "key": "Lesley-0A4wDDACjh",
+    "skin_name": "Legend Revamp",
+    "sort": "6"
   }
 }
