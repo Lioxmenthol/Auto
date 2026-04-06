@@ -15820,5 +15820,14 @@
     "key": "Alpha-S86b7xcyfR",
     "skin_name": "Epic",
     "sort": "7"
+  },
+  "Alpha-JXGj328xgO": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775489172605_ALPHA%20LUCKYBOX.zip",
+    "hero": "Alpha",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775489172476_Screenshot_20260406-232443.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775489172476_Screenshot_20260406-232443.jpg",
+    "key": "Alpha-JXGj328xgO",
+    "skin_name": "Luckybox",
+    "sort": "8"
   }
 }
