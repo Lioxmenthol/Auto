@@ -15748,5 +15748,14 @@
     "key": "Yu Zhong-X34Zo0HQel",
     "skin_name": "Basic to Allstar",
     "sort": "2"
+  },
+  "Ling-ARX6WeCl1E": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775486680765_ling%20allstar.zip",
+    "hero": "Ling",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775486680526_Screenshot_20260404-214050.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775486680526_Screenshot_20260404-214050.jpg",
+    "key": "Ling-ARX6WeCl1E",
+    "skin_name": "Allstar",
+    "sort": "0"
   }
 }
