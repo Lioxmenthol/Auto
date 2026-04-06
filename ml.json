@@ -15784,5 +15784,14 @@
     "key": "Alice-zFdwRODslR",
     "skin_name": "Collector",
     "sort": "3"
+  },
+  "Ling-Qayq2ShI5e": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775488183852_LING%20COLLECTOR%20REVAMP.zip",
+    "hero": "Ling",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775488183607_Screenshot_20260406-230931.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775488183607_Screenshot_20260406-230931.jpg",
+    "key": "Ling-Qayq2ShI5e",
+    "skin_name": "Collector Revamp",
+    "sort": "4"
   }
 }
