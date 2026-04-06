@@ -15766,5 +15766,14 @@
     "key": "Parsha-LaU8nXlvZt",
     "skin_name": "Allstar",
     "sort": "1"
+  },
+  "Obsidia-9N7PM5SOjS": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775487338494_OBSIDIA%20STARLIGHT.zip",
+    "hero": "Obsidia",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775487338390_Screenshot_20260406-225459.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775487338390_Screenshot_20260406-225459.jpg",
+    "key": "Obsidia-9N7PM5SOjS",
+    "skin_name": "Starlight",
+    "sort": "2"
   }
 }
