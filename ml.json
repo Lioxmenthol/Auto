@@ -15793,5 +15793,14 @@
     "key": "Ling-Qayq2ShI5e",
     "skin_name": "Collector Revamp",
     "sort": "4"
+  },
+  "Martis-gneA10Qhpw": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775488334107_MARTIS%20EPIC.zip",
+    "hero": "Martis",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775488333990_Screenshot_20260406-231205.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775488333990_Screenshot_20260406-231205.jpg",
+    "key": "Martis-gneA10Qhpw",
+    "skin_name": "Epic",
+    "sort": "5"
   }
 }
