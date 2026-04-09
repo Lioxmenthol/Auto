@@ -15766,5 +15766,14 @@
     "key": "Sun-fkC0AWmCKj",
     "skin_name": "Special to Annual Starlight",
     "sort": "1"
+  },
+  "Sun-9YwMy4HENk": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775717497965_SUN%20ROCKSTAR%20TO%20ANNUAL%20STAR.zip",
+    "hero": "Sun",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775717497763_20260409_145111.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1775717497763_20260409_145111.jpg",
+    "key": "Sun-9YwMy4HENk",
+    "skin_name": "Rockstar to Annual Starlight",
+    "sort": "2"
   }
 }
