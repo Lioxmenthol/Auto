@@ -15811,5 +15811,14 @@
     "key": "Benedetta-vmTmtAYxWU",
     "skin_name": "Maki Zenin",
     "sort": "3"
+  },
+  "Benedetta-blgXSiVxHf": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776364690757_BASIC%20BENED%20TO%20MAKI%20ZENIN.zip",
+    "hero": "Benedetta",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776364690668_20260417_023001.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776364690668_20260417_023001.jpg",
+    "key": "Benedetta-blgXSiVxHf",
+    "skin_name": "Basic to Maki Zenin",
+    "sort": "4"
   }
 }
