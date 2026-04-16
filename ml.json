@@ -15802,5 +15802,14 @@
     "key": "Fredrin-l23fj589kO",
     "skin_name": "Basic to Toji Fushiguro",
     "sort": "2"
+  },
+  "Benedetta-vmTmtAYxWU": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776364590704_BENEDETTA%20X%20MAKI%20ZENIN.zip",
+    "hero": "Benedetta",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776364590643_Screenshot_20260417-022552.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776364590643_Screenshot_20260417-022552.jpg",
+    "key": "Benedetta-vmTmtAYxWU",
+    "skin_name": "Maki Zenin",
+    "sort": "3"
   }
 }
