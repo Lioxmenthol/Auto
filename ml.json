@@ -15793,5 +15793,14 @@
     "key": "Fredrin-Yw0tAAtbB6",
     "skin_name": "Toji Fushiguro",
     "sort": "1"
+  },
+  "Fredrin-l23fj589kO": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776364405275_BASIC%20FREDRINN%20TO%20TOJI.zip",
+    "hero": "Fredrin",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776364405152_20260417_022854.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776364405152_20260417_022854.jpg",
+    "key": "Fredrin-l23fj589kO",
+    "skin_name": "Basic to Toji Fushiguro",
+    "sort": "2"
   }
 }
