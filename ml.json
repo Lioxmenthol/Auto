@@ -15820,5 +15820,14 @@
     "key": "Benedetta-blgXSiVxHf",
     "skin_name": "Basic to Maki Zenin",
     "sort": "4"
+  },
+  "Alucard-FWGir2J6jr": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776641566775_ALUCARD%20SEASON%20TO%20LB.zip",
+    "hero": "Alucard",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776641566634_20260419_205502.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776641566634_20260419_205502.jpg",
+    "key": "Alucard-FWGir2J6jr",
+    "skin_name": "Season to Lightborn",
+    "sort": "1"
   }
 }
