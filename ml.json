@@ -15838,5 +15838,14 @@
     "key": "Eudora-aLjDwcMX5O",
     "skin_name": "Luckybox",
     "sort": "1"
+  },
+  "Eudora-YrmEILQwd3": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776857436964_EUDORA%20ATOMIC%20POP.zip",
+    "hero": "Eudora",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776857436716_Screenshot_20260422-192842.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776857436716_Screenshot_20260422-192842.jpg",
+    "key": "Eudora-YrmEILQwd3",
+    "skin_name": "Atomic Pop",
+    "sort": "2"
   }
 }
