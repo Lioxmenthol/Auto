@@ -15829,5 +15829,14 @@
     "key": "Alucard-FWGir2J6jr",
     "skin_name": "Season to Lightborn",
     "sort": "1"
+  },
+  "Eudora-aLjDwcMX5O": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776857349939_EUDORA%20LUCKYBOX.zip",
+    "hero": "Eudora",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776857349765_Screenshot_20260422-192804.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1776857349765_Screenshot_20260422-192804.jpg",
+    "key": "Eudora-aLjDwcMX5O",
+    "skin_name": "Luckybox",
+    "sort": "1"
   }
 }
