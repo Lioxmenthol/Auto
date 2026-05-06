@@ -15838,5 +15838,14 @@
     "key": "Aurora-9rLo2Yz2rf",
     "skin_name": "Epic",
     "sort": "1"
+  },
+  "Sun-QjLLfFtjsR": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1778079356054_SUN%20STREET%20LEGEND%20TO%20ANNUAL%20STARLIGHT.zip",
+    "hero": "Sun",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1778079355927_20260506_225500.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1778079355927_20260506_225500.jpg",
+    "key": "Sun-QjLLfFtjsR",
+    "skin_name": "Street Legend to Annual Starlight",
+    "sort": "2"
   }
 }
