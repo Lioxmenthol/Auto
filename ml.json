@@ -15802,5 +15802,14 @@
     "key": "Argus-jdagr8SlOk",
     "skin_name": "Byakuya Kuchiki",
     "sort": "1"
+  },
+  "Argus-OEymrceVJf": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1778051573625_ARGUS%20X%20TOJI%20FUSHIGORU%20V2.zip",
+    "hero": "Argus",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1778051573494_Screenshot_20260417-022731.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1778051573494_Screenshot_20260417-022731.jpg",
+    "key": "Argus-OEymrceVJf",
+    "skin_name": "Toji Fushigoru",
+    "sort": "2"
   }
 }
