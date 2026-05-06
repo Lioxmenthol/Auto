@@ -15811,5 +15811,14 @@
     "key": "Argus-OEymrceVJf",
     "skin_name": "Toji Fushigoru",
     "sort": "2"
+  },
+  "Chou-yHokszoPfa": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1778052157190_CHOU%20X%20SANJI%20NEW.zip",
+    "hero": "Chou",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1778052157068_Screenshot_20260506-152027.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1778052157068_Screenshot_20260506-152027.jpg",
+    "key": "Chou-yHokszoPfa",
+    "skin_name": "Sanji",
+    "sort": "3"
   }
 }
