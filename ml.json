@@ -15919,5 +15919,14 @@
     "key": "! All Intro-KRuAYKCrc6",
     "skin_name": "Backup",
     "sort": "0"
+  },
+  "! All Intro-J4Eydr4oH0": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Intro/1767367372526_CeCan.zip",
+    "hero": "! All Intro",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Intro/1767367372357_Screenshot_20260102-225425.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Intro/1767367372357_Screenshot_20260102-225425.jpg",
+    "key": "! All Intro-J4Eydr4oH0",
+    "skin_name": "CeCan",
+    "sort": "1"
   }
 }
