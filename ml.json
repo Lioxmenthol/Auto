@@ -15901,5 +15901,14 @@
     "key": "! All Joystick-1NH2TGQQQd",
     "skin_name": "Backup",
     "sort": "0"
+  },
+  "! All Joystick-rKsRFEMP9D": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Joystick/1767280630326_JOYSTICK%20NAKANO%20NINO.zip",
+    "hero": "! All Joystick",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Joystick/1767280630275_20251226_211813.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Joystick/1767280630275_20251226_211813.jpg",
+    "key": "! All Joystick-rKsRFEMP9D",
+    "skin_name": "Nakano Nino",
+    "sort": "1"
   }
 }
