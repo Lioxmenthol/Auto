@@ -15928,5 +15928,14 @@
     "key": "! All Intro-J4Eydr4oH0",
     "skin_name": "CeCan",
     "sort": "1"
+  },
+  "! All Emote-LVwYBOd1q4": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Emote/1767343869939_delete%20emoji.zip",
+    "hero": "! All Emote",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Emote/1767343869877_20260102_011922.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Emote/1767343869877_20260102_011922.jpg",
+    "key": "! All Emote-LVwYBOd1q4",
+    "skin_name": "Backup",
+    "sort": "0"
   }
 }
