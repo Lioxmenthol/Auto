@@ -15892,5 +15892,14 @@
     "key": "! All Map-sw6dhmm77V",
     "skin_name": "League of Legend",
     "sort": "1"
+  },
+  "! All Joystick-1NH2TGQQQd": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Joystick/1767288553816_BACKUP%20JOYSTICK.zip",
+    "hero": "! All Joystick",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Joystick/1767323389184_20260102_011806.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Joystick/1767323389184_20260102_011806.jpg",
+    "key": "! All Joystick-1NH2TGQQQd",
+    "skin_name": "Backup",
+    "sort": "0"
   }
 }
