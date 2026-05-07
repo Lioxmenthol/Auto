@@ -15883,5 +15883,14 @@
     "key": "! All Map-fMqxznm1HG",
     "skin_name": "Backup",
     "sort": "0"
+  },
+  "! All Map-sw6dhmm77V": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1767455290402_MAP%20LEAGUE%20OF%20LEGEND.zip",
+    "hero": "! All Map",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1767455290000_IMG-20260103-WA0028.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1767455290000_IMG-20260103-WA0028.jpg",
+    "key": "! All Map-sw6dhmm77V",
+    "skin_name": "League of Legend",
+    "sort": "1"
   }
 }
