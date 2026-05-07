@@ -15910,5 +15910,14 @@
     "key": "! All Joystick-rKsRFEMP9D",
     "skin_name": "Nakano Nino",
     "sort": "1"
+  },
+  "! All Intro-KRuAYKCrc6": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Intro/1767288288975_BACKUP%20INTRO.zip",
+    "hero": "! All Intro",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Intro/1767323349377_20260102_011726.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Intro/1767323349377_20260102_011726.jpg",
+    "key": "! All Intro-KRuAYKCrc6",
+    "skin_name": "Backup",
+    "sort": "0"
   }
 }
