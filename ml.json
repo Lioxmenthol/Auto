@@ -15964,5 +15964,14 @@
     "key": "Leomord-RYOi7VXT3w",
     "skin_name": "Flying Dutchman",
     "sort": "1"
+  },
+  "Alucard-TBJGJQiTYt": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1779703323641_Alu%20x%20Cid%20Kagenou.zip",
+    "hero": "Alucard",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1779703323516_Screenshot_20260525-180120.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1779703323516_Screenshot_20260525-180120.jpg",
+    "key": "Alucard-TBJGJQiTYt",
+    "skin_name": "Cid Kagenou",
+    "sort": "1"
   }
 }
