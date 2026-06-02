@@ -16090,5 +16090,14 @@
     "key": "Chou-R5kN8AHF4F",
     "skin_name": "Ken V1",
     "sort": "1"
+  },
+  "Chou-2H30ll5jB9": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1780416633850_CHOU%20KEN%20V2.zip",
+    "hero": "Chou",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1780416633437_Screenshot_20260603-000214.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1780416633437_Screenshot_20260603-000214.jpg",
+    "key": "Chou-2H30ll5jB9",
+    "skin_name": "Ken V2",
+    "sort": "2"
   }
 }
