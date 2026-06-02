@@ -16081,5 +16081,14 @@
     "key": "Guinevere-e5LECFq68R",
     "skin_name": "Chun Li",
     "sort": "11"
+  },
+  "Chou-R5kN8AHF4F": {
+    "url": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1780416436954_CHOU%20KEN%20V1.zip",
+    "hero": "Chou",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1780416436593_Screenshot_20260603-000450.jpg",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/uploads/Preview%20Map/1780416436593_Screenshot_20260603-000450.jpg",
+    "key": "Chou-R5kN8AHF4F",
+    "skin_name": "Ken V1",
+    "sort": "1"
   }
 }
