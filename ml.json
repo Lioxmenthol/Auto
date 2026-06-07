@@ -16450,5 +16450,14 @@
     "key": "! All Recall-8jXLPfDGMG",
     "skin_name": "Alucard Legend",
     "sort": "12"
+  },
+  "! All Recall-jUynH3Rfmq": {
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437210559_franco%20legend.zip",
+    "hero": "! All Recall",
+    "img": "https://github.com/lanz132/1.74/raw/main/R9.jpg",
+    "img2": "https://github.com/lanz132/1.74/raw/main/R9.jpg",
+    "key": "! All Recall-jUynH3Rfmq",
+    "skin_name": "Franco Legend",
+    "sort": "13"
   }
 }
