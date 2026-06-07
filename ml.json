@@ -16414,5 +16414,14 @@
     "key": "! All Recall-PrSkd7XV9t",
     "skin_name": "Seal Internal",
     "sort": "8"
+  },
+  "! All Recall-JWT3rYllFZ": {
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437021255_fire%20crown.zip",
+    "hero": "! All Recall",
+    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/33.jpg",
+    "img2": "https://github.com/lanz132/RECALL-IMG/raw/main/33.jpg",
+    "key": "! All Recall-JWT3rYllFZ",
+    "skin_name": "Fire Crown",
+    "sort": "9"
   }
 }
