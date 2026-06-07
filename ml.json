@@ -16630,5 +16630,14 @@
     "key": "! All Trail-Uoz9OVVG2u",
     "skin_name": "Edith Ancient Warden",
     "sort": "32"
+  },
+  "! All Emote-ZQe4CNt4Ia": {
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767631153326_EMOTE%20DYROT%20CRYING.zip",
+    "hero": "! All Emote",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767631153279_IMG_20260106_003717_378.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767631153279_IMG_20260106_003717_378.jpg",
+    "key": "! All Emote-ZQe4CNt4Ia",
+    "skin_name": "Crying",
+    "sort": "33"
   }
 }
