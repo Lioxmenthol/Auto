@@ -16423,5 +16423,14 @@
     "key": "! All Recall-JWT3rYllFZ",
     "skin_name": "Fire Crown",
     "sort": "9"
+  },
+  "! All Recall-YBfmsyE6vv": {
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437058653_Exorcist.zip",
+    "hero": "! All Recall",
+    "img": "https://github.com/lanz132/1.74/raw/main/R5.jpg",
+    "img2": "https://github.com/lanz132/1.74/raw/main/R5.jpg",
+    "key": "! All Recall-YBfmsyE6vv",
+    "skin_name": "Exorcist",
+    "sort": "10"
   }
 }
