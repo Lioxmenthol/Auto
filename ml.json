@@ -16441,5 +16441,14 @@
     "key": "! All Recall-eF6z9aKduv",
     "skin_name": "Kishin Densetsu",
     "sort": "11"
+  },
+  "! All Recall-8jXLPfDGMG": {
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437181267_Alucard%20legend.zip",
+    "hero": "! All Recall",
+    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/7.jpg",
+    "img2": "https://github.com/lanz132/RECALL-IMG/raw/main/7.jpg",
+    "key": "! All Recall-8jXLPfDGMG",
+    "skin_name": "Alucard Legend",
+    "sort": "12"
   }
 }
