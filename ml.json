@@ -16495,5 +16495,14 @@
     "key": "! All Recall-E4p13uUCQW",
     "skin_name": "Saber Legend",
     "sort": "17"
+  },
+  "! All Recall-RlhoIRjhDc": {
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437419201_miya%20legend.zip",
+    "hero": "! All Recall",
+    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/4.jpg",
+    "img2": "https://github.com/lanz132/RECALL-IMG/raw/main/4.jpg",
+    "key": "! All Recall-RlhoIRjhDc",
+    "skin_name": "Miya Legend",
+    "sort": "18"
   }
 }
