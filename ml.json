@@ -17935,5 +17935,14 @@
     "key": "Obsidia-G9x5281ryu",
     "skin_name": "Aspirant",
     "sort": "6"
+  },
+  "Obsidia-QTDCmjNc8R": {
+    "url": "https://github.com/Lioxmenthol/SC-FIGHTER-2025/releases/download/Obsidia_Basic_to_Aspirant/OBSIDIA.BASIC.TO.ASPIRANT.zip",
+    "hero": "Obsidia",
+    "img": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/trlu4gv5bu588951.jpg",
+    "img2": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/trlu4gv5bu588951.jpg",
+    "key": "Obsidia-QTDCmjNc8R",
+    "skin_name": "Basic to Aspirant",
+    "sort": "7"
   }
 }
