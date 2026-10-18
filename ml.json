@@ -20652,13 +20652,13 @@
     "originalKey": "Bane-1792254717454",
     "sortNumeric": 13
   },
-  "Suyou-1792339652541": {
+  "Suyou-1792339697635": {
     "hero": "Suyou",
     "type": "Skin",
-    "skin_name": "Starlight",
-    "img": "https://raw.githubusercontent.com/Lioxmenthol/Auto/main/uploads/Suyou/1792339634637_622266.jpg",
-    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto/main/uploads/Suyou/1792339634637_622266.jpg",
-    "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto/main/uploads/Suyou/1792339638413_SUYOU%20STARLIGHT.zip",
+    "skin_name": "Basic to Starlight",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Auto/main/uploads/Suyou/1792339680378_622267.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Auto/main/uploads/Suyou/1792339680378_622267.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Auto/main/uploads/Suyou/1792339683564_SUYOU%20BASIC%20TO%20STAR.zip",
     "sort": "25"
   }
 }
